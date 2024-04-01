@@ -34,7 +34,23 @@ fig, ax = plt.subplots(figsize=(10, 6))
 agent_lines = []
 customer_lines = []
 for index, row in data.iterrows():
-    line, = plt.plot([time/60, time/60], [-row['Duration']/2, row['Duration']/2], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label="Timestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))))#label=row['Text'
+    if row['Speaker'] == 'A':
+        person = "Customer"
+    else:
+        person = "Agent"
+    sentence = ''
+    col = 1
+    for c in row['Text']:
+        sentence = sentence + c
+        if col % 20 == 0:
+            if c == ' ':
+                sentence = sentence + '\n'
+                col = 1
+            else:
+                col = 20
+        else:
+            col = col + 1
+    line, = plt.plot([time/60, time/60], [-row['Duration']/2, row['Duration']/2], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
     time += row['Duration']
     if row['Speaker'] == 'A':
         customer_lines.append(line)
@@ -46,8 +62,8 @@ cursor = mplcursors.cursor(hover=True)
 @cursor.connect("add")
 def on_add(sel):
     sel.annotation.set_text(sel.artist.get_label())
-    sel.annotation.get_bbox_patch().set(fc="white")
-    sel.annotation.arrow_patch.set(arrowstyle="simple", fc="white", alpha=.5)
+    sel.annotation.get_bbox_patch().set(fc="white", alpha=1)
+    sel.annotation.arrow_patch.set(arrowstyle="simple", fc="white", alpha=1)
 
 # tick calculations
 time =[]
