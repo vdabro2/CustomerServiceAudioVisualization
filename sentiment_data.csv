@@ -1,0 +1,259 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,I still have not received my order.,1.674,A,NEGATIVE
+2,"You said I would receive it on the 20th, so the 22nd.",3.272,A,NEUTRAL
+3,Still nothing.,1.004,A,NEGATIVE
+4,"I don't know what's going on, but if it's not too much of a bother to you, I would really, really now, love to get what I paid for.",6.448,A,NEUTRAL
+5,You know what I mean?,0.592,A,NEUTRAL
+6,Okay.,0.376,A,NEUTRAL
+7,May I have the order number and your first name?,2.388,B,NEUTRAL
+8,498.,1.112,A,NEUTRAL
+9,4977.,1.712,A,NEUTRAL
+10,Tabitha ratched.,1.956,A,NEUTRAL
+11,Thank you.,0.856,B,POSITIVE
+12,Let me just check that here.,2.602,B,NEUTRAL
+13,"I mean, it's ridiculous.",1.144,A,NEGATIVE
+14,"If there's a delay, you could just tell me.",1.52,A,NEUTRAL
+15,It's not like you don't have my email or anything.,1.928,A,NEUTRAL
+16,"You didn't notify me at all if I forgot that I'd ordered it, which, by the way, happens sometimes, then I'd completely be paying for nothing.",6.88,A,NEGATIVE
+17,"One moment, please, while I check your order status.",2.724,B,NEUTRAL
+18,Unbelievable.,1.312,A,NEGATIVE
+19,Are you even listening to me?,1.528,A,NEGATIVE
+20,I am.,0.632,B,NEUTRAL
+21,That's why I'm gonna check the status for you.,2.16,B,NEUTRAL
+22,Okay?,0.724,A,NEUTRAL
+23,"Okay, fine.",1.904,A,NEUTRAL
+24,Go ahead.,0.816,A,NEUTRAL
+25,Thank you.,0.956,B,POSITIVE
+26,Let me see.,1.18,B,NEUTRAL
+27,"Okay, according to the FedEx note here, your parcel was delivered on the 20th at 10:00 a.m. And it was left on the front porch, according to the notes.",9.3,B,NEUTRAL
+28,What?,0.74,A,NEUTRAL
+29,"You're kidding, right?",1.42,A,NEUTRAL
+30,"Okay, okay.",1.328,A,NEUTRAL
+31,"First of all, my apartment has no front porch.",3.716,A,NEGATIVE
+32,"Second, the only way to deliver parcels in a residence is by leaving them to the concierge.",5.216,A,NEUTRAL
+33,That's it.,1.168,A,NEUTRAL
+34,"Third, I was at home the whole day on the 20th, and no one, literally no one knocked on my door or called my number to notify me of a parcel.",11.28,A,NEGATIVE
+35,"So whatever this FedEx guy is saying, he's lying, okay?",4.752,A,NEGATIVE
+36,He's lying.,0.592,A,NEGATIVE
+37,"Have you tried checking with the building's concierge to see if they have kept a package for you, or.",5.72,B,NEUTRAL
+38,"I just checked this morning, and the answer is no, there's no parcel.",4.94,A,NEUTRAL
+39,"Otherwise, it would have been calling you.",1.96,A,NEUTRAL
+40,How about your neighbors?,0.976,B,NEUTRAL
+41,Have you checked with them to see if they received your parcel?,2.528,B,NEUTRAL
+42,Just.,0.456,A,NEUTRAL
+43,Just what line of questioning is this?,2.616,A,NEUTRAL
+44,Are you saying that my neighbor stole my parcel?,2.072,A,NEGATIVE
+45,"No, no, no.",0.872,B,NEGATIVE
+46,I'm not saying that.,0.712,B,NEUTRAL
+47,What I'm saying is they might have received your parcel while you were away.,4.172,B,NEUTRAL
+48,You're not listening to me.,1.124,A,NEGATIVE
+49,"I told you, I was in the apartment the entire fucking day.",2.4,A,NEGATIVE
+50,"If someone delivered a parcel, the concierge would have received it by now.",3.32,A,NEUTRAL
+51,"Second, and I repeat, the only way we receive parcels here is through the concierge.",4.68,A,NEUTRAL
+52,Nothing else.,0.912,A,NEUTRAL
+53,"No front porch, no neighbors.",2.0,A,NEUTRAL
+54,We're even asking about my neighbors.,1.392,A,NEUTRAL
+55,They have nothing to do with this.,1.392,A,NEGATIVE
+56,And shouldn't you be questioning the fact that FedEx said I have a front porch when I clearly don't.,4.676,A,NEGATIVE
+57,"Tabitha, I'm just doing my job.",2.432,B,NEUTRAL
+58,This is a standard protocol.,1.44,B,NEUTRAL
+59,We have to make sure that the receiver has checked all the possible places the parcel could have been delivered.,5.272,B,NEUTRAL
+60,"I know, but do your job right.",2.336,A,NEUTRAL
+61,You're not even trying.,1.292,A,NEGATIVE
+62,"I've been spending my time here listening to you and the only thing you're doing so far is asking me dumb questions like, what kind of service is this?",6.768,A,NEGATIVE
+63,I just want to get what I paid for.,1.368,A,NEUTRAL
+64,Is that so wrong to ask?,1.604,A,NEUTRAL
+65,"Please calm down, Tabitha.",2.056,B,NEUTRAL
+66,I'm here to help you.,1.216,B,POSITIVE
+67,Then help me.,1.064,A,NEUTRAL
+68,"And for God's sake, do it.",1.248,A,NEUTRAL
+69,"Well, Jesus Christ.",2.012,A,NEUTRAL
+70,"Okay, tabitha, I'm sorry that this happened to you, but.",3.88,B,NEGATIVE
+71,"Oh, yes, I bet you are.",1.46,A,POSITIVE
+72,"Okay, for us to resolve this, I will send you an email.",3.28,B,NEUTRAL
+73,Please reply to that email to confirm in writing that you did not receive the parcel.,5.84,B,NEUTRAL
+74,After that.,0.98,B,NEUTRAL
+75,I'm already talking to you.,1.176,A,NEUTRAL
+76,What do you need me to email you for?,1.648,A,NEUTRAL
+77,"I'm telling you right now, I did not receive my parcel.",2.432,A,NEGATIVE
+78,So do something about it now.,1.82,A,NEUTRAL
+79,"It's not that simple, Tabitha.",1.576,B,NEUTRAL
+80,You have to confirm in writing because that's what we're going to show FedEx so they can begin the investigation.,6.092,B,NEUTRAL
+81,So this is necessary to prove that we are not making this all up.,5.28,B,NEUTRAL
+82,"Once a claim is filed, we will investigate.",2.416,B,NEUTRAL
+83,"And depending on the investigation, it will take around seven business days.",5.584,B,NEUTRAL
+84,And then we can refund or replace or find your missing parcel.,4.484,B,NEUTRAL
+85,Or I could just file a dispute and get my money back.,2.528,A,NEUTRAL
+86,"You know that I'm being nice right now, right?",1.824,A,POSITIVE
+87,I am contacting you first when I could just have phoned my bank and mark you as fraud in an instant.,5.394,A,NEGATIVE
+88,"You know that, right?",1.236,A,NEUTRAL
+89,I wouldn't recommend that as that might poorly reflect on your credit score.,3.936,B,NEGATIVE
+90,"Especially that it shows delivered, you know?",2.808,B,NEUTRAL
+91,So the best option I recommend is to let us file a claim on your behalf.,3.528,B,POSITIVE
+92,That's what I recommend.,1.292,B,POSITIVE
+93,"You know what, with the ridiculousness of the situation, I can't even bring myself to be mad anymore.",5.328,A,NEGATIVE
+94,"Like, what is the point anyway?",1.488,A,NEUTRAL
+95,You basically have the emotional intelligence of a peanuts.,2.86,A,NEGATIVE
+96,"So I envy you, that's for sure.",2.552,A,POSITIVE
+97,"Okay, so how would you like to proceed?",3.14,B,NEUTRAL
+98,"Well, it's not like I have a choice.",1.856,A,NEUTRAL
+99,Take care of it.,0.984,A,NEUTRAL
+100,Deal with Fedex.,1.104,A,NEUTRAL
+101,I didn't pay you to make me file the claim myself.,2.5,A,NEGATIVE
+102,So.,0.74,A,NEUTRAL
+103,Okay.,0.52,B,NEUTRAL
+104,"So after you confirm through email that you did not receive your parcel, I will file a PDNR for you.",6.1,B,NEGATIVE
+105,What?,0.648,A,NEUTRAL
+106,"PD and R. It means parcel delivered, not received.",2.848,B,NEGATIVE
+107,And it will take.,1.08,B,NEUTRAL
+108,It will take five to seven business days.,2.368,B,NEUTRAL
+109,"Okay, what happens if the parcel isn't found?",2.624,A,NEGATIVE
+110,Is the replacement available in your warehouse?,2.008,A,NEUTRAL
+111,I need a replacement for that.,1.12,A,NEGATIVE
+112,I don't want a refund.,1.164,A,NEGATIVE
+113,"Well, since this is a drop ship item, we don't have the item in stock in a warehouse, so I would first have to check with the drop ship team for its availability.",8.176,B,NEUTRAL
+114,"But, yes, I will take note of that.",1.304,B,NEUTRAL
+115,What's a drop ship?,1.336,A,NEUTRAL
+116,"It means that the item is in another warehouse, and we don't have the inventory for it.",5.656,B,NEUTRAL
+117,So we will first coordinate with the supplier.,2.604,B,NEUTRAL
+118,You know what?,0.712,A,NEUTRAL
+119,You are making my head spin.,1.808,A,NEGATIVE
+120,So let me get this straight.,1.96,A,NEUTRAL
+121,"Seven business days for the investigation, and if not found, which is probably the case 99% of the time, you can check with the team if it's available.",9.084,A,NEUTRAL
+122,And then what?,1.136,A,NEUTRAL
+123,Another seven days to deliver the replacement?,2.12,A,NEUTRAL
+124,Yes.,0.448,B,POSITIVE
+125,Correct.,0.724,A,NEUTRAL
+126,Mm hmm.,1.02,A,NEUTRAL
+127,"Well, I tried to be nice to you guys, but it seems like you left me no other choice.",4.088,A,NEGATIVE
+128,"I will file a dispute, and I will never shop from your site again.",3.396,A,NEGATIVE
+129,"Tabitha, as much as I would like to help you, this is the best I can do for you.",3.656,B,POSITIVE
+130,I have to follow the company policy.,1.928,B,NEUTRAL
+131,"As I said, we can issue a replacement, but we first have to file a claim, and that will take five to seven business days.",6.792,B,NEUTRAL
+132,"If that is too long for you to wait, which I understand, I suggest that you place another order with a different shipping address while the investigation is ongoing.",9.096,B,NEUTRAL
+133,And we will just refund you for the first parcel.,2.04,B,NEUTRAL
+134,But we first have to wait for the claim.,1.824,B,NEUTRAL
+135,"Blah, blah, blah.",1.592,A,NEGATIVE
+136,"Just stop, okay?",1.152,A,NEUTRAL
+137,Just stop.,0.648,A,NEGATIVE
+138,I don't care anymore.,1.096,A,NEGATIVE
+139,I hope your company goes bankrupt and that no company will ever hire you again.,4.34,A,NEGATIVE
+140,"Your attitude has been pretty disgusting, condescending the moment you picked up a phone, and I cannot, cannot for the life of me imagine an employer who would want to hire you for that attitude.",10.646,A,NEGATIVE
+141,"Continue living your miserable life, and I'm just gonna go ahead and file that dispute.",4.288,A,NEGATIVE
+142,Bye bye.,0.892,A,NEUTRAL
+143,Thank you for calling quest.,0.976,B,POSITIVE
+144,"Sean, this is Candice.",0.936,B,NEUTRAL
+145,How may I help you?,1.136,B,NEUTRAL
+146,I still have not received my order.,1.916,A,NEGATIVE
+147,"You said I would receive it on the 20th, so the 22nd, still nothing.",4.42,A,NEUTRAL
+148,"I don't know what's going on, but if it's not too much of a bother to you, I would really, really now love to get what I paid for.",6.448,A,NEUTRAL
+149,You know what I mean?,1.152,A,NEUTRAL
+150,"Oh, if it's beyond the promised delivery date, we definitely need to look into that.",4.28,B,NEUTRAL
+151,May I have your order number and your full name so I can check for you?,2.904,B,NEUTRAL
+152,That's exactly what I'm thinking.,1.088,A,NEUTRAL
+153,"Like, I don't understand what's taking so long?",2.512,A,NEGATIVE
+154,"Anyway, the order number is 498 4977.",5.24,A,NEUTRAL
+155,And my name is Tabitha Ratched.,2.49,A,NEUTRAL
+156,"Thank you, Tabitha.",1.302,B,POSITIVE
+157,I will now go ahead and pull up your order and hopefully I can give you an immediate answer.,4.456,B,NEUTRAL
+158,"One moment, please.",1.1,B,NEUTRAL
+159,Go ahead.,0.664,A,NEUTRAL
+160,Thank you.,0.868,A,POSITIVE
+161,"Okay, like what you said, the estimated delivery date is on the 20th.",3.656,B,NEUTRAL
+162,It's now 22nd.,1.04,B,NEUTRAL
+163,So it's two days late.,1.796,B,NEGATIVE
+164,"Normally, when a parcel is late like this, we send an email informing you of the delay.",4.584,B,NEUTRAL
+165,So let me visit the FedEx website and track it.,4.148,B,NEUTRAL
+166,"Thank you, Candice.",0.784,A,POSITIVE
+167,That would be appreciated.,1.024,A,POSITIVE
+168,I actually haven't tried tracking it on the FedEx website since you already gave me the delivery date through email.,5.856,A,NEUTRAL
+169,So.,0.56,A,NEUTRAL
+170,"Yes, please go ahead.",1.804,A,POSITIVE
+171,Okay.,1.1,B,NEUTRAL
+172,"According to the FedEx note here, your parcel was delivered on the 20th at 10:00 a.m.",5.18,B,NEUTRAL
+173,It said that it was left on the front porch.,1.96,B,NEUTRAL
+174,Have you tried checking your front porch?,1.632,B,NEUTRAL
+175,What?,0.648,A,NEUTRAL
+176,What?,0.52,A,NEUTRAL
+177,What?,0.576,A,NEUTRAL
+178,"You're kidding, right?",1.14,A,NEUTRAL
+179,Okay.,0.724,A,NEUTRAL
+180,Okay.,0.56,A,NEUTRAL
+181,"First of all, my apartment has no front porch.",3.072,A,NEGATIVE
+182,"Second, the only way to deliver parcels in a residence is by leaving them to the concierge.",5.02,A,NEUTRAL
+183,"Third, I was at home the whole day on the 20th, and no one, literally no one, knocked on my door or called my number to notify me of a parcel.",9.992,A,NEGATIVE
+184,"So whatever this FedEx guy is saying, he's lying.",3.792,A,NEGATIVE
+185,Okay?,0.832,A,NEUTRAL
+186,He's lying.,0.864,A,NEGATIVE
+187,That's definitely odd.,1.184,B,NEGATIVE
+188,Have you tried checking with your building's concierge to see if they have kept a package for you?,4.368,B,NEUTRAL
+189,I just checked this morning and the answer is no.,1.856,A,NEUTRAL
+190,"Otherwise, I wouldn't be calling you.",1.9,A,NEGATIVE
+191,"Yeah, your neighbors also wouldn't happen to receive it, right?",3.968,B,NEGATIVE
+192,"Since, as you said, all parcels go to the concierge.",2.976,B,NEUTRAL
+193,Correct.,0.528,A,NEUTRAL
+194,"And if the note says he left it on my doorstep again, that's impossible.",3.72,A,NEGATIVE
+195,No one can access our doorsteps here except as tenants.,3.256,A,NEGATIVE
+196,So there's clearly a mistake here.,2.156,A,NEGATIVE
+197,"Yes, that makes sense.",1.98,B,POSITIVE
+198,"So here's what we're going to do, tabitha.",2.848,B,NEUTRAL
+199,It is likely that FedEx delivered the order to the wrong address.,3.976,B,NEGATIVE
+200,So I will file a PDNR claim on your behalf.,3.688,B,NEUTRAL
+201,"It means parcel delivered, not received.",2.596,B,NEGATIVE
+202,What this does is to let FedEx investigate to find your missing parcel.,4.304,B,NEUTRAL
+203,"And after the investigation, we will either refund, replace, or find your missing parcel.",6.208,B,NEUTRAL
+204,Okay?,0.814,A,NEUTRAL
+205,Yeah.,0.378,B,NEUTRAL
+206,"And for me to initiate the claim, I will send you an email right now.",3.688,B,NEUTRAL
+207,Please reply to that email confirming that you have not received your parcel.,4.476,B,NEGATIVE
+208,Your response to that email is very important because that will serve as the documentation proving to FedEx that you are requesting for us to file a claim on your behalf.,9.448,B,POSITIVE
+209,Okay.,0.328,B,NEUTRAL
+210,"Whatever happens, I'm gonna get my refund, though, right?",2.2,A,NEUTRAL
+211,"You're right, of course.",1.332,B,NEUTRAL
+212,"And the sooner they find your parcel, the better.",2.656,B,POSITIVE
+213,"By the way, in the event that the parcel isn't recovered, would you prefer a replacement or a refund?",6.136,B,NEUTRAL
+214,I need a replacement for that.,1.16,A,NEGATIVE
+215,I don't want a refund.,1.164,A,NEGATIVE
+216,Okay.,0.56,B,NEUTRAL
+217,I will make note of that.,1.82,B,NEUTRAL
+218,"And after the investigation, which usually takes five to seven business days, I will check with the supplier for its availability, and then they can process the replacement for you.",10.82,B,NEUTRAL
+219,Okay.,0.568,A,NEUTRAL
+220,"It's disappointing that this is to happen, but okay, whatever.",4.436,A,NEGATIVE
+221,At least I don't have to file a dispute.,1.672,A,NEUTRAL
+222,"To be honest, I was already thinking of calling my bank this morning and filing a dispute.",5.088,A,NEUTRAL
+223,"Yes, this is definitely not the experience that we want you to have, but we will try our best to make this as easy as possible for you, considering the situation.",10.788,B,NEUTRAL
+224,I will also keep this case in progress.,2.904,B,NEUTRAL
+225,"So whatever questions you might have during the investigation, you just reply to the same email thread and I will be there to answer your questions.",8.098,B,NEUTRAL
+226,"So, let me get this straight.",1.58,A,NEUTRAL
+227,"Seven business days for the investigation, and if it isn't found, you're going to check with the team if it's available.",4.68,A,NEUTRAL
+228,"And if it's available, another seven days to deliver the replacement?",3.66,A,NEUTRAL
+229,"Yes, Tabitha, that's correct.",1.624,B,POSITIVE
+230,"But of course, if they find the parcel during the investigation, then you don't need to wait that long.",5.592,B,NEUTRAL
+231,That's already the maximum timeframe.,2.628,B,NEUTRAL
+232,"Yeah, well, I hope they do, but I honestly don't have much hope for it.",3.704,A,NEGATIVE
+233,But.,0.32,A,NEUTRAL
+234,Okay.,0.6,A,NEUTRAL
+235,"Replacement's fine, I guess.",1.772,A,NEUTRAL
+236,Okay.,0.432,B,NEUTRAL
+237,Yeah.,0.2,A,NEUTRAL
+238,I cannot guarantee that 100% that they would find your missing parcel.,4.536,B,NEGATIVE
+239,But there have been cases in the past when they did find the missing parcel.,4.576,B,NEUTRAL
+240,"And I will, of course, update you throughout the process.",4.316,B,NEUTRAL
+241,"Okay, so I guess that's my best option.",2.096,A,POSITIVE
+242,What do you need me to do?,1.08,A,NEUTRAL
+243,Just reply to your email saying that I didn't receive the parcel?,3.104,A,NEGATIVE
+244,That's correct.,0.744,B,NEUTRAL
+245,I have just sent you the email.,1.556,B,NEUTRAL
+246,"All right, I will reply in five minutes.",1.872,A,NEUTRAL
+247,I'm gonna have my lunch break.,1.168,A,NEUTRAL
+248,What's your name again?,0.92,A,NEUTRAL
+249,Candice.,0.804,B,NEUTRAL
+250,"All right, Candice.",0.944,A,NEUTRAL
+251,Thank you so much.,0.752,A,POSITIVE
+252,That's all I need for now.,1.24,A,POSITIVE
+253,I have to go.,0.768,A,NEUTRAL
+254,Bye.,0.264,A,NEUTRAL
+255,Okay.,0.272,A,NEUTRAL
+256,"Enjoy your lunch, Tabitha.",1.24,B,POSITIVE
+257,"Thank you for calling, Sean.",1.056,B,POSITIVE
+258,Bye.,0.192,A,NEUTRAL
