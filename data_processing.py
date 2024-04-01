@@ -5,8 +5,8 @@ import assemblyai as aai
 import requests
 from time import sleep
 import pandas as pd
-API_key = "API-KEY"
-aai.settings.api_key = "API-KEY"
+API_key = "apikey"
+aai.settings.api_key = "apikey"
 #transcriber = aai.Transcriber()
 
 #transcript = transcriber.transcribe("https://storage.googleapis.com/aai-web-samples/news.mp4")
@@ -14,7 +14,7 @@ aai.settings.api_key = "API-KEY"
 #print(file.text)
 
 headers = {
-    'authorization': "API-KEY", 
+    'authorization': "apikey", 
     'content-type': 'application/json',
 }
 
@@ -45,7 +45,7 @@ json = {
 }
 
 headers = {
-    "authorization": "API-KEY",
+    "authorization": "apikey",
     "content-type": "application/json"
 }
 
@@ -58,7 +58,7 @@ response_id = response.json()['id']
 endpoint = f"https://api.assemblyai.com/v2/transcript/{response_id}"
 
 headers = {
-    "authorization": "API-KEY",
+    "authorization": "apikey",
 }
 response = requests.get(endpoint, headers=headers)
 
