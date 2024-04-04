@@ -27,7 +27,11 @@ def float_to_timestamp(float_value):
     return timestamp.strip()
 
 data = pd.read_csv('sentiment_data.csv')
-color_mapping = {'NEGATIVE': 'red', 'NEUTRAL': 'blue', 'POSITIVE': 'green'}
+#color_mapping = {'NEGATIVE': '#742881', 'NEUTRAL': '#986EAC', 'POSITIVE': '#E5D4E8'}
+#color_mapping = {'NEGATIVE': '#440154', 'NEUTRAL': '#fde725', 'POSITIVE': '#5ec962'}
+#color_mapping = {'NEGATIVE': 'purple', 'NEUTRAL': 'yellow', 'POSITIVE': 'orange'}
+color_mapping = {'NEGATIVE': '#bf2b23', 'NEUTRAL': '#c3a4cf', 'POSITIVE': '#2f67b1'}
+
 time = 0
 # Plotting
 fig, ax = plt.subplots(figsize=(10, 6))
@@ -50,7 +54,9 @@ for index, row in data.iterrows():
                 col = 20
         else:
             col = col + 1
+    #line, = plt.plot([time/60, time/60], [-row['Duration']/2, row['Duration']/2], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=max(1.5,3*(row['Duration']/(max(data['Duration'])))), label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
     line, = plt.plot([time/60, time/60], [-row['Duration']/2, row['Duration']/2], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
+
     time += row['Duration']
     if row['Speaker'] == 'A':
         customer_lines.append(line)
@@ -58,7 +64,7 @@ for index, row in data.iterrows():
         agent_lines.append(line)
 
 # tooltip 
-cursor = mplcursors.cursor(hover=True)
+cursor = mplcursors.cursor(hover=mplcursors.HoverMode.Transient)
 @cursor.connect("add")
 def on_add(sel):
     sel.annotation.set_text(sel.artist.get_label())
