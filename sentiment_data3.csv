@@ -1,0 +1,168 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,"Hi, thank you for calling Questran medical supplies.",2.094,A,POSITIVE
+2,This is Candice.,0.792,A,NEUTRAL
+3,How can I help you today?,1.204,A,NEUTRAL
+4,"Hi, Candice, this is Susan, and I'm calling to order my monthly feeding supplies, my milk and my syringes.",9.256,B,NEUTRAL
+5,"Can you help me with that, please?",1.736,B,NEUTRAL
+6,Sure.,0.36,B,NEUTRAL
+7,I'll be happy to assist you with that.,1.36,A,POSITIVE
+8,May I have your full name and date of birth?,2.2,A,NEUTRAL
+9,Sure.,0.552,B,NEUTRAL
+10,My name is Susan Smith.,1.744,B,NEUTRAL
+11,"Date of birth is August 9, 1979.",4.644,B,NEUTRAL
+12,Thank you.,0.664,A,POSITIVE
+13,Let me pull up your account.,1.36,A,NEUTRAL
+14,Give me one moment.,1.444,A,NEUTRAL
+15,Okay.,1.02,B,NEUTRAL
+16,And how's your day going?,1.66,B,NEUTRAL
+17,"Oh, my.",0.744,A,NEUTRAL
+18,My day's really great.,1.36,A,POSITIVE
+19,It's the middle of the summer.,1.176,A,NEUTRAL
+20,The weather's really nice.,1.324,A,POSITIVE
+21,I couldn't ask for more.,1.36,A,POSITIVE
+22,And yours?,1.02,A,NEUTRAL
+23,It's great.,1.02,B,POSITIVE
+24,Although I really don't care much for summer.,3.088,B,NEGATIVE
+25,I prefer winter and autumn.,1.836,B,POSITIVE
+26,Really?,0.792,A,NEUTRAL
+27,Too hot?,0.964,A,NEUTRAL
+28,"Too hot and too humid, especially down here in Florida.",4.648,B,NEGATIVE
+29,"Oh, well, I can only imagine it in Florida.",3.216,A,NEGATIVE
+30,But I like autumn too.,1.632,A,POSITIVE
+31,It's good for photography.,1.648,A,POSITIVE
+32,Hmm.,0.648,B,NEUTRAL
+33,Really?,0.66,B,NEUTRAL
+34,"Yes, absolutely.",1.42,A,POSITIVE
+35,"All right, I have your account pulled up here, and I see that your prior authorization on file expired last month.",6.64,A,NEUTRAL
+36,And we'd also need a new prescription on file.,2.7,A,NEUTRAL
+37,"And also, based on the notes, the previous representative, James, advised you to get a new authorization.",6.14,A,NEUTRAL
+38,Am I reading this right?,1.42,A,NEUTRAL
+39,"Oh, yes, yes, James advised me to renew.",3.58,B,POSITIVE
+40,"But here's the thing, Candace.",1.208,B,NEUTRAL
+41,Here's the thing.,0.876,B,NEUTRAL
+42,"Oh, excuse me.",1.86,B,NEUTRAL
+43,"The day I was told about it, my doctor had already moved to another state, so I couldn't exactly get the documents.",6.868,B,NEUTRAL
+44,And my new doctor?,1.176,B,NEUTRAL
+45,"I was supposed to see him last week, but my appointment was cancelled.",4.18,B,NEGATIVE
+46,The earliest he could see me will be on the 30th of this month.,3.704,B,NEUTRAL
+47,Today is the fifth.,1.468,B,NEUTRAL
+48,"My supply is running out, and I simply cannot wait that long.",3.42,B,NEGATIVE
+49,I see.,0.94,A,NEUTRAL
+50,"Is there a way that you can have the appointment moved earlier, perhaps this week?",5.26,A,NEUTRAL
+51,The documents are really all we need to be able to send you your supplies.,3.42,A,NEUTRAL
+52,I did.,0.552,B,NEUTRAL
+53,I already did.,0.928,B,NEUTRAL
+54,"I phoned the clinic, explained the situation, but the lady swore it was the earliest they could do so.",5.28,B,NEUTRAL
+55,"There's been an emergency, and the doctor could not do anything for me until the 30th.",3.84,B,NEGATIVE
+56,"And my doctor, the one who moved to another state, I called him.",4.544,B,NEUTRAL
+57,Turns out he couldn't issue an authorization either because he doesn't work in the clinic anymore.,4.564,B,NEGATIVE
+58,"We're still on the fifth, and my diabetes is so severe that I don't think I'd ever survive a day without it.",4.838,B,NEGATIVE
+59,It's pretty long gap to not be taking my medicine.,2.88,B,NEGATIVE
+60,"It is, and it is not good for you, as it turns out, if there are no valid documents on file, your insurance company will not be able to cover any costs for any supplies we're going to send you until we get the prior authorization and prescription on file.",17.028,A,NEGATIVE
+61,Your only option would be to pay out of pocket.,3.18,A,NEUTRAL
+62,"But once you get the renewed authorization, which won't be long, you will then be covered again by your insurance company.",7.488,A,NEUTRAL
+63,It's only going to be temporary until we get the valid documents.,3.876,A,NEUTRAL
+64,"Oh, Candace, I know you're just doing your job, but if there's anything you can do, anything at all, please, I would thank the high heavens for it.",8.368,B,POSITIVE
+65,I simply cannot afford to pay out of pocket this time.,3.128,B,NEGATIVE
+66,I'm a senior and I now live alone.,2.976,B,NEUTRAL
+67,"My husband, 53 years, just died last month.",3.172,B,NEGATIVE
+68,Died in his sleep.,1.236,B,NEGATIVE
+69,Left me just like that.,1.224,B,NEGATIVE
+70,"And it feels like the world is crashing down on me, you know?",3.216,B,NEGATIVE
+71,I'm just trying to pick up the pieces together.,1.984,B,NEUTRAL
+72,"I paid for his burial and everything else, and now I simply cannot pay for anything else, you know?",5.712,B,NEGATIVE
+73,"Oh, I am so sorry for your loss, Susan.",3.232,A,NEGATIVE
+74,I am so sorry.,1.42,A,NEGATIVE
+75,"And I know that this might sound like a sob story to you, and I don't blame you if you think it is.",6.62,B,NEUTRAL
+76,"No, no.",0.872,A,NEGATIVE
+77,"But that's just been my situation lately, and I've been trying to keep it together.",4.284,B,NEUTRAL
+78,"The moment I picked up the phone today, I tried acting happy, but it's just been too hard.",6.632,B,NEGATIVE
+79,Too hard.,0.704,B,NEGATIVE
+80,I.,0.58,B,NEUTRAL
+81,"Life has been just really hard lately, you know?",3.9,B,NEGATIVE
+82,"I cannot imagine what you must be going through, Susan, and I won't assume to know, but you have my deepest condolences.",9.312,A,NEGATIVE
+83,I'm so sorry for your loss.,2.564,A,NEGATIVE
+84,Thank you.,0.864,B,POSITIVE
+85,"And, you know, don't worry about it, Candace.",3.748,B,NEUTRAL
+86,We've lived together for quite a long time.,2.34,B,POSITIVE
+87,53 years.,1.392,B,NEUTRAL
+88,It's quite a long time.,1.4,B,NEUTRAL
+89,Even if for me it's still short.,2.184,B,NEUTRAL
+90,"But, you know, other couples don't have that much.",3.0,B,NEUTRAL
+91,"And for that, he and I were quite lucky.",4.572,B,POSITIVE
+92,Yes.,0.464,A,POSITIVE
+93,"And, you know, you must have created a lot, a lot of good memories together.",4.712,A,POSITIVE
+94,"And that's definitely something to treasure, even if that means hurting very much when it's time to say goodbye.",8.948,A,POSITIVE
+95,I agree.,0.86,B,POSITIVE
+96,"Thank you, Candace.",1.408,B,POSITIVE
+97,And I'm so sorry for breaking down.,2.496,B,NEGATIVE
+98,"You know, I truly did not want to put you in this awkward situation, but it's just been really, really hard, you know?",6.26,B,NEGATIVE
+99,No.,0.36,A,NEUTRAL
+100,"No worries, Susan.",1.096,A,POSITIVE
+101,I totally understand.,0.984,A,POSITIVE
+102,Okay.,0.764,A,NEUTRAL
+103,"What you're feeling right now, that's totally understandable.",2.98,A,POSITIVE
+104,"Okay, so here's what I'm gonna do for you.",2.728,A,NEUTRAL
+105,I will talk to my supervisor and see if there's anything we can do for you.,4.424,A,NEUTRAL
+106,"I cannot make any promises of course, but I understand.",3.038,A,NEUTRAL
+107,"Yeah, but I will try.",1.282,A,NEUTRAL
+108,If there's anything at all that we can do for you.,2.944,A,POSITIVE
+109,"Okay, I understand.",1.528,A,NEUTRAL
+110,I really appreciate it.,1.584,B,POSITIVE
+111,"Whatever decision your supervisor comes up with, I'll understand.",3.344,B,NEUTRAL
+112,"You know, at this point, I'm really just trying my luck, and I have to try.",4.548,B,NEUTRAL
+113,"All right, Susan, could you give me two to three minutes to get ahold of my supervisor and talk to her?",5.256,A,NEUTRAL
+114,Sure.,0.44,B,NEUTRAL
+115,"Take your time, Candace.",1.08,B,NEUTRAL
+116,I'll be just right here.,1.016,B,POSITIVE
+117,Thank you so much.,1.32,B,POSITIVE
+118,You're welcome.,0.552,A,POSITIVE
+119,"Susan, I'm gonna put you on hold now.",1.908,A,NEGATIVE
+120,Tl.,0.9,A,NEUTRAL
+121,"Yes, can you help me?",2.632,A,NEUTRAL
+122,"Thank you for waiting, Susan.",1.296,A,POSITIVE
+123,Sure.,0.36,B,NEUTRAL
+124,"No worries, Candace.",1.212,B,POSITIVE
+125,"So I just talked to my supervisor, explained to her your situation.",4.448,A,NEUTRAL
+126,"She checked your account, and I have good news for you.",3.0,A,POSITIVE
+127,Really?,0.688,B,NEUTRAL
+128,I got the approval from my supervisor to send you a month's worth of supplies.,4.716,A,NEUTRAL
+129,This should be more than enough to last you till your next appointment.,4.324,A,POSITIVE
+130,"Oh, my God.",1.024,B,NEUTRAL
+131,"Thank you so much, Candace.",1.64,B,POSITIVE
+132,I honestly didn't think this would be possible.,1.992,B,NEGATIVE
+133,You're an angel.,0.96,B,POSITIVE
+134,I really appreciate you.,1.352,B,POSITIVE
+135,I really appreciate your company.,1.6,B,POSITIVE
+136,Tell your supervisor thank you very much.,2.128,B,POSITIVE
+137,You have no idea how big of a thing this already is for me.,2.88,B,POSITIVE
+138,You're most welcome.,0.888,A,POSITIVE
+139,"Susan, we have seen from your records that this is the first time you're requesting for this.",4.944,A,NEUTRAL
+140,"Yes, exactly.",1.024,B,NEUTRAL
+141,Yeah.,0.224,A,NEUTRAL
+142,And we definitely understand the predicament you're in.,3.018,A,NEUTRAL
+143,That's why we are stepping in to help you.,2.982,A,POSITIVE
+144,"However, this will be only a one time exception, a one time courtesy.",4.08,A,NEUTRAL
+145,"On the next appointment with your doctor, please ensure to obtain a prior authorization and a valid prescription.",7.336,A,NEUTRAL
+146,So there should be two documents total?,2.964,A,NEUTRAL
+147,"Oh, definitely.",0.968,B,POSITIVE
+148,That's the first thing I'm going to do.,1.472,B,NEUTRAL
+149,"I swear, had my situation been different, I would never ask this of you.",4.104,B,NEGATIVE
+150,This is the first and last time I'd ask something like this.,2.908,B,NEUTRAL
+151,"Next time, I definitely will renew before expiration.",3.316,B,POSITIVE
+152,That's for sure.,1.016,B,NEUTRAL
+153,Perfect.,0.6,A,POSITIVE
+154,Perfect.,0.608,A,POSITIVE
+155,"And as usual, the delivery date will be one to two business days from today.",4.016,A,NEUTRAL
+156,And just.,0.608,A,NEUTRAL
+157,"Just for clarification, we will be sending you one month worth of feeding supplies, one month worth of glacerna milk, and one month worth of syringes, which are all based on your last month's prescription.",12.336,A,NEUTRAL
+158,All right?,0.544,A,NEUTRAL
+159,That is perfect.,1.544,B,POSITIVE
+160,"Is there anything else I can help you with today, Susan?",2.352,A,NEUTRAL
+161,No.,0.656,B,NEUTRAL
+162,Yours have been the greatest help I've ever received.,2.84,B,POSITIVE
+163,"Thank you, thank you, thank you.",2.208,B,POSITIVE
+164,"It's my pleasure, Susan.",1.264,A,POSITIVE
+165,And thank you for doing business with Chris Chan medical supplies.,2.816,A,POSITIVE
+166,You have a fantastic day.,1.624,A,POSITIVE
+167,Now I want you to pay.,0.744,A,NEUTRAL

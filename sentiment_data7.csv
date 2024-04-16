@@ -1,0 +1,74 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,"Hi, thank you for calling Hotel California.",2.342,A,POSITIVE
+2,This is Candice.,0.848,A,NEUTRAL
+3,How may I help you?,1.204,A,NEUTRAL
+4,"Hi, Candice, this is Stephen.",2.624,B,NEUTRAL
+5,"I'd like to book for four people, please.",2.628,B,NEUTRAL
+6,And that would be for August 18.,5.54,B,NEUTRAL
+7,"Sure, Stephen, I'd be happy to help you with that.",2.52,A,POSITIVE
+8,So which room do you have in mind?,2.38,A,NEUTRAL
+9,"Actually, I gotta tell you first that I am super busy, so I haven't been able to browse through your website.",8.14,B,NEGATIVE
+10,And I don't know.,1.48,B,NEUTRAL
+11,"I don't really know the rooms you have right now, but I could give you my requirements and then you suggest the best rooms for me.",8.98,B,NEUTRAL
+12,Could we do that?,1.264,B,NEUTRAL
+13,Absolutely.,0.808,A,NEUTRAL
+14,What do you need?,0.98,A,NEUTRAL
+15,"So there are four of us, including me, and we need something with a wifi and maybe a swimming pool.",9.3,B,NEUTRAL
+16,Got it.,0.872,A,POSITIVE
+17,Will you four be staying in one room or separate rooms?,3.524,A,NEUTRAL
+18,"Oh, sorry, I forgot to tell you that would be separate.",4.344,B,NEGATIVE
+19,"Because, you see, we're two couples, so we need two rooms.",3.508,B,NEUTRAL
+20,I see.,1.008,A,NEUTRAL
+21,"So in that case, I recommend two deluxe kings.",4.996,A,POSITIVE
+22,"Each room has a king size bed, which fits two people, a wifi, and access to a swimming pool and free lunch and breakfast.",9.76,A,POSITIVE
+23,All of these for $200 each.,2.896,A,NEUTRAL
+24,And that's going to be $400 for two rooms.,3.592,A,NEUTRAL
+25,How does it sound?,1.22,A,NEUTRAL
+26,"Oh, that is a bit too much.",2.912,B,NEGATIVE
+27,"That's a bit expensive, actually.",2.464,B,NEGATIVE
+28,Do you maybe have something more affordable than that?,3.36,B,NEUTRAL
+29,It's just not.,0.792,B,NEGATIVE
+30,"Now that I think about it, I remember there's a beach close to your hotel, so we will probably just take a trip there and you can take out the swimming pool.",10.168,B,NEUTRAL
+31,Is that possible?,0.984,B,NEUTRAL
+32,Sure.,0.528,A,NEUTRAL
+33,Let me see your options here.,2.772,A,NEUTRAL
+34,"So if you want to take out the swimming pool and just have the Wi Fi, then we certainly have a room for that.",7.784,A,POSITIVE
+35,"And that is the classic king for $125 each, which is 250 for two rooms as opposed to 400.",9.354,A,NEUTRAL
+36,And you're still going to get the king size bed and the wifi.,3.488,A,NEUTRAL
+37,"But I have to tell you, Stephen, aside from having no swimming pool, you will also only get a free breakfast instead of lunch and breakfast.",10.012,A,NEGATIVE
+38,Is that okay with you?,1.5,A,NEUTRAL
+39,Perfect.,0.568,B,POSITIVE
+40,Perfect.,0.296,B,POSITIVE
+41,"Candice, that's exactly, exactly what we need.",2.594,B,NEUTRAL
+42,"We'll be having lunch at the beach anyway, so we won't be eating at the hotel.",4.028,B,NEUTRAL
+43,So to Kazi King it is.,2.184,B,NEUTRAL
+44,"Do you need my credit card number, or what do you need for security purposes?",4.176,A,NEUTRAL
+45,We don't really take credit card info over the phone.,2.928,A,NEUTRAL
+46,"But what I need from you instead is your email address, where I can send you a link where you can securely pay and enter your card information.",9.924,A,NEUTRAL
+47,"Okay, cool.",1.016,B,POSITIVE
+48,You can send it to stephen 182 mail.com thank you.,8.772,B,POSITIVE
+49,"How do you spell Stephen, by the way?",1.88,A,NEUTRAL
+50,Is that a Stephen with a v or a Steven with a p?,3.34,A,NEUTRAL
+51,That's with a p for pepper.,2.58,B,NEUTRAL
+52,Thank you.,1.06,A,POSITIVE
+53,"So just to make sure, let me just spell that out for you.",2.616,A,NEUTRAL
+54,"That is s for Sierra, t for Tango, e for echo, P for Peter, h for hotel, n for Nancy, one eight two mail.com.",12.484,A,NEUTRAL
+55,"Yep, that's correct.",1.844,B,POSITIVE
+56,"Okay, perfect.",2.736,A,POSITIVE
+57,"So just to recap, you will be booking two classic kings this August 18, 2020, and the total amount is $250 for two rooms.",13.29,A,NEUTRAL
+58,Are all of these correct?,1.476,A,NEUTRAL
+59,"Yep, all correct.",1.78,B,POSITIVE
+60,"Thank you, Steven.",1.128,A,POSITIVE
+61,"So after this call, you should receive an email from bookingalliehotel.com.",5.832,A,NEUTRAL
+62,And that email is a secure link where you can click and enter your full name and card info.,7.256,A,NEUTRAL
+63,I also want to remind you not to click any of the email that is not from bookingallihotel.com dot because we only take payments through this one email.,8.612,A,NEGATIVE
+64,"All right, gotcha.",1.868,B,POSITIVE
+65,So is there anything else that I can help you with today?,2.62,A,NEUTRAL
+66,Nope.,0.72,B,NEUTRAL
+67,"You've been very helpful, Candice.",2.16,B,POSITIVE
+68,Thank you so much.,1.464,B,POSITIVE
+69,"You're most welcome, Stephen.",1.376,A,POSITIVE
+70,Thank you for calling Hotel California.,1.808,A,POSITIVE
+71,You have a great day.,1.192,A,POSITIVE
+72,"Have a great day, Candice.",1.504,B,POSITIVE
+73,Bye.,0.336,B,NEUTRAL

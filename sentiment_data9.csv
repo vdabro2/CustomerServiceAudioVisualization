@@ -1,0 +1,327 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,"Hi, thank you for calling Questian bank.",1.526,A,POSITIVE
+2,This is Candice.,0.704,A,NEUTRAL
+3,How may I help you?,1.1,A,NEUTRAL
+4,"Hello, can you hear me?",1.784,B,NEUTRAL
+5,"Yes, I can hear you.",1.056,A,NEUTRAL
+6,How may I help you today?,1.184,A,NEUTRAL
+7,"Oh, thank God.",1.2,B,POSITIVE
+8,"Listen, I need your help right now.",1.872,B,NEUTRAL
+9,My purse was stolen and my credit card was in it.,2.496,B,NEGATIVE
+10,I'm in so much panic right now.,1.64,B,NEGATIVE
+11,I called your automated system and found that there's a lot of transactions that I did not make.,4.624,B,NEGATIVE
+12,I lost access to the app.,1.272,B,NEGATIVE
+13,"I tried logging into it, but it wouldn't let me.",2.248,B,NEGATIVE
+14,"Somebody's draining my account as we speak, and I need to stop it right now.",3.876,B,NEGATIVE
+15,"I'm sorry this happened to you, but don't worry, you're calling the right person.",3.832,A,NEUTRAL
+16,I can definitely help you with this.,1.784,A,POSITIVE
+17,"Now, in this situation, immediately freezing your account is the first thing we need to do to block further transactions.",5.984,A,NEGATIVE
+18,How many lost cards are you calling about?,1.992,A,NEUTRAL
+19,"Just one, thank God.",1.304,B,POSITIVE
+20,"I have separate purses for different cards, but there's a huge problem.",3.344,B,NEGATIVE
+21,"My phone was in there too, and that phone is tied to that card.",4.016,B,NEUTRAL
+22,So I need you to help me right now.,1.908,B,NEUTRAL
+23,"Okay, I will do it quickly.",1.66,A,POSITIVE
+24,We definitely need to block your card right now for me to do this.,3.632,A,NEGATIVE
+25,"I will now be verifying your identity by asking you a series of security questions, and then I can take action from there.",7.024,A,NEUTRAL
+26,Okay.,0.808,A,NEUTRAL
+27,Okay.,0.884,B,NEUTRAL
+28,May I know your full name?,1.744,A,NEUTRAL
+29,Tatiana Rogers.,1.628,B,NEUTRAL
+30,Thank you.,1.1,A,POSITIVE
+31,And your account number?,1.416,A,NEUTRAL
+32,"I told you, I lost my phone.",1.6,B,NEGATIVE
+33,How would I know my account number if I can't even access my phone?,2.716,B,NEGATIVE
+34,"I understand, but do you happen to have your bank statement?",3.348,A,NEUTRAL
+35,The system only allows me to block the card if the account number can be verified.,4.516,A,NEUTRAL
+36,"Well, I still have my bank statement.",2.3,B,NEUTRAL
+37,"Wait, let me just get it.",3.144,B,NEUTRAL
+38,Okay.,0.748,A,NEUTRAL
+39,Which number do you need here?,1.608,B,NEUTRAL
+40,Do you see the ten digit number at the top right side of the paper?,3.476,A,NEUTRAL
+41,That's the account number?,0.88,A,NEUTRAL
+42,Yes.,0.24,B,POSITIVE
+43,"Yes, it's 239-742-3479 thank you.",7.15,B,POSITIVE
+44,We're almost there.,1.08,A,POSITIVE
+45,What is your date of birth and physical address?,2.632,A,NEUTRAL
+46,"June 26, 1989.",2.2,B,NEUTRAL
+47,"My address is 9832 1st street, apartment a, Las Vegas, Nevada.",5.736,B,NEUTRAL
+48,88901.,1.428,B,NEUTRAL
+49,Thank you.,0.616,A,POSITIVE
+50,I'm pulling up your account right now.,1.496,A,NEGATIVE
+51,"The sooner I can block the card, the better.",2.148,A,NEUTRAL
+52,Okay?,0.568,B,NEUTRAL
+53,Thank you.,0.836,B,POSITIVE
+54,Okay.,0.94,A,NEUTRAL
+55,Okay.,0.496,A,NEUTRAL
+56,"Miss Rogers, your card is already blocked.",2.552,A,NEGATIVE
+57,No more transactions will be approved and all online services will be deactivated from now on.,5.48,A,NEGATIVE
+58,Now.,0.632,A,NEUTRAL
+59,Okay.,0.844,B,NEUTRAL
+60,Yeah.,0.52,A,NEUTRAL
+61,"Now, regarding your account, I must regretfully inform you that your online banking credentials were compromised.",6.784,A,NEGATIVE
+62,Your username and password were changed along with your contact information.,4.144,A,NEUTRAL
+63,So here's what.,0.92,A,NEUTRAL
+64,That's what I thought.,1.056,B,NEUTRAL
+65,I could no longer access the app.,1.9,B,NEGATIVE
+66,"Yes, but the good thing is, we've blocked the card and have frozen your account, so no further transactions will go through and no one else can access your account.",8.42,A,NEUTRAL
+67,"Oh, thank God.",1.336,B,POSITIVE
+68,"Now, what do we do next?",1.632,B,NEUTRAL
+69,"Now, because your credentials were changed, we also need to fix that.",3.888,A,NEUTRAL
+70,I will need to correct them right now with your help.,3.048,A,NEUTRAL
+71,You said it changed my password and phone number.,2.088,B,NEUTRAL
+72,"Wow, they did.",1.676,A,POSITIVE
+73,"But since I've frozen your account, they will not be able to access that anymore.",4.396,A,NEGATIVE
+74,"Now, our next step is to correct your account information.",3.544,A,NEUTRAL
+75,Can you please provide me with your most updated email and phone number?,4.512,A,NEUTRAL
+76,Okay.,0.432,B,NEUTRAL
+77,My email is tatiana 1989 mail.com.,4.512,B,NEUTRAL
+78,"And my other mobile number, the one I'm using right now, is 987-654-2310 tell them to leave a voicemail.",8.654,B,NEUTRAL
+79,"If I don't answer, I will call them back.",2.304,B,NEUTRAL
+80,Okay.,0.888,A,NEUTRAL
+81,"Okay, Miss Rogers, I will put a note on that.",2.872,A,NEUTRAL
+82,Do you have any other phone number and different email address?,3.28,A,NEUTRAL
+83,"No, I don't.",0.984,B,NEUTRAL
+84,That's all I have.,1.184,B,NEUTRAL
+85,All right.,0.52,A,NEUTRAL
+86,Okay.,0.696,A,NEUTRAL
+87,"Now, I.",0.856,A,NEUTRAL
+88,"Before I can successfully change it to your most updated information, I just need to verify additional information.",5.724,A,NEUTRAL
+89,"Again, with your help, can you please verify the page payment due date on your personal loan?",5.902,A,NEUTRAL
+90,"Oh, my gosh.",0.56,B,NEGATIVE
+91,I don't know.,0.848,B,NEUTRAL
+92,Ask me something I remember.,1.08,B,NEUTRAL
+93,Okay.,0.768,B,NEUTRAL
+94,"I already told you, I cannot log into the app.",2.424,B,NEGATIVE
+95,I don't know.,0.448,B,NEUTRAL
+96,It's an automatic payment.,1.416,B,NEUTRAL
+97,That's okay.,0.568,A,POSITIVE
+98,I understand.,0.728,A,NEUTRAL
+99,Let's try another question.,1.096,A,NEUTRAL
+100,Can you please verify the last four digit of your Social Security number?,4.112,A,NEUTRAL
+101,It's 24 65.,1.596,B,NEUTRAL
+102,Okay.,0.98,A,NEUTRAL
+103,And the last deposit to your account?,2.456,A,NEUTRAL
+104,Can you verify the date and the amount you received?,2.652,A,NEUTRAL
+105,"I just got paid yesterday for $1,200.",2.568,B,NEUTRAL
+106,Mm hmm.,0.52,A,NEUTRAL
+107,Okay.,0.472,A,NEUTRAL
+108,"Thank you so much, Miss Rogers.",1.344,A,POSITIVE
+109,I am now going to update your contact information.,2.372,A,NEUTRAL
+110,"In a few minutes, we will be sending you an alert to confirm your email.",5.06,A,NEUTRAL
+111,All you have to do is click the confirm button to verify the change.,3.96,A,NEUTRAL
+112,Now.,0.488,A,NEUTRAL
+113,Okay.,0.776,B,NEUTRAL
+114,"Now, how will I get my money back?",2.152,B,NEGATIVE
+115,Good question.,0.888,A,POSITIVE
+116,"Now, for the unauthorized charges, I will now start filing the dispute for you.",5.76,A,NEUTRAL
+117,"But for me to initiate it, I will again be asking you of questions for security purposes.",5.544,A,NEUTRAL
+118,"And if you have any questions in the middle of this, I will answer them later.",4.128,A,NEUTRAL
+119,Okay.,0.592,A,NEUTRAL
+120,Wow.,0.456,B,POSITIVE
+121,That's a lot of questions right there.,1.84,B,NEUTRAL
+122,"Yes, Miss Rogers, I admit this is a lot of questions, as we are now entering a higher level of verification.",5.968,A,NEUTRAL
+123,"Every change that we need to apply to your account comes with a set of security questions, which the system is designed to ask, all for your account security.",8.868,A,NEUTRAL
+124,That's okay.,0.656,B,POSITIVE
+125,Go ahead.,0.512,B,NEUTRAL
+126,If it gets me my money back.,1.334,B,NEUTRAL
+127,Sure.,0.594,B,NEUTRAL
+128,Thank you.,0.784,A,POSITIVE
+129,So what was the last transaction you made and for how much?,4.056,A,NEUTRAL
+130,Let's see.,1.04,B,NEUTRAL
+131,"I bought some clothes for my kids for $150 at the BBB store, and then I bought tickets for around $70 and snacks for about 20.",9.732,B,NEUTRAL
+132,"After that, we went to the cinema, we watched the movie, and the next thing I know, my purse was gone.",6.18,B,NEUTRAL
+133,I'm sorry that you had to go through this.,2.582,A,NEGATIVE
+134,"And, you know, just to clarify, have you allowed anyone to use your card in the past?",4.898,A,NEUTRAL
+135,"No, I never allowed anyone to use my card.",2.456,B,NEUTRAL
+136,Even my ex husband.,1.336,B,NEUTRAL
+137,"Okay, okay, here's what I'm gonna do.",2.496,A,NEUTRAL
+138,Miss Rogers.,0.96,A,NEUTRAL
+139,"The transactions made after the purchase of the movie tickets and snacks, all of them will be submitted for a claim?",6.56,A,NEUTRAL
+140,"Yes, exactly.",1.496,B,NEUTRAL
+141,Okay.,0.916,A,NEUTRAL
+142,But I also read the transactions one by one.,3.224,A,NEUTRAL
+143,And please confirm if you've initiated each transaction.,3.44,A,NEUTRAL
+144,I would need your verbal confirmation on this for the documentation purposes of the investigation.,5.248,A,NEUTRAL
+145,"Okay, I can see here a transaction for 798.56 from Macy's.",8.304,A,NEUTRAL
+146,What?,0.496,B,NEUTRAL
+147,798?,1.328,B,NEUTRAL
+148,"No, I didn't go to Macy's.",2.128,B,NEUTRAL
+149,Okay.,0.836,A,NEUTRAL
+150,I believe these two transactions at Home Depot are also not yours.,3.792,A,NEUTRAL
+151,One for $399.95 and another for $49.75.,6.124,A,NEUTRAL
+152,"Nope, nope, nope.",1.08,B,NEGATIVE
+153,Not me.,0.528,B,NEGATIVE
+154,"I already told you, my last transactions were the movie tickets and the snacks.",3.384,B,NEUTRAL
+155,"I understand this must be repetitive, Miss Rogers, but for the purpose of documentation, I would just need your verbal confirmation for each transaction, as this will be used by our fraud specialists.",12.916,A,NEUTRAL
+156,"Oh, right.",0.896,B,NEUTRAL
+157,Verbal confirmation.,1.0,B,NEUTRAL
+158,"Sorry, I forgot.",1.024,B,NEGATIVE
+159,Go ahead.,0.52,B,NEUTRAL
+160,No problem.,0.688,A,POSITIVE
+161,Thank you.,0.9,A,POSITIVE
+162,"Next, here are Apple transactions for $99 for $14.99, another one for $29.99 and $25.",11.38,A,NEUTRAL
+163,"Apple, I don't even have an iPhone, so, no.",2.576,B,NEGATIVE
+164,"Okay, how about the three transactions from PlayStation Network?",4.652,A,NEUTRAL
+165,"$19, $29.95, $89.",4.94,A,NEUTRAL
+166,No.,0.648,B,NEUTRAL
+167,What more did they charge?,1.432,B,NEUTRAL
+168,That's like 30 fraud charges already.,2.132,B,NEGATIVE
+169,Those are all the transactions right after the tickets and snacks.,2.728,A,NEUTRAL
+170,Those are all the transactions.,1.376,B,NEUTRAL
+171,No more after that.,1.0,B,NEUTRAL
+172,No more after that.,1.34,A,NEUTRAL
+173,"Oh, okay.",0.696,B,NEUTRAL
+174,"Because for a moment, I thought you'd never stop.",2.092,B,NEUTRAL
+175,"Yes, Miss Rogers, I must admit, this is a lot of transactions for only a few hours due.",4.86,A,NEUTRAL
+176,This must be what triggered the system to flag your account for suspicious activities.,4.54,A,NEUTRAL
+177,"Oh, it was flagged.",1.54,B,NEGATIVE
+178,Yes.,0.848,A,POSITIVE
+179,"I believe if it weren't flagged, then the person who took your card could have used it for even more transactions.",6.746,A,NEUTRAL
+180,"Oh, my God, that's crazy.",1.864,B,NEGATIVE
+181,"Yes, and the good thing is we've gotten this under control now, you know, we've locked your card, frozen your account, which are the two most urgent tasks that are needed to be dealt with.",11.148,A,POSITIVE
+182,"Now, the next thing.",2.14,A,NEUTRAL
+183,The next thing I'll do for you is to now file a dispute.,2.744,A,NEUTRAL
+184,Can I put you on hold for two minutes?,2.291,A,NEUTRAL
+185,Yes.,0.348,B,POSITIVE
+186,Okay.,0.432,B,NEUTRAL
+187,File that dispute for me.,1.664,B,NEUTRAL
+188,Thank you.,0.496,A,POSITIVE
+189,I'll be right back.,1.092,A,NEUTRAL
+190,"Thank you for waiting, Mister Rogers.",1.82,A,POSITIVE
+191,I have submitted the dispute.,1.872,A,NEUTRAL
+192,I have also taken note of the reference number for you.,2.472,A,NEUTRAL
+193,"If you need to call and ask questions about the progress, just give this number to the representative and they'll immediately know your case.",7.312,A,NEUTRAL
+194,Are you ready?,0.864,A,NEUTRAL
+195,Okay.,0.488,B,NEUTRAL
+196,What's my reference number?,1.296,B,NEUTRAL
+197,It is a for Alpha 343408.,4.917,A,NEUTRAL
+198,Got it.,0.96,B,POSITIVE
+199,Great.,0.44,A,POSITIVE
+200,"And now, as mandated by law, let me just read everything you need to know about the dispute.",4.744,A,NEUTRAL
+201,"If you have any questions, I will be happy to answer them after this.",3.04,A,POSITIVE
+202,Okay.,0.528,A,NEUTRAL
+203,I'm just going to read everything to you.,1.936,A,NEUTRAL
+204,Okay?,0.836,B,NEUTRAL
+205,Okay.,0.552,A,NEUTRAL
+206,"So, the dispute process will be handled by our dispute specialists.",4.164,A,NEUTRAL
+207,The process will take ten business days before a result could be finalized.,4.524,A,NEUTRAL
+208,"Within this timeframe, the fraud team might contact you for more details and supporting documents.",4.876,A,NEUTRAL
+209,So please keep your lines open.,1.992,A,NEUTRAL
+210,"If they need more time, they will also be contacting you before the 10th business day.",4.728,A,NEUTRAL
+211,"Okay, but did you just say ten days?",2.224,B,NEUTRAL
+212,Business days?,0.728,B,NEUTRAL
+213,That's like two weeks from now.,1.672,A,NEUTRAL
+214,That's long.,0.8,B,NEUTRAL
+215,"Yes, Miss Rogers.",1.144,A,NEUTRAL
+216,"In this case, especially with the number of transactions, rigorous investigations needed.",5.56,A,NEUTRAL
+217,So we will definitely need an average of ten business days.,4.674,A,NEUTRAL
+218,Although it is possible that a result could be finalized sooner than that.,4.736,A,NEUTRAL
+219,"You know, we just don't want to over promise and you know, we want to stick to the ten business day timeframe because that is usually the average.",8.596,A,NEUTRAL
+220,But the dispute I filed just now is already being handled by our specialists as we speak.,5.624,A,NEUTRAL
+221,"Okay, well, fair enough.",1.628,B,NEUTRAL
+222,I'll just use my other cards in the next few days.,2.44,B,NEUTRAL
+223,Perfect.,0.94,A,POSITIVE
+224,I will also work on your card replacement.,2.248,A,NEUTRAL
+225,"Is your mailing address also at 9832 1st street, apartment a, Las Vegas, Nevada 98765?",9.888,A,NEUTRAL
+226,"Yes, that's still my address.",1.564,B,NEUTRAL
+227,How long will this take to get to me?,1.936,B,NEUTRAL
+228,Ten business days too?,1.352,B,NEUTRAL
+229,"No, for the card replacement, it will only take three business days.",3.424,A,NEUTRAL
+230,So you should receive it by Wednesday.,1.908,A,NEUTRAL
+231,"No, you should receive it by Thursday because today's Monday.",2.98,A,NEUTRAL
+232,"And while you're waiting, you also have the option to link your new card to digital pay.",7.18,A,NEUTRAL
+233,"Digital wallets like Google Pay, Garmin Pay, Apple Pay, you know, so you can use the funds even if you have not received the card.",9.816,A,POSITIVE
+234,No thanks.,0.76,B,NEUTRAL
+235,I still have other cards.,0.912,B,NEUTRAL
+236,Should I need to transact online?,1.584,B,NEUTRAL
+237,Thank God I only lost one card.,1.998,B,POSITIVE
+238,"Otherwise, I'd be in a whole other level of mess.",2.458,B,NEGATIVE
+239,Absolutely.,0.872,A,NEUTRAL
+240,I can only imagine.,1.4,A,NEGATIVE
+241,"And it was such a wise decision to, you know, separate your cards.",3.88,A,POSITIVE
+242,"Due usually when account holders lose their card, it's usually more than one card.",6.356,A,NEUTRAL
+243,"Oh, really?",0.768,B,NEUTRAL
+244,"Well, losing one card is hard enough.",1.48,B,NEGATIVE
+245,I can't imagine losing more.,1.56,B,NEGATIVE
+246,"Yes, definitely.",1.288,A,POSITIVE
+247,"And by the way, Miss Rogers, have you received the email alert to confirm your email address?",5.628,A,NEUTRAL
+248,"Yes, I just got it a couple of minutes ago and I clicked the confirm button and then I got a message saying that my email has been verified.",8.24,B,POSITIVE
+249,Perfect.,0.78,A,POSITIVE
+250,Now I will send a code to your email.,2.8,A,NEUTRAL
+251,Please read the code once you get it.,2.512,A,NEUTRAL
+252,"This is, by the way, for the creation of your new account.",3.084,A,NEUTRAL
+253,"Okay, I just got it.",1.032,B,NEUTRAL
+254,The code is 345342.,3.444,B,NEUTRAL
+255,"Okay, perfect.",1.66,A,POSITIVE
+256,So I have just finished creating your new account.,4.46,A,NEUTRAL
+257,"After this call, please wait for the email containing your new account details.",4.816,A,NEUTRAL
+258,But is it necessary to create a new account?,2.248,B,NEUTRAL
+259,"You just closed my card, right?",2.092,B,NEUTRAL
+260,"Yes, Miss Rogers.",1.296,A,NEUTRAL
+261,"Your password and contact information were compromised, which means that whoever used your card not only knows your card number, but also your account number.",9.76,A,NEGATIVE
+262,So this definitely requires a complete change.,3.636,A,NEUTRAL
+263,"Well, I appreciate that.",1.664,B,POSITIVE
+264,Good thing I only have that card in this account.,2.228,B,POSITIVE
+265,"Definitely, definitely.",1.9,A,POSITIVE
+266,"We'll also be sending you updates, and one of our case specialists will call you if we need more information to help us with the investigation.",7.944,A,NEUTRAL
+267,"You know, I'm just wondering, what if I call all those companies who charged me and tell them that it was not me who made those transactions?",6.628,B,NEUTRAL
+268,And maybe they can still cancel those transactions and refund me immediately?,4.448,B,NEUTRAL
+269,What if I do that instead?,1.396,B,NEUTRAL
+270,"Well, that is also an option.",2.448,A,NEUTRAL
+271,"You could also do that, but there's really no assurance going that way.",3.192,A,NEUTRAL
+272,"I mean, because that will also take more time and effort on your part.",7.412,A,NEUTRAL
+273,I think you did the right thing by calling us immediately.,2.888,A,POSITIVE
+274,"As soon as you lost the card, you know, only us have the access to immediately freeze your account and block your card.",8.216,A,NEGATIVE
+275,"Yeah, that's what I thought.",1.696,B,NEUTRAL
+276,"So, is there anything else that you need me to do?",2.172,B,NEUTRAL
+277,"That should be all from me, but I just want to make sure I have covered everything.",3.328,A,NEUTRAL
+278,And please let me know if I miss something.,2.864,A,NEUTRAL
+279,Okay.,0.792,A,NEUTRAL
+280,So first we started by blocking your card and freezing your account.,3.456,A,NEGATIVE
+281,Then we updated your contact information with your email and phone number.,4.656,A,NEUTRAL
+282,And then I filed a claim for all the unauthorized transactions.,5.624,A,NEGATIVE
+283,I've also generated a new account number for you and had the balance transfer from your old account to your new one.,7.876,A,NEUTRAL
+284,The case has been submitted to the fraud department and you should hear back within ten business days.,5.32,A,NEUTRAL
+285,Alerts are already set up on your account.,2.352,A,NEUTRAL
+286,And please check your email all the time and report any suspicious activities.,4.684,A,NEUTRAL
+287,Have I covered everything?,1.288,A,NEUTRAL
+288,"Yep, you've covered everything.",1.476,B,NEUTRAL
+289,Thank you so much for helping me.,1.352,B,POSITIVE
+290,You've been very helpful.,1.216,B,POSITIVE
+291,I'll wait for the result of the investigation.,2.144,B,NEUTRAL
+292,"You're most welcome, Miss Rogers.",1.584,A,POSITIVE
+293,I understand how nerve wracking this is for you to see the funds disappearing from the account.,5.428,A,NEGATIVE
+294,And we will do our best to speed up the investigation.,4.552,A,NEUTRAL
+295,And you should hear back from us within the ten business day time frame.,3.764,A,NEUTRAL
+296,"Now, for the last tab, I will get an online fraud specialist to assist you further and help you in regaining your online access.",7.716,A,NEUTRAL
+297,All you need to transfer me?,1.448,B,NEUTRAL
+298,Yes.,0.424,A,POSITIVE
+299,"You will be ending the call with an online fraud specialist, and he will be helping you enable the login to your new account.",9.0,A,NEUTRAL
+300,This will only take three to four minutes at most.,2.852,A,NEUTRAL
+301,"Okay, well, I really need to go now though, so is there a number you can call later?",3.832,B,NEUTRAL
+302,I'll call back later.,1.114,B,NEUTRAL
+303,Sure.,0.766,A,NEUTRAL
+304,Here's the number.,1.08,A,NEUTRAL
+305,It is 1803 535739.,6.88,A,NEUTRAL
+306,And their banking hours are from 09:00 a.m. To 05:00 p.m. Eastern standard Time.,5.468,A,NEUTRAL
+307,Just give them the reference number I gave you earlier and they'll know exactly what to do.,4.376,A,NEUTRAL
+308,Tell them that you need to activate your online banking.,3.776,A,NEUTRAL
+309,Banking.,0.8,A,NEUTRAL
+310,My reference number?,0.96,B,NEUTRAL
+311,The one that starts with a.,2.13,B,NEUTRAL
+312,Yes.,0.47,A,POSITIVE
+313,Yes.,0.708,A,POSITIVE
+314,Okay.,0.496,B,NEUTRAL
+315,I'll call them later today.,1.292,B,NEUTRAL
+316,Perfect.,0.752,A,POSITIVE
+317,Perfect.,0.792,A,POSITIVE
+318,"And so, is there anything else that I can help you with today, Miss Rogers?",3.84,A,NEUTRAL
+319,"No, you've been very helpful.",2.308,B,POSITIVE
+320,Wonderful.,0.98,A,POSITIVE
+321,"We appreciate your business, Miss Rogers.",2.04,A,POSITIVE
+322,Thank you for calling Questian bank.,1.64,A,POSITIVE
+323,You have a wonderful day.,1.296,A,POSITIVE
+324,You too.,0.84,B,NEUTRAL
+325,Bye bye.,1.476,A,NEUTRAL
+326,Charlotte.,0.56,A,NEUTRAL

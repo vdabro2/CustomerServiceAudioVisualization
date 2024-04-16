@@ -26,7 +26,7 @@ def float_to_timestamp(float_value):
 
     return timestamp.strip()
 
-data = pd.read_csv('sentiment_data.csv')
+data = pd.read_csv('sentiment_data1.csv')
 #color_mapping = {'NEGATIVE': '#742881', 'NEUTRAL': '#986EAC', 'POSITIVE': '#E5D4E8'}
 #color_mapping = {'NEGATIVE': '#440154', 'NEUTRAL': '#fde725', 'POSITIVE': '#5ec962'}
 #color_mapping = {'NEGATIVE': 'purple', 'NEUTRAL': 'yellow', 'POSITIVE': 'orange'}
@@ -55,7 +55,11 @@ for index, row in data.iterrows():
         else:
             col = col + 1
     #line, = plt.plot([time/60, time/60], [-row['Duration']/2, row['Duration']/2], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=max(1.5,3*(row['Duration']/(max(data['Duration'])))), label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
-    line, = plt.plot([time/60, time/60], [-row['Duration']/2, row['Duration']/2], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
+    y = row['Duration']/2
+   # if row['Speaker'] == 'A':
+    line, = plt.plot([time/60, time/60], [-y, y], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence + "\n Keywords: Dumb")#label=row['Text'
+    #else:
+        #line, = plt.plot([time/60, time/60], [-y-8, y-8], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
 
     time += row['Duration']
     if row['Speaker'] == 'A':

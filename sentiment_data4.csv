@@ -1,0 +1,181 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,"Hi, thank you for calling Questran.",1.542,A,POSITIVE
+2,This is Candice.,0.728,A,NEUTRAL
+3,How may I help you?,1.124,A,NEUTRAL
+4,Candice?,0.9,B,NEUTRAL
+5,What the actual is going on with your company?,2.984,B,NEGATIVE
+6,Are you guys going bankrupt or something?,2.068,B,NEUTRAL
+7,"As far as I know, the company is stable and doing great.",3.368,A,POSITIVE
+8,May I know your concern?,1.236,A,NEUTRAL
+9,"Oh, let me see.",1.232,B,NEUTRAL
+10,"First of all, you gave me a used voucher.",3.472,B,NEUTRAL
+11,"Like, how could that even happen?",2.876,B,NEGATIVE
+12,"Second, nobody's answering my email.",3.46,B,NEGATIVE
+13,Someone from your company promised to send me a voucher within 24 hours.,4.98,B,NEUTRAL
+14,"It's been four f. Ing days, the sale has ended, and I still have no f. Cking voucher.",5.512,B,NEGATIVE
+15,Why?,0.724,B,NEUTRAL
+16,I seriously want to know why?,1.256,B,NEUTRAL
+17,Because it is such a f mystery to me as to how a company could be this messed up.,4.704,B,NEGATIVE
+18,What in the actual f is going on?,2.124,B,NEGATIVE
+19,I need to know that somebody's gonna get fired for this or I'm out.,3.444,B,NEGATIVE
+20,I am done doing business with your company.,2.188,B,NEGATIVE
+21,I'm so sorry for any inconvenience we've cost you.,2.936,A,NEGATIVE
+22,"Normally, anyone from our company should be able to replace vouchers within 24 hours.",5.2,A,NEUTRAL
+23,Why do I have to beg for it?,1.716,B,NEGATIVE
+24,Why do I have to email you multiple times for a measly ten dollar discount?,4.5,B,NEGATIVE
+25,It's humiliating.,1.66,B,NEGATIVE
+26,I understand that.,1.276,A,NEUTRAL
+27,Do you really?,1.032,B,NEUTRAL
+28,"You keep on saying you understand, but for all I know, you're just reading off script.",4.06,B,NEGATIVE
+29,I'm honestly just as confused as you are right now.,2.816,A,NEGATIVE
+30,"Like I said, voucher issues should be something that we can resolve easily.",4.452,A,NEUTRAL
+31,"If you can give me your email address and full name, I will review the notes from the previous agent and I will find the answer for you as soon as possible.",7.38,A,NEUTRAL
+32,Email address.,1.1,B,NEUTRAL
+33,Impossible.,0.744,B,NEGATIVE
+34,Customer name is Tabitha Ratchet.,6.168,B,NEUTRAL
+35,Tabitha Ratchet.,1.62,B,NEUTRAL
+36,"Thank you, Tabitha.",1.62,A,POSITIVE
+37,So annoying.,1.608,B,NEGATIVE
+38,This is the first time that I have to deal with a service as shitty as this.,4.396,B,NEGATIVE
+39,"Yes, this must be frustrating for you.",2.264,A,NEGATIVE
+40,Especially that the sale has already ended.,2.148,A,NEUTRAL
+41,You said it.,1.1,B,NEUTRAL
+42,"You better have a solution for me today, or else I'm out.",3.71,B,NEUTRAL
+43,I'll quit doing business with your company.,2.06,B,NEGATIVE
+44,Yes.,0.44,A,POSITIVE
+45,And I'm going to do my best to help you today.,1.744,A,POSITIVE
+46,"Tabitha, I have your account pulled up now.",2.468,A,NEUTRAL
+47,"Okay, what do you see?",2.22,B,NEUTRAL
+48,"So, according to your email history here, you sent us an email on the third asking for help about the voucher discount ten that showed an error message.",8.784,A,NEGATIVE
+49,This code has already been used.,1.644,A,NEUTRAL
+50,"And Claire, the previous agent, assured you that she would send a replacement within 24 hours.",5.5,A,NEUTRAL
+51,That's right.,0.72,B,NEUTRAL
+52,That's right.,1.024,B,NEUTRAL
+53,"Since then, I emailed three more times and haven't gotten any news from her.",6.008,B,NEGATIVE
+54,Crickets.,0.968,B,NEGATIVE
+55,"Yes, I see her that as well.",1.892,A,NEUTRAL
+56,This was truly not the service that we want you to experience.,3.048,A,NEGATIVE
+57,So what I will do now.,1.368,A,NEUTRAL
+58,"Well, it better not be.",1.364,B,NEGATIVE
+59,I swear.,0.976,B,NEUTRAL
+60,Something must be done about this.,1.852,B,NEUTRAL
+61,Exactly.,0.672,A,NEUTRAL
+62,So what I will do now is to further check why the code wasn't working and what I can do to resolve this for you.,5.28,A,NEUTRAL
+63,Can I put you on hold for two minutes so I can get back to you with an answer?,3.212,A,NEUTRAL
+64,Fine.,0.792,B,NEUTRAL
+65,Go ahead.,0.936,B,NEUTRAL
+66,Thank you.,0.964,A,POSITIVE
+67,"Thanks for reading, Tabitha.",1.54,A,POSITIVE
+68,So here's what I found.,1.848,A,NEUTRAL
+69,The reason why the voucher didn't work was because you have already used it on your April 2 order for a koi juicer.,7.72,A,NEGATIVE
+70,So you tried using this on.,1.808,A,NEUTRAL
+71,"Hold on, hold on, hold on.",1.512,B,NEUTRAL
+72,What are you talking about?,1.208,B,NEUTRAL
+73,I don't have any chance to use that code at all.,2.448,B,NEGATIVE
+74,I paid the full price of that juicer with my own money.,3.94,B,NEUTRAL
+75,"If you check the order confirmation for the juicer you ordered on the second, you were supposed to pay $49.99.",6.536,A,NEUTRAL
+76,"But since the discount ten voucher was applied to it, you ended up paying only $39.99.",6.412,A,NEUTRAL
+77,So let me get this straight.,1.648,B,NEUTRAL
+78,You're saying that I cannot reuse that voucher?,2.88,B,NEGATIVE
+79,No.,0.544,A,NEUTRAL
+80,All our vouchers can only be used one time.,3.372,A,NEUTRAL
+81,What about the promise that Claire made me?,2.192,B,NEUTRAL
+82,"She told me, as you can see from her email, that she's going to send me a replacement voucher because the first one didn't work.",6.724,B,NEGATIVE
+83,"The voucher did work, Tabitha.",1.912,A,POSITIVE
+84,"Unfortunately, Claire made a mistake.",2.056,A,NEGATIVE
+85,"She was under the impression that the voucher has not been used at all, but was still displaying that error message.",5.298,A,NEGATIVE
+86,"But according to your order history here, it has already been used.",3.344,A,NEUTRAL
+87,"In this case, we cannot issue a replacement voucher.",3.412,A,NEGATIVE
+88,"Well, screw that.",1.38,B,NEGATIVE
+89,"Mistake or not, it still doesn't change the fact that Claire promised me a voucher.",6.368,B,NEUTRAL
+90,And I expect that promise to be kept.,3.076,B,NEUTRAL
+91,I have a copy of her email.,1.6,B,NEUTRAL
+92,You have a copy of her email?,1.592,B,NEUTRAL
+93,She clearly said that she's going to give me another voucher.,4.098,B,NEUTRAL
+94,"I can read, you know.",1.416,B,NEUTRAL
+95,What are you going to do about it as a company?,1.996,B,NEUTRAL
+96,Are you going to honor it?,1.344,B,NEUTRAL
+97,"Are you going to compromise your integrity for a ten dollar voucher, seeing that it was you who made a mistake, not me?",7.428,B,NEGATIVE
+98,"If the code wasn't used, then we'd be able to issue a replacement.",3.68,A,NEUTRAL
+99,"But since you have used it and the discount was applied, we just can't.",4.496,A,NEGATIVE
+100,"No, no, no, no.",1.132,B,NEGATIVE
+101,I was promised a voucher.,1.7,B,NEUTRAL
+102,I will get a voucher.,1.536,B,NEUTRAL
+103,As simple as that.,1.296,B,NEUTRAL
+104,"The inconvenience I experienced, Candace, are you going to forget about that?",4.888,B,NEGATIVE
+105,"Are you going to say, oh, our bad, we're so sorry, and then not do anything about it.",5.24,B,NEGATIVE
+106,"No, no, no.",0.848,B,NEGATIVE
+107,I have every right to claim that voucher.,3.956,B,NEUTRAL
+108,"If Claire only told me immediately that I've already used that code, then I would have been able to buy from the flash sale on time.",8.63,B,NEUTRAL
+109,Now it's too late.,1.256,B,NEGATIVE
+110,See my point here?,0.76,B,NEUTRAL
+111,Candice?,0.672,B,NEUTRAL
+112,This is no longer about whether or not the code was valid.,3.192,B,NEUTRAL
+113,This is about you compensating me for the inconvenience.,4.5,B,NEUTRAL
+114,How could you be so stupid?,1.4,B,NEGATIVE
+115,"Candice, hold on.",2.112,B,NEUTRAL
+116,"Tabitha, I understand this is frustrating for you, and I will do my best to help you with this, but I cannot do my job if you attack me personally.",7.744,A,NEGATIVE
+117,"Now, would you be willing to stop calling me names so that I can help you?",2.84,A,NEUTRAL
+118,Or would you prefer to have a few moments of your own and we'll talk later?,3.566,A,NEUTRAL
+119,Attacking you personally?,1.12,B,NEUTRAL
+120,"I'm not attacking you personally, Candace.",1.928,B,NEUTRAL
+121,I'm upset about the situation.,1.804,B,NEGATIVE
+122,I want your company to prove to me that this is not the service you want me to experience as what you've said earlier.,6.14,B,NEGATIVE
+123,Make it up to me.,1.224,B,NEUTRAL
+124,Give me an exception.,1.348,B,NEUTRAL
+125,"After all, you're the one who screwed up.",2.456,B,NEGATIVE
+126,I'm not attacking you personally.,1.376,B,NEUTRAL
+127,I just want my ten dollar discount.,2.548,B,NEUTRAL
+128,Absolutely understandable.,1.632,A,POSITIVE
+129,So what I will do now is to consult my supervisor about this and see what we can do for you.,4.232,A,NEUTRAL
+130,"Now, can I put you on hold for two minutes?",2.104,A,NEUTRAL
+131,You go right ahead.,1.088,B,POSITIVE
+132,I'll be waiting.,0.936,B,POSITIVE
+133,Thank you.,0.964,A,POSITIVE
+134,"Thanks for waiting, Tabitha.",1.58,A,POSITIVE
+135,Mm hmm.,0.824,A,NEUTRAL
+136,"So, what do we have for me?",1.468,B,NEUTRAL
+137,My supervisor has checked your previous cases and decided that we cannot give you another voucher.,5.432,A,NEGATIVE
+138,And that's because.,0.792,A,NEUTRAL
+139,Are you kidding me?,1.076,B,NEGATIVE
+140,"We have checked your previous cases, and we have seen nine similar cases as this one.",5.432,A,NEUTRAL
+141,"And each time, we have given you an extra voucher, even if you have already used each of them.",5.616,A,NEUTRAL
+142,"For this reason, we cannot give you another voucher today.",3.604,A,NEGATIVE
+143,"If you think that I'm gonna let you get away with this, you're wrong.",4.504,B,NEGATIVE
+144,"I'm gonna sue your company, and you are gonna regret working there.",4.348,B,NEGATIVE
+145,I'm gonna make sure that you are fired.,2.288,B,NEUTRAL
+146,"Yes, you, Candace.",1.704,B,NEUTRAL
+147,"You are going to lose your job, and hell shall freeze before I order from your company again.",5.796,B,NEGATIVE
+148,"Unfortunately, Tabitha, this decision is already final.",3.58,A,NEGATIVE
+149,"Tell me, Candice, are your mother and father cousins?",4.22,B,NEUTRAL
+150,What part of it don't you understand?,1.66,B,NEUTRAL
+151,This is no longer about the code.,1.808,B,NEUTRAL
+152,This is about your company causing me a great inconvenience for not warning me that the voucher has been used.,6.192,B,NEGATIVE
+153,"As I said, I need compensation for that.",3.172,B,NEUTRAL
+154,"And we would have gladly given you another voucher, but we have seen from your records here that this has been a pattern with you.",6.4,A,NEUTRAL
+155,"You call and claim that your vouchers aren't working, even if you have successfully used them with your orders.",6.038,A,NEGATIVE
+156,And all nine previous agents gave you a replacement each time.,3.65,A,NEUTRAL
+157,And this has been happening for nine times now.,2.248,A,NEUTRAL
+158,We cannot give you another one today.,1.78,A,NEGATIVE
+159,You know what?,0.98,B,NEUTRAL
+160,You.,0.74,B,NEUTRAL
+161,You.,0.74,B,NEUTRAL
+162,How stupid could you get?,1.96,B,NEGATIVE
+163,I have been repeating myself many times and you still don't get it.,4.5,B,NEGATIVE
+164,"Tabitha, please be warned.",1.576,A,NEUTRAL
+165,We cannot tolerate this type of language.,1.784,A,NEGATIVE
+166,"If you keep using profanities and keep attacking me personally, I will have to disconnect this call.",4.57,A,NEGATIVE
+167,I believe I have explained everything you need to know.,2.272,A,NEUTRAL
+168,"When a customer experiences an inconvenience, we are more than happy to issue a voucher.",4.392,A,POSITIVE
+169,"But as we have seen with your nine previous cases, we have a reason.",3.208,A,NEUTRAL
+170,We have a good reason to refuse your request.,3.308,A,NEUTRAL
+171,I am going to report you to BBB.,2.616,B,NEGATIVE
+172,"You, especially you, Candice, as the agent and your incompetent scammer company.",5.532,B,NEGATIVE
+173,Tell your CEO that your company will never see the light of day ever again.,4.38,B,NEGATIVE
+174,"Tabitha, I'm afraid you left me no choice but to disconnect this call.",3.688,A,NEGATIVE
+175,"If you have any more questions, feel free to call us again.",2.576,A,NEUTRAL
+176,I'm now going to end this call.,1.28,A,NEUTRAL
+177,Thank you for calling.,0.536,A,POSITIVE
+178,Question.,0.384,B,NEUTRAL
+179,Bye.,0.28,A,NEUTRAL
+180,Thank you.,0.192,A,POSITIVE

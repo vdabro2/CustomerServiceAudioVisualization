@@ -1,0 +1,123 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,"Hi, thank you for calling home supplies.",1.638,A,POSITIVE
+2,This is Candice.,0.816,A,NEUTRAL
+3,How may I help you?,1.236,A,NEUTRAL
+4,Order number 123456.,3.336,B,NEUTRAL
+5,Full Amber Hill.,2.208,B,NEUTRAL
+6,Thank you.,0.752,A,POSITIVE
+7,"Give me one moment, please, so I can pull up your account.",3.02,A,NEUTRAL
+8,"Okay, I got your order here, and it was for a convection oven for $129.",6.64,A,NEUTRAL
+9,Is this correct?,1.14,A,NEUTRAL
+10,"Yes, correct.",1.62,B,POSITIVE
+11,Except that you guys sent me a cutting board.,4.056,B,NEUTRAL
+12,"Oh, I am so sorry.",1.448,A,NEGATIVE
+13,That was.,0.376,A,NEUTRAL
+14,"No, no, no, no, let me finish.",4.188,B,NEGATIVE
+15,Don't give me your sorry for this inconvenience bull.,3.496,B,NEGATIVE
+16,"Because this is not an inconvenience, Candace.",2.296,B,NEUTRAL
+17,This is a disaster.,1.216,B,NEGATIVE
+18,I am upset.,1.384,B,NEGATIVE
+19,"I waited one long week, one long week, and you guys sent me a cutting board?",6.146,B,NEGATIVE
+20,"I mean, how could you even explain that, Candace?",2.712,B,NEGATIVE
+21,How could you even explain that?,1.568,B,NEGATIVE
+22,That someone from your shipping department could mistake a piece of cutting board for an oven?,7.228,B,NEGATIVE
+23,"That's what I'd like to know, because I can see how.",4.072,B,NEUTRAL
+24,"It's my son's birthday this Thursday, and I need that oven to bake his cake.",4.28,B,POSITIVE
+25,"It is now Monday, and I have no oven.",2.952,B,NEUTRAL
+26,"But, hey, I guess that's okay, right?",2.128,B,POSITIVE
+27,Because I have a cutting board.,2.436,B,NEUTRAL
+28,"Amber, I truly understand how frustrating this is for you.",4.056,A,NEGATIVE
+29,I truly do.,0.736,A,POSITIVE
+30,I do.,0.776,A,NEUTRAL
+31,"I know that our shipping department tries to their best to keep the orders as accurate as possible, but on very rare occasions, this kind of mistake happens from time to time, and I am so sorry that this happened to you.",15.276,A,NEGATIVE
+32,"Of course, this is not an excuse, and a mistake is a mistake.",4.6,A,NEGATIVE
+33,"And right now, what I can do is to help you resolve this issue.",4.22,A,NEUTRAL
+34,"Well, they shouldn't have done that to me.",1.744,B,NEGATIVE
+35,It's for my son's birthday.,1.616,B,POSITIVE
+36,And a cutting board for an oven.,1.712,B,NEUTRAL
+37,I mean.,0.632,B,NEUTRAL
+38,"I mean, I can understand if you sent me an oven with the wrong model number, but a cutting board?",5.28,B,NEGATIVE
+39,Seriously?,1.144,B,NEGATIVE
+40,"I don't know about you, but this smells like a practical joke to me.",4.347,B,NEGATIVE
+41,"I assure you, Amber, what happened was an honest mistake.",3.96,A,NEUTRAL
+42,We would never do that to our customers on purpose.,3.22,A,NEGATIVE
+43,"Of course, you really should have received precisely what you ordered, and we failed on that.",5.92,A,NEGATIVE
+44,"And for that, I am truly sorry.",2.176,A,NEGATIVE
+45,The best thing that I can do for you now is to make sure that this gets resolved as soon as possible.,5.808,A,POSITIVE
+46,"Well, I don't really have a choice, do I?",1.968,B,NEGATIVE
+47,So get on with it.,1.081,B,NEUTRAL
+48,"Okay, so if I heard you right, your son's birthday is this coming Thursday, right?",6.316,A,NEUTRAL
+49,"Yes, that's right.",1.592,B,POSITIVE
+50,"All right, here's what I'm gonna do.",2.0,A,NEUTRAL
+51,"Because you received the wrong item, I will request to have the correct item sent out to you within 24 business hours.",8.672,A,NEGATIVE
+52,"So if we send it to you today, you should receive the oven before your son's birthday on Thursday.",6.772,A,NEUTRAL
+53,All I need from you to make that happen is the photo of the wrong item you received along with the photo of the barcode.,6.96,A,NEGATIVE
+54,Is it possible that you could send it to me while we're on the line so I could already process the shipment for you?,6.052,A,NEUTRAL
+55,Here we are at the step five of the call.,2.76,A,NEUTRAL
+56,This is the part where Candace finally offered the solution to her.,4.34,A,NEUTRAL
+57,"I can send you the photo, but let me ask you this.",3.11,B,NEUTRAL
+58,What guarantee do I have that your company is not going to mess up again?,4.21,B,NEUTRAL
+59,Because my purpose really for calling you guys is to just get a refund.,4.472,B,NEUTRAL
+60,I really just want to order from Amazon because they have a one day shipping.,3.604,B,POSITIVE
+61,"No offense, Candace, but because of what you sent to me, I'm just not confident enough with your company anymore.",7.02,B,NEGATIVE
+62,"Good point, Amber, and I understand your doubt.",2.52,A,NEUTRAL
+63,"But when we encounter this kind of issue where a customer receives a damaged item, or as in your case, a wrong item, we always make sure to handle the matter with extra care.",11.624,A,NEUTRAL
+64,So there would be no second mistake?,2.728,A,NEUTRAL
+65,No.,0.44,A,NEUTRAL
+66,No chance for a second mistake happening.,2.432,A,NEGATIVE
+67,"So that is why aside from the 24 hours shipping, we will also do a thorough recheck of the reshipment.",7.616,A,NEUTRAL
+68,So I can definitely assure you that it's going to be the correct item this time.,3.924,A,POSITIVE
+69,"Well, okay, I guess I'm just going to have to give you another shot.",3.82,B,NEUTRAL
+70,So where do I send the photos to?,2.22,B,NEUTRAL
+71,You can send it to supportomesupplies.com.,3.62,A,NEUTRAL
+72,"Okay, hold on.",1.416,B,NEUTRAL
+73,"Let me go get my phone because I already took a photo of the cutting board yesterday, so I should have it on my phone right here.",7.192,B,NEUTRAL
+74,Hold on.,0.78,B,NEUTRAL
+75,"Okay, so that's supportomesupplies.com?",4.228,B,NEUTRAL
+76,Mm hmm.,0.972,B,NEUTRAL
+77,Okay.,1.092,B,NEUTRAL
+78,Sent.,0.74,B,NEUTRAL
+79,Can you see it?,1.18,B,NEUTRAL
+80,"Okay, let me check.",1.42,A,NEUTRAL
+81,"Okay, yes, I got it.",1.664,A,POSITIVE
+82,"By the way, Amber, do you also have the photo of the barcode of the cutting board?",4.628,A,NEUTRAL
+83,Is that really necessary?,1.936,B,NEUTRAL
+84,I'm not lying.,1.016,B,NEUTRAL
+85,"Yes, Amber, I would need it to have your reshipment approved as soon as possible.",4.588,A,NEUTRAL
+86,"After that, we will ship the oven to you immediately, and you should receive it within 24 hours.",5.886,A,NEUTRAL
+87,"Okay, let me go upstairs and take a photo.",2.992,B,NEUTRAL
+88,Can you hold?,1.072,B,NEUTRAL
+89,Sure.,0.392,B,NEUTRAL
+90,Take your time.,0.816,A,NEUTRAL
+91,Two minutes later.,1.52,A,NEUTRAL
+92,Hello?,0.6,B,NEUTRAL
+93,Are you there?,0.824,B,NEUTRAL
+94,"Yes, Amber, I'm here.",1.508,A,POSITIVE
+95,I've sent it.,0.976,B,NEUTRAL
+96,Did you get it?,1.052,C,NEUTRAL
+97,"Yes, I got it.",1.3,A,POSITIVE
+98,"So now I will forward the photos to the reshipment team, and you should receive the oven tomorrow.",6.44,A,NEUTRAL
+99,"About the cutting board you received, you don't have to return it.",4.608,A,NEUTRAL
+100,Just feel free to keep it or give it away.,3.128,A,NEUTRAL
+101,"Oh, good.",0.648,B,POSITIVE
+102,I totally forgot to ask you about that.,1.888,B,NEGATIVE
+103,So thank you.,0.728,B,POSITIVE
+104,"Candace, I really don't want to drive to the post just to return that, so.",4.076,B,NEGATIVE
+105,All right.,0.9,B,NEUTRAL
+106,I guess it's all good then.,1.448,C,POSITIVE
+107,All settled?,0.996,C,NEUTRAL
+108,Yes.,0.4,A,POSITIVE
+109,"All you have to do now is to wait for the replacement to arrive tomorrow, and we will take care of everything.",5.148,A,NEUTRAL
+110,"And again, we are so sorry for this mistake.",2.736,A,NEGATIVE
+111,"Well, as long as the oven arrives tomorrow, I am happy.",4.8,B,POSITIVE
+112,"Thank you, Candace.",1.152,B,POSITIVE
+113,You've been very patient.,1.376,B,POSITIVE
+114,"You're most welcome, Amber.",1.424,A,POSITIVE
+115,Is there anything else that I can help you with today?,2.14,A,NEUTRAL
+116,"No, that's all.",1.392,B,NEUTRAL
+117,"You have a great day, Candace.",1.456,B,POSITIVE
+118,Bye.,0.696,B,NEUTRAL
+119,"Have a great day, Amber.",0.936,A,POSITIVE
+120,Thank you for calling home supplies.,1.44,A,POSITIVE
+121,Bye.,0.692,A,NEUTRAL
+122,Gosh.,0.36,B,NEGATIVE

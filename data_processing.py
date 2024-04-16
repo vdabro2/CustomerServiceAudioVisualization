@@ -19,7 +19,7 @@ headers = {
 }
 
 endpoint = 'https://api.assemblyai.com/v2/upload'
-file = './customercall1.mp3'
+file = 'audio_data/customercall9.mp3'
 def read_file(file):
     with open(file, 'rb') as f:
         while True:
@@ -95,4 +95,4 @@ sent_data = pd.DataFrame(sent_data,
                          columns = ["SentenceID", "Text", "Duration", 
                                     "Speaker", "Sentiment"])
 
-sent_data.to_csv('sentiment_data.csv', index=False) 
+sent_data.to_csv('sentiment_data9.csv', index=False) 
