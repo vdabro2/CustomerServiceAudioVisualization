@@ -95,5 +95,5 @@ sent_data = pd.DataFrame(sent_data,
                          columns = ["SentenceID", "Text", "Duration", 
                                     "Speaker", "Sentiment"])
 
-sent_data.to_csv('sentiment_data9.csv', index=False) 
+sent_data.to_csv('transcripts/sentiment_data9.csv', index=False) 
 

@@ -28,7 +28,7 @@ def float_to_timestamp(float_value):
 
     return timestamp.strip()
 
-data = pd.read_csv('sentiment_data' + data_to_use +'.csv')
+data = pd.read_csv('transcripts/sentiment_data' + data_to_use +'.csv')
 color_mapping = {'NEGATIVE': '#bf2b23', 'NEUTRAL': '#c3a4cf', 'POSITIVE': '#2f67b1'}
 
 time = 0
