@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from matplotlib.widgets import CheckButtons
 import mplcursors
+# choose 1 - 9 
+data_to_use = "2"
 def seconds_to_timestamp(seconds):
     minutes = seconds // 60
     remaining_seconds = seconds % 60
@@ -26,7 +28,7 @@ def float_to_timestamp(float_value):
 
     return timestamp.strip()
 
-data = pd.read_csv('sentiment_data1.csv')
+data = pd.read_csv('sentiment_data' + data_to_use +'.csv')
 color_mapping = {'NEGATIVE': '#bf2b23', 'NEUTRAL': '#c3a4cf', 'POSITIVE': '#2f67b1'}
 
 time = 0
@@ -54,7 +56,7 @@ for index, row in data.iterrows():
     #line, = plt.plot([time/60, time/60], [-row['Duration']/2, row['Duration']/2], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=max(1.5,3*(row['Duration']/(max(data['Duration'])))), label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
     y = row['Duration']/2
    # if row['Speaker'] == 'A':
-    line, = plt.plot([time/60, time/60], [-y, y], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence + "\n Keywords: Dumb")#label=row['Text'
+    line, = plt.plot([time/60, time/60], [-y, y], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence )#label=row['Text'
     #else:
         #line, = plt.plot([time/60, time/60], [-y-8, y-8], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
 
@@ -101,36 +103,17 @@ check = CheckButtons(axCheck, ['Customer', 'Agent'], [True, True])
 # Function to handle checkbox changes
 def func(label):
     if label == 'Customer':
-        what_factor = 0
         for line in customer_lines:
             if line.get_visible():
-                what_factor = 1
-                line.set_visible(True)
-                line.set_alpha(.1)
+                line.set_visible(False)
             else:
                 line.set_visible(True)
-                what_factor = .1
-                line.set_alpha(1)
-        if what_factor != 0:
-            for line in agent_lines:
-                line.set_visible(True)
-                line.set_alpha(what_factor)
     elif label == 'Agent':
-        what_factor = 0
         for line in agent_lines:
             if line.get_visible():
-                what_factor = 1
-                line.set_visible(True)
-                line.set_alpha(.1)
+                line.set_visible(False)
             else:
                 line.set_visible(True)
-                what_factor = .1
-                line.set_alpha(1)
-        if what_factor != 0:
-            for line in customer_lines:
-                line.set_visible(True)
-                line.set_alpha(what_factor)
-                
     plt.draw()
 
 check.on_clicked(func)
