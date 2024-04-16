@@ -1,126 +1,126 @@
 SentenceID,Text,Duration,Speaker,Sentiment
-1,"Hi, thank you for calling power up.",1.638,A,POSITIVE
-2,This is Candice.,0.864,A,NEUTRAL
-3,How may I help you?,1.212,A,NEUTRAL
-4,"Hey, did you guys increase your rate for unlimited package?",4.14,B,NEUTRAL
-5,"Not recently, no.",1.74,A,NEUTRAL
-6,"In fact, we have not changed our rate since 2010.",4.02,A,NEUTRAL
-7,"Oh, really?",0.936,B,NEUTRAL
-8,Because this month you guys are charging me $53 instead of 50.,4.732,B,NEGATIVE
-9,Really?,0.696,A,NEUTRAL
-10,That's weird.,0.96,A,NEGATIVE
-11,That's not supposed to happen.,1.596,A,NEGATIVE
-12,"But I could check your account for you, though, and see what the charge was for.",4.128,A,NEUTRAL
-13,I just need your account number and your full name.,3.076,A,NEUTRAL
-14,"Yes, please.",0.96,B,POSITIVE
-15,I would appreciate it.,1.448,B,POSITIVE
-16,"So, my full name is Searcy Bannister.",4.076,B,NEUTRAL
-17,"Cersei is spelled as c e r s for, sorry, e I.",8.76,B,NEUTRAL
-18,"And my last name is Bannister, like the side of a staircase with a single n. Okay.",7.696,B,NEUTRAL
-19,Thank you.,0.576,A,POSITIVE
-20,And.,0.588,A,NEUTRAL
-21,And your account number?,1.46,A,NEUTRAL
-22,Account number?,1.072,B,NEUTRAL
-23,What account number?,1.232,B,NEUTRAL
-24,I don't have it.,1.316,B,NEGATIVE
-25,Couldn't you check using my name?,2.016,B,NEUTRAL
-26,"Because my name is quite unique, so you should be able to pull it up without getting duplicates.",4.932,B,POSITIVE
-27,"For security purposes, I would need both your full name and your account number.",4.808,A,NEUTRAL
-28,You should find your account number at the top right corner of your billing statement.,4.516,A,NEUTRAL
-29,Okay.,0.98,B,NEUTRAL
-30,Let me just go ahead and check my email.,2.18,B,NEUTRAL
-31,Hang on.,0.872,B,NEUTRAL
-32,Sure.,0.684,A,NEUTRAL
-33,"Okay, I got the email.",2.08,B,NEUTRAL
-34,Where do I find it?,1.34,B,NEUTRAL
-35,At the top right corner of the email.,2.496,A,NEUTRAL
-36,"It should start with one, two, and it's composed of six digits.",3.932,A,NEUTRAL
-37,Got it.,0.832,B,POSITIVE
-38,"So, my account number is 123456.",5.084,B,NEUTRAL
-39,Thank you.,1.02,A,POSITIVE
-40,Let me just pull up your account.,2.664,A,NEUTRAL
-41,Give me one moment.,1.388,A,NEUTRAL
-42,"Okay, I got it.",1.752,A,NEUTRAL
-43,"So, according to your September billing statement, you were charged an extra $3 due to the late payment of your August bill.",8.912,A,NEGATIVE
-44,"So, the due date was on August 15, and it was paid on September 1.",4.704,A,NEUTRAL
-45,"Wait, what?",0.808,B,NEUTRAL
-46,What are you talking about?,0.904,B,NEUTRAL
-47,You're charging penalties now?,2.06,B,NEUTRAL
-48,I didn't know that.,1.34,B,NEUTRAL
-49,"Yes, Cersei, this was written on the terms and conditions when you signed up with us.",4.86,A,NEUTRAL
-50,"Ah, I see.",2.06,B,NEUTRAL
-51,So let me just get this straight.,2.3,B,NEUTRAL
-52,"You buried an important piece of information in a place where, let's admit it, nobody even reads, and now you're expecting me to pay for a penalty that I'm not even aware of, except for the person who wrote your terms and conditions.",14.34,B,NEGATIVE
-53,"I mean, help me understand, because I'm at a loss here.",4.416,B,NEGATIVE
-54,I really am.,0.98,B,NEUTRAL
-55,"You don't seriously expect me to pay for the penalty, do you?",3.216,B,NEGATIVE
-56,We understand that could happen sometimes.,1.992,A,NEUTRAL
-57,"It's not a big amount, but I think it's just disappointing, really.",3.964,B,NEGATIVE
-58,"I have been with you guys for four years now, and this is the only time I paid late.",5.12,B,NEGATIVE
-59,"Not intentionally, mind you, because I would have paid on time if it was up to me.",3.584,B,NEUTRAL
-60,But I had an issue with my bank.,1.984,B,NEGATIVE
-61,It took them days to fix it.,1.824,B,NEUTRAL
-62,It's just disappointing.,1.458,B,NEGATIVE
-63,"One mistake without warning, poof, my $3 went down the drain.",4.846,B,NEGATIVE
-64,You know what I mean?,0.984,B,NEUTRAL
-65,It's disappointing.,0.776,B,NEGATIVE
-66,And to think that I have been with you guys for four years now.,3.18,B,NEUTRAL
-67,There must be something you can do about this.,2.18,B,NEUTRAL
-68,"Totally, Cersei.",1.056,A,NEUTRAL
-69,I understand.,0.772,A,NEUTRAL
-70,I honestly don't read the terms and conditions myself when I sign up for services and.,4.896,A,NEGATIVE
-71,Exactly.,0.672,B,NEUTRAL
-72,"I know that our management understands this, so that's why.",3.496,A,POSITIVE
-73,Because this is your first time getting this penalty and you have been with us a long time now.,4.932,A,NEUTRAL
-74,I can see it in your account that you have been with us since 2015.,3.74,A,NEUTRAL
-75,We can definitely give you a one time exception and cancel the $3 penalty from your charge.,5.02,A,NEUTRAL
-76,"Oh, thank you.",1.392,B,POSITIVE
-77,That's exactly what I need.,1.528,B,POSITIVE
-78,"Thank you so much, Candice.",2.064,B,POSITIVE
-79,"No problem at all, Cersei.",1.812,A,POSITIVE
-80,We give a leeway for cases like this.,2.304,A,NEUTRAL
-81,"And also, I have to remind you that this is only going to be a one time exception because this is your first time and you were not aware of this penalty.",8.062,A,NEUTRAL
-82,We are more than happy to exempt you from this charge.,2.748,A,POSITIVE
-83,Of course.,0.736,B,NEUTRAL
-84,Of course.,0.616,B,NEUTRAL
-85,I completely understand.,1.668,B,POSITIVE
-86,This will never happen again.,1.288,B,NEGATIVE
-87,"In my four years of being with you guys, I have never been late with my payments before.",4.152,B,NEUTRAL
-88,"Except for this one, of course.",1.6,B,NEUTRAL
-89,So thank you so much for resolving this issue for me.,3.528,B,POSITIVE
-90,I am forever your loyal customer.,2.584,B,POSITIVE
-91,"Oh, that's certainly music to my ears, Cersei.",2.728,A,POSITIVE
-92,That's really nice to hear.,1.168,A,POSITIVE
-93,Thank you.,0.884,A,POSITIVE
-94,So what I'm going to do is I will just submit the request to our billing department.,5.38,A,NEUTRAL
-95,Would it be okay if I put you on hold for two minutes to do that?,3.26,A,NEUTRAL
-96,Absolutely.,0.92,B,NEUTRAL
-97,Take your time.,1.072,B,NEUTRAL
-98,Thank you.,1.044,A,POSITIVE
-99,"Thanks for waiting, Searcy.",1.74,A,POSITIVE
-100,"Hi, Candice.",1.13,B,NEUTRAL
-101,So I have already submitted the request to cancel the $3 penalty from your bill.,5.03,A,NEUTRAL
-102,You can now pay your bill for $50 instead of 53.,4.82,A,NEUTRAL
-103,Perfect.,0.68,B,POSITIVE
-104,"I can't thank you enough, Candace.",2.064,B,POSITIVE
-105,You have been very helpful and very understanding.,3.152,B,POSITIVE
-106,My pleasure.,0.752,A,POSITIVE
-107,"Searcy, is there anything else that I can help you with today?",2.548,A,NEUTRAL
-108,"Oh, yes, actually.",1.592,B,POSITIVE
-109,Could you send me a confirmation email confirming what we just talked about in this call?,5.314,B,NEUTRAL
-110,Could you maybe confirm in your email that I would only pay $50 instead of 53 and that you will cancel the $3?,8.616,B,NEUTRAL
-111,"Could you do that for me, please?",1.424,B,NEUTRAL
-112,Absolutely.,0.752,A,NEUTRAL
-113,"I will send it to you within two to three minutes after this call to you to the email on file, which is searcyasterlyrock.com.",9.996,A,NEUTRAL
-114,Perfect.,0.776,B,POSITIVE
-115,"Thank you so much, Candace, and so sorry for the trouble that's all I need for today.",4.752,B,POSITIVE
-116,"No trouble at all, Cersei.",1.28,A,NEUTRAL
-117,No trouble at all.,1.192,A,NEUTRAL
-118,"If that's all you need for today, then you have a fantastic day.",3.712,A,POSITIVE
-119,Thank you for calling.,0.752,A,POSITIVE
-120,Power up.,0.932,A,NEUTRAL
-121,"You, too, Candace.",1.184,B,NEUTRAL
-122,Have a fantastic shift.,1.584,B,POSITIVE
-123,Bye.,0.768,B,NEUTRAL
-124,I will.,0.52,A,POSITIVE
-125,Bye.,0.216,B,NEUTRAL
+1,"Hi, thank you for calling power up.",1.638,B,POSITIVE
+2,This is Candice.,0.864,B,NEUTRAL
+3,How may I help you?,1.212,B,NEUTRAL
+4,"Hey, did you guys increase your rate for unlimited package?",4.14,A,NEUTRAL
+5,"Not recently, no.",1.74,B,NEUTRAL
+6,"In fact, we have not changed our rate since 2010.",4.02,B,NEUTRAL
+7,"Oh, really?",0.936,A,NEUTRAL
+8,Because this month you guys are charging me $53 instead of 50.,4.732,A,NEGATIVE
+9,Really?,0.696,B,NEUTRAL
+10,That's weird.,0.96,B,NEGATIVE
+11,That's not supposed to happen.,1.596,B,NEGATIVE
+12,"But I could check your account for you, though, and see what the charge was for.",4.128,B,NEUTRAL
+13,I just need your account number and your full name.,3.076,B,NEUTRAL
+14,"Yes, please.",0.96,A,POSITIVE
+15,I would appreciate it.,1.448,A,POSITIVE
+16,"So, my full name is Searcy Bannister.",4.076,A,NEUTRAL
+17,"Cersei is spelled as c e r s for, sorry, e I.",8.76,A,NEUTRAL
+18,"And my last name is Bannister, like the side of a staircase with a single n. Okay.",7.696,A,NEUTRAL
+19,Thank you.,0.576,B,POSITIVE
+20,And.,0.588,B,NEUTRAL
+21,And your account number?,1.46,B,NEUTRAL
+22,Account number?,1.072,A,NEUTRAL
+23,What account number?,1.232,A,NEUTRAL
+24,I don't have it.,1.316,A,NEGATIVE
+25,Couldn't you check using my name?,2.016,A,NEUTRAL
+26,"Because my name is quite unique, so you should be able to pull it up without getting duplicates.",4.932,A,POSITIVE
+27,"For security purposes, I would need both your full name and your account number.",4.808,B,NEUTRAL
+28,You should find your account number at the top right corner of your billing statement.,4.516,B,NEUTRAL
+29,Okay.,0.98,A,NEUTRAL
+30,Let me just go ahead and check my email.,2.18,A,NEUTRAL
+31,Hang on.,0.872,A,NEUTRAL
+32,Sure.,0.684,B,NEUTRAL
+33,"Okay, I got the email.",2.08,A,NEUTRAL
+34,Where do I find it?,1.34,A,NEUTRAL
+35,At the top right corner of the email.,2.496,B,NEUTRAL
+36,"It should start with one, two, and it's composed of six digits.",3.932,B,NEUTRAL
+37,Got it.,0.832,A,POSITIVE
+38,"So, my account number is 123456.",5.084,A,NEUTRAL
+39,Thank you.,1.02,B,POSITIVE
+40,Let me just pull up your account.,2.664,B,NEUTRAL
+41,Give me one moment.,1.388,B,NEUTRAL
+42,"Okay, I got it.",1.752,B,NEUTRAL
+43,"So, according to your September billing statement, you were charged an extra $3 due to the late payment of your August bill.",8.912,B,NEGATIVE
+44,"So, the due date was on August 15, and it was paid on September 1.",4.704,B,NEUTRAL
+45,"Wait, what?",0.808,A,NEUTRAL
+46,What are you talking about?,0.904,A,NEUTRAL
+47,You're charging penalties now?,2.06,A,NEUTRAL
+48,I didn't know that.,1.34,A,NEUTRAL
+49,"Yes, Cersei, this was written on the terms and conditions when you signed up with us.",4.86,B,NEUTRAL
+50,"Ah, I see.",2.06,A,NEUTRAL
+51,So let me just get this straight.,2.3,A,NEUTRAL
+52,"You buried an important piece of information in a place where, let's admit it, nobody even reads, and now you're expecting me to pay for a penalty that I'm not even aware of, except for the person who wrote your terms and conditions.",14.34,A,NEGATIVE
+53,"I mean, help me understand, because I'm at a loss here.",4.416,A,NEGATIVE
+54,I really am.,0.98,A,NEUTRAL
+55,"You don't seriously expect me to pay for the penalty, do you?",3.216,A,NEGATIVE
+56,We understand that could happen sometimes.,1.992,B,NEUTRAL
+57,"It's not a big amount, but I think it's just disappointing, really.",3.964,A,NEGATIVE
+58,"I have been with you guys for four years now, and this is the only time I paid late.",5.12,A,NEGATIVE
+59,"Not intentionally, mind you, because I would have paid on time if it was up to me.",3.584,A,NEUTRAL
+60,But I had an issue with my bank.,1.984,A,NEGATIVE
+61,It took them days to fix it.,1.824,A,NEUTRAL
+62,It's just disappointing.,1.458,A,NEGATIVE
+63,"One mistake without warning, poof, my $3 went down the drain.",4.846,A,NEGATIVE
+64,You know what I mean?,0.984,A,NEUTRAL
+65,It's disappointing.,0.776,A,NEGATIVE
+66,And to think that I have been with you guys for four years now.,3.18,A,NEUTRAL
+67,There must be something you can do about this.,2.18,A,NEUTRAL
+68,"Totally, Cersei.",1.056,B,NEUTRAL
+69,I understand.,0.772,B,NEUTRAL
+70,I honestly don't read the terms and conditions myself when I sign up for services and.,4.896,B,NEGATIVE
+71,Exactly.,0.672,A,NEUTRAL
+72,"I know that our management understands this, so that's why.",3.496,B,POSITIVE
+73,Because this is your first time getting this penalty and you have been with us a long time now.,4.932,B,NEUTRAL
+74,I can see it in your account that you have been with us since 2015.,3.74,B,NEUTRAL
+75,We can definitely give you a one time exception and cancel the $3 penalty from your charge.,5.02,B,NEUTRAL
+76,"Oh, thank you.",1.392,A,POSITIVE
+77,That's exactly what I need.,1.528,A,POSITIVE
+78,"Thank you so much, Candice.",2.064,A,POSITIVE
+79,"No problem at all, Cersei.",1.812,B,POSITIVE
+80,We give a leeway for cases like this.,2.304,B,NEUTRAL
+81,"And also, I have to remind you that this is only going to be a one time exception because this is your first time and you were not aware of this penalty.",8.062,B,NEUTRAL
+82,We are more than happy to exempt you from this charge.,2.748,B,POSITIVE
+83,Of course.,0.736,A,NEUTRAL
+84,Of course.,0.616,A,NEUTRAL
+85,I completely understand.,1.668,A,POSITIVE
+86,This will never happen again.,1.288,A,NEGATIVE
+87,"In my four years of being with you guys, I have never been late with my payments before.",4.152,A,NEUTRAL
+88,"Except for this one, of course.",1.6,A,NEUTRAL
+89,So thank you so much for resolving this issue for me.,3.528,A,POSITIVE
+90,I am forever your loyal customer.,2.584,A,POSITIVE
+91,"Oh, that's certainly music to my ears, Cersei.",2.728,B,POSITIVE
+92,That's really nice to hear.,1.168,B,POSITIVE
+93,Thank you.,0.884,B,POSITIVE
+94,So what I'm going to do is I will just submit the request to our billing department.,5.38,B,NEUTRAL
+95,Would it be okay if I put you on hold for two minutes to do that?,3.26,B,NEUTRAL
+96,Absolutely.,0.92,A,NEUTRAL
+97,Take your time.,1.072,A,NEUTRAL
+98,Thank you.,1.044,B,POSITIVE
+99,"Thanks for waiting, Searcy.",1.74,B,POSITIVE
+100,"Hi, Candice.",1.13,A,NEUTRAL
+101,So I have already submitted the request to cancel the $3 penalty from your bill.,5.03,B,NEUTRAL
+102,You can now pay your bill for $50 instead of 53.,4.82,B,NEUTRAL
+103,Perfect.,0.68,A,POSITIVE
+104,"I can't thank you enough, Candace.",2.064,A,POSITIVE
+105,You have been very helpful and very understanding.,3.152,A,POSITIVE
+106,My pleasure.,0.752,B,POSITIVE
+107,"Searcy, is there anything else that I can help you with today?",2.548,B,NEUTRAL
+108,"Oh, yes, actually.",1.592,A,POSITIVE
+109,Could you send me a confirmation email confirming what we just talked about in this call?,5.314,A,NEUTRAL
+110,Could you maybe confirm in your email that I would only pay $50 instead of 53 and that you will cancel the $3?,8.616,A,NEUTRAL
+111,"Could you do that for me, please?",1.424,A,NEUTRAL
+112,Absolutely.,0.752,B,NEUTRAL
+113,"I will send it to you within two to three minutes after this call to you to the email on file, which is searcyasterlyrock.com.",9.996,B,NEUTRAL
+114,Perfect.,0.776,A,POSITIVE
+115,"Thank you so much, Candace, and so sorry for the trouble that's all I need for today.",4.752,A,POSITIVE
+116,"No trouble at all, Cersei.",1.28,B,NEUTRAL
+117,No trouble at all.,1.192,B,NEUTRAL
+118,"If that's all you need for today, then you have a fantastic day.",3.712,B,POSITIVE
+119,Thank you for calling.,0.752,B,POSITIVE
+120,Power up.,0.932,B,NEUTRAL
+121,"You, too, Candace.",1.184,A,NEUTRAL
+122,Have a fantastic shift.,1.584,A,POSITIVE
+123,Bye.,0.768,A,NEUTRAL
+124,I will.,0.52,B,POSITIVE
+125,Bye.,0.216,A,NEUTRAL

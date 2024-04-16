@@ -1,119 +1,119 @@
 SentenceID,Text,Duration,Speaker,Sentiment
-1,"Hi, thank you for calling power up.",1.542,A,POSITIVE
-2,This is Candice.,0.784,A,NEUTRAL
-3,How may I help you?,1.236,A,NEUTRAL
-4,"Hi, Candice.",0.968,B,NEUTRAL
-5,This is Cersei.,0.888,B,NEUTRAL
-6,How are you?,1.004,B,NEUTRAL
-7,"Great, thank you.",1.304,A,POSITIVE
-8,How are you?,0.988,A,NEUTRAL
-9,"Well, I'm a little confused, but I'm fine.",3.192,B,NEUTRAL
-10,Huh.,0.712,A,NEUTRAL
-11,Tell me all about it.,1.516,A,NEUTRAL
-12,"So, I got my November billing statement, and it looks like you are overcharging me $3.",7.34,B,NEGATIVE
-13,My subscription with you is the unlimited package for a fixed amount of $50 per month.,5.54,B,NEUTRAL
-14,"But for some reason, you are charging me an extra $3, which makes a total of $53.",7.34,B,NEGATIVE
-15,So I don't really know how it got there.,3.472,B,NEUTRAL
-16,"Oh, can I have your account number and full name so I can check your account and see what the charge was for?",5.684,A,NEUTRAL
-17,Absolutely.,1.072,B,NEUTRAL
-18,I had it written down in my notebook here.,2.156,B,NEUTRAL
-19,Hold on a sec.,0.684,B,NEUTRAL
-20,Okay.,0.56,B,NEUTRAL
-21,Mm hmm.,0.672,A,NEUTRAL
-22,Take your time.,1.044,A,NEUTRAL
-23,So.,0.74,B,NEUTRAL
-24,"So, my account number is 123456, and my full name is Cersei Bannister.",7.84,B,NEUTRAL
-25,Bannister.,0.664,B,NEUTRAL
-26,With a single n. Thank you.,2.792,B,POSITIVE
-27,Let me just pull up your account.,2.148,A,NEUTRAL
-28,Mm hmm.,0.98,A,NEUTRAL
-29,Okay.,0.86,A,NEUTRAL
-30,I am seeing here that the reason for the charge was because of the late payment for your October bill.,5.672,A,NEGATIVE
-31,"The due date was on the 16 October, but it was paid on the 17th.",4.964,A,NEUTRAL
-32,Really?,0.74,B,NEUTRAL
-33,But I was only late for a day.,2.1,B,NEUTRAL
-34,"Yes, Searcy, the due date was on the 16th.",2.952,A,NEUTRAL
-35,Any payment beyond that is already considered late and will be charged the three dollar penalty.,5.124,A,NEGATIVE
-36,Seriously?,1.064,B,NEGATIVE
-37,But that's only one day.,1.624,B,NEUTRAL
-38,"In fact, now that I think about it, it's actually even less than a day.",4.064,B,NEUTRAL
-39,It's only hours.,1.056,B,NEUTRAL
-40,"Actually, I paid the bill early in the morning of the 17th at 06:00 a.m. Couldn't you do something about this?",8.512,B,NEUTRAL
-41,Couldn't you exempt me just this one time?,2.796,B,NEUTRAL
-42,I can't.,0.576,A,NEGATIVE
-43,"Searcy, I see here in your account that you have been given a late payment exception last September 3.",4.8,A,NEUTRAL
-44,Whoa.,0.352,A,NEUTRAL
-45,"Hold on, hold on, hold on, hold on.",1.816,B,NEUTRAL
-46,I don't remember that.,1.344,B,NEUTRAL
-47,What are you talking about?,1.332,B,NEUTRAL
-48,This is my first late payment with your company.,3.312,B,NEGATIVE
-49,I have never been late with payments before.,2.684,B,NEUTRAL
-50,"According to the notes here on your account, you and I talked on September 30, 2020, you were charged a three dollar penalty, and I submitted the request to have it cancelled as a one time courtesy.",10.776,A,NEGATIVE
-51,"Also, you asked me to send you a confirmation email to confirm the exception.",5.172,A,NEUTRAL
-52,"For God's sake, this is ridiculous.",2.656,B,NEGATIVE
-53,"Listen, Candice, I want you to be reasonable here.",3.552,B,NEUTRAL
-54,"I know, I know.",1.256,B,NEUTRAL
-55,"Now, I paid late.",2.064,B,NEGATIVE
-56,Fine.,0.824,B,NEUTRAL
-57,I get it.,0.98,B,NEUTRAL
-58,"But my point is, it's only been a few hours.",3.58,B,NEUTRAL
-59,Your due date was on the 16th.,2.24,B,NEUTRAL
-60,"I paid at 06:00 a.m.. On the morning of the 17th, which means it's only been 6 hours.",7.92,B,NEUTRAL
-61,Six short hours.,2.34,B,NEUTRAL
-62,"You see the math here, Candace?",1.688,B,NEUTRAL
-63,Do you see the math?,1.208,B,NEUTRAL
-64,"It's only been 6 hours from the due date, and you're already charging me.",5.424,B,NEGATIVE
-65,Is that fair?,1.136,B,NEUTRAL
-66,Is that fair to do to your longtime customer?,3.092,B,NEUTRAL
-67,"Cersei, I completely understand.",2.144,A,NEUTRAL
-68,It's only a six hour difference.,1.992,A,NEUTRAL
-69,It's barely even a day.,1.44,A,NEUTRAL
-70,It's very short.,1.128,A,NEUTRAL
-71,And that's frustrating for you.,1.904,A,NEGATIVE
-72,I get it.,0.984,A,NEUTRAL
-73,"Now, if this was your first time receiving this penalty, like in our previous conversation, I would be able to grant your request without any problem whatsoever.",8.84,A,NEUTRAL
-74,"But because I have already given you the exception before, I have no other option but to charge you the penalty this time.",6.2,A,NEGATIVE
-75,This has been our company policy since 2010.,2.836,A,NEUTRAL
-76,"Well, then transfer me to someone who can, because I am certainly not giving up on this.",5.18,B,NEUTRAL
-77,Transfer me to your manager.,2.34,B,NEUTRAL
-78,"I'm afraid nobody can grant you request, Cersei, not even my manager.",4.344,A,NEGATIVE
-79,"There are things that my manager can do and I can't, but canceling a late payment penalty is not one of them.",7.828,A,NEGATIVE
-80,Doesn't matter.,1.056,B,NEUTRAL
-81,I still want to talk to your manager.,2.132,B,NEUTRAL
-82,"She's the manager, after all, and you're just an agent.",3.724,B,NEUTRAL
-83,"But your manager, being the manager, should be able to do something about my situation.",5.368,B,NEUTRAL
-84,It's logic.,1.14,B,NEUTRAL
-85,"I'm telling you this because I don't want to take up more of your time, especially if it means you're going to be hearing the same answer from my manager.",7.26,A,NEGATIVE
-86,"Oh, don't you worry.",1.816,B,NEUTRAL
-87,"Trust me, I have all the time in the world.",3.332,B,POSITIVE
-88,"Okay, please give me two minutes so I can inform my manager.",3.58,A,NEUTRAL
-89,You know what?,1.0,B,NEUTRAL
-90,Forget it.,1.1,B,NEGATIVE
-91,I'm sorry?,1.02,A,NEGATIVE
-92,I said forget it.,2.26,B,NEUTRAL
-93,I am done with your company.,2.0,B,NEGATIVE
-94,I am done with your crappy customer service.,2.904,B,NEGATIVE
-95,"I am done with your greedy, unreasonable policy.",3.548,B,NEGATIVE
-96,I am not wasting any of my breath talking sense into your management.,4.78,B,NEGATIVE
-97,You know what I'm going to do next month?,2.42,B,NEUTRAL
-98,I'm going to transfer over my subscription to your competitor powerdown and cancel my account with you.,6.5,B,NEGATIVE
-99,Four years I've been with you.,2.136,B,NEUTRAL
-100,"Four long years of timely payment and clean record and 6 hours of late payment, and you're acting like I haven't paid you for months.",9.412,B,NEGATIVE
-101,"Seriously, Candace, how could you even bring yourself to work for this kind of company?",6.032,B,NEGATIVE
-102,You must be so desperate for a job to be working for this kind of company who doesn't care a button for their customers.,7.124,B,NEGATIVE
-103,"I wish I could have done more, searcy, but this hasn't been our policy since 2020.",4.552,A,NEGATIVE
-104,"When it comes to penalties, we really could only give you a one time exception, and that's it.",5.528,A,NEUTRAL
-105,And I have already given you an exception last September.,3.468,A,NEUTRAL
-106,"Yeah, well, I know.",1.828,B,NEUTRAL
-107,You've told me that over and over again in this conversation.,4.416,B,NEUTRAL
-108,"In fact, you sound like a broken record.",3.064,B,NEGATIVE
-109,"Blah, blah, blah.",1.508,B,NEGATIVE
-110,"Aside from this, do you have any other concerns, questions that you want to ask?",4.58,A,NEUTRAL
-111,Nope.,0.94,B,NEUTRAL
-112,Not like you can do anything about it.,2.448,B,NEGATIVE
-113,"No offense, but you haven't helped me at all.",3.832,B,NEGATIVE
-114,"Oh, wow.",0.932,B,POSITIVE
-115,I guess you don't have a choice.,1.62,B,NEUTRAL
-116,It's just your crappy company and your desperate need for a job.,3.76,B,NEGATIVE
-117,Thanks for nothing.,1.304,B,NEGATIVE
-118,Bye.,0.328,B,NEUTRAL
+1,"Hi, thank you for calling power up.",1.542,B,POSITIVE
+2,This is Candice.,0.784,B,NEUTRAL
+3,How may I help you?,1.236,B,NEUTRAL
+4,"Hi, Candice.",0.968,A,NEUTRAL
+5,This is Cersei.,0.888,A,NEUTRAL
+6,How are you?,1.004,A,NEUTRAL
+7,"Great, thank you.",1.304,B,POSITIVE
+8,How are you?,0.988,B,NEUTRAL
+9,"Well, I'm a little confused, but I'm fine.",3.192,A,NEUTRAL
+10,Huh.,0.712,B,NEUTRAL
+11,Tell me all about it.,1.516,B,NEUTRAL
+12,"So, I got my November billing statement, and it looks like you are overcharging me $3.",7.34,A,NEGATIVE
+13,My subscription with you is the unlimited package for a fixed amount of $50 per month.,5.54,A,NEUTRAL
+14,"But for some reason, you are charging me an extra $3, which makes a total of $53.",7.34,A,NEGATIVE
+15,So I don't really know how it got there.,3.472,A,NEUTRAL
+16,"Oh, can I have your account number and full name so I can check your account and see what the charge was for?",5.684,B,NEUTRAL
+17,Absolutely.,1.072,A,NEUTRAL
+18,I had it written down in my notebook here.,2.156,A,NEUTRAL
+19,Hold on a sec.,0.684,A,NEUTRAL
+20,Okay.,0.56,A,NEUTRAL
+21,Mm hmm.,0.672,B,NEUTRAL
+22,Take your time.,1.044,B,NEUTRAL
+23,So.,0.74,A,NEUTRAL
+24,"So, my account number is 123456, and my full name is Cersei Bannister.",7.84,A,NEUTRAL
+25,Bannister.,0.664,A,NEUTRAL
+26,With a single n. Thank you.,2.792,A,POSITIVE
+27,Let me just pull up your account.,2.148,B,NEUTRAL
+28,Mm hmm.,0.98,B,NEUTRAL
+29,Okay.,0.86,B,NEUTRAL
+30,I am seeing here that the reason for the charge was because of the late payment for your October bill.,5.672,B,NEGATIVE
+31,"The due date was on the 16 October, but it was paid on the 17th.",4.964,B,NEUTRAL
+32,Really?,0.74,A,NEUTRAL
+33,But I was only late for a day.,2.1,A,NEUTRAL
+34,"Yes, Searcy, the due date was on the 16th.",2.952,B,NEUTRAL
+35,Any payment beyond that is already considered late and will be charged the three dollar penalty.,5.124,B,NEGATIVE
+36,Seriously?,1.064,A,NEGATIVE
+37,But that's only one day.,1.624,A,NEUTRAL
+38,"In fact, now that I think about it, it's actually even less than a day.",4.064,A,NEUTRAL
+39,It's only hours.,1.056,A,NEUTRAL
+40,"Actually, I paid the bill early in the morning of the 17th at 06:00 a.m. Couldn't you do something about this?",8.512,A,NEUTRAL
+41,Couldn't you exempt me just this one time?,2.796,A,NEUTRAL
+42,I can't.,0.576,B,NEGATIVE
+43,"Searcy, I see here in your account that you have been given a late payment exception last September 3.",4.8,B,NEUTRAL
+44,Whoa.,0.352,B,NEUTRAL
+45,"Hold on, hold on, hold on, hold on.",1.816,A,NEUTRAL
+46,I don't remember that.,1.344,A,NEUTRAL
+47,What are you talking about?,1.332,A,NEUTRAL
+48,This is my first late payment with your company.,3.312,A,NEGATIVE
+49,I have never been late with payments before.,2.684,A,NEUTRAL
+50,"According to the notes here on your account, you and I talked on September 30, 2020, you were charged a three dollar penalty, and I submitted the request to have it cancelled as a one time courtesy.",10.776,B,NEGATIVE
+51,"Also, you asked me to send you a confirmation email to confirm the exception.",5.172,B,NEUTRAL
+52,"For God's sake, this is ridiculous.",2.656,A,NEGATIVE
+53,"Listen, Candice, I want you to be reasonable here.",3.552,A,NEUTRAL
+54,"I know, I know.",1.256,A,NEUTRAL
+55,"Now, I paid late.",2.064,A,NEGATIVE
+56,Fine.,0.824,A,NEUTRAL
+57,I get it.,0.98,A,NEUTRAL
+58,"But my point is, it's only been a few hours.",3.58,A,NEUTRAL
+59,Your due date was on the 16th.,2.24,A,NEUTRAL
+60,"I paid at 06:00 a.m.. On the morning of the 17th, which means it's only been 6 hours.",7.92,A,NEUTRAL
+61,Six short hours.,2.34,A,NEUTRAL
+62,"You see the math here, Candace?",1.688,A,NEUTRAL
+63,Do you see the math?,1.208,A,NEUTRAL
+64,"It's only been 6 hours from the due date, and you're already charging me.",5.424,A,NEGATIVE
+65,Is that fair?,1.136,A,NEUTRAL
+66,Is that fair to do to your longtime customer?,3.092,A,NEUTRAL
+67,"Cersei, I completely understand.",2.144,B,NEUTRAL
+68,It's only a six hour difference.,1.992,B,NEUTRAL
+69,It's barely even a day.,1.44,B,NEUTRAL
+70,It's very short.,1.128,B,NEUTRAL
+71,And that's frustrating for you.,1.904,B,NEGATIVE
+72,I get it.,0.984,B,NEUTRAL
+73,"Now, if this was your first time receiving this penalty, like in our previous conversation, I would be able to grant your request without any problem whatsoever.",8.84,B,NEUTRAL
+74,"But because I have already given you the exception before, I have no other option but to charge you the penalty this time.",6.2,B,NEGATIVE
+75,This has been our company policy since 2010.,2.836,B,NEUTRAL
+76,"Well, then transfer me to someone who can, because I am certainly not giving up on this.",5.18,A,NEUTRAL
+77,Transfer me to your manager.,2.34,A,NEUTRAL
+78,"I'm afraid nobody can grant you request, Cersei, not even my manager.",4.344,B,NEGATIVE
+79,"There are things that my manager can do and I can't, but canceling a late payment penalty is not one of them.",7.828,B,NEGATIVE
+80,Doesn't matter.,1.056,A,NEUTRAL
+81,I still want to talk to your manager.,2.132,A,NEUTRAL
+82,"She's the manager, after all, and you're just an agent.",3.724,A,NEUTRAL
+83,"But your manager, being the manager, should be able to do something about my situation.",5.368,A,NEUTRAL
+84,It's logic.,1.14,A,NEUTRAL
+85,"I'm telling you this because I don't want to take up more of your time, especially if it means you're going to be hearing the same answer from my manager.",7.26,B,NEGATIVE
+86,"Oh, don't you worry.",1.816,A,NEUTRAL
+87,"Trust me, I have all the time in the world.",3.332,A,POSITIVE
+88,"Okay, please give me two minutes so I can inform my manager.",3.58,B,NEUTRAL
+89,You know what?,1.0,A,NEUTRAL
+90,Forget it.,1.1,A,NEGATIVE
+91,I'm sorry?,1.02,B,NEGATIVE
+92,I said forget it.,2.26,A,NEUTRAL
+93,I am done with your company.,2.0,A,NEGATIVE
+94,I am done with your crappy customer service.,2.904,A,NEGATIVE
+95,"I am done with your greedy, unreasonable policy.",3.548,A,NEGATIVE
+96,I am not wasting any of my breath talking sense into your management.,4.78,A,NEGATIVE
+97,You know what I'm going to do next month?,2.42,A,NEUTRAL
+98,I'm going to transfer over my subscription to your competitor powerdown and cancel my account with you.,6.5,A,NEGATIVE
+99,Four years I've been with you.,2.136,A,NEUTRAL
+100,"Four long years of timely payment and clean record and 6 hours of late payment, and you're acting like I haven't paid you for months.",9.412,A,NEGATIVE
+101,"Seriously, Candace, how could you even bring yourself to work for this kind of company?",6.032,A,NEGATIVE
+102,You must be so desperate for a job to be working for this kind of company who doesn't care a button for their customers.,7.124,A,NEGATIVE
+103,"I wish I could have done more, searcy, but this hasn't been our policy since 2020.",4.552,B,NEGATIVE
+104,"When it comes to penalties, we really could only give you a one time exception, and that's it.",5.528,B,NEUTRAL
+105,And I have already given you an exception last September.,3.468,B,NEUTRAL
+106,"Yeah, well, I know.",1.828,A,NEUTRAL
+107,You've told me that over and over again in this conversation.,4.416,A,NEUTRAL
+108,"In fact, you sound like a broken record.",3.064,A,NEGATIVE
+109,"Blah, blah, blah.",1.508,A,NEGATIVE
+110,"Aside from this, do you have any other concerns, questions that you want to ask?",4.58,B,NEUTRAL
+111,Nope.,0.94,A,NEUTRAL
+112,Not like you can do anything about it.,2.448,A,NEGATIVE
+113,"No offense, but you haven't helped me at all.",3.832,A,NEGATIVE
+114,"Oh, wow.",0.932,A,POSITIVE
+115,I guess you don't have a choice.,1.62,A,NEUTRAL
+116,It's just your crappy company and your desperate need for a job.,3.76,A,NEGATIVE
+117,Thanks for nothing.,1.304,A,NEGATIVE
+118,Bye.,0.328,A,NEUTRAL
