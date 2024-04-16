@@ -96,3 +96,4 @@ sent_data = pd.DataFrame(sent_data,
                                     "Speaker", "Sentiment"])
 
 sent_data.to_csv('sentiment_data9.csv', index=False) 
+
