@@ -56,7 +56,7 @@ for index, row in data.iterrows():
     #line, = plt.plot([time/60, time/60], [-row['Duration']/2, row['Duration']/2], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=max(1.5,3*(row['Duration']/(max(data['Duration'])))), label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
     y = row['Duration']/2
    # if row['Speaker'] == 'A':
-    line, = plt.plot([time/60, time/60], [-y, y], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence )#label=row['Text'
+    line, = plt.plot([time/60, time/60], [-y, y], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence, alpha=1 )#label=row['Text'
     #else:
         #line, = plt.plot([time/60, time/60], [-y-8, y-8], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
 
@@ -104,16 +104,20 @@ check = CheckButtons(axCheck, ['Customer', 'Agent'], [True, True])
 def func(label):
     if label == 'Customer':
         for line in customer_lines:
-            if line.get_visible():
-                line.set_visible(False)
+            if line.get_alpha() == 1:
+                #line.set_visible(False)
+                line.set_alpha(.1)
             else:
                 line.set_visible(True)
+                line.set_alpha(1)
     elif label == 'Agent':
         for line in agent_lines:
-            if line.get_visible():
-                line.set_visible(False)
+            if line.get_alpha() == 1:
+                #line.set_visible(False)
+                line.set_alpha(.1)
             else:
                 line.set_visible(True)
+                line.set_alpha(1)
     plt.draw()
 
 check.on_clicked(func)
