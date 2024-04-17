@@ -30,10 +30,10 @@ for i in range(0,9):
         improvement_rate = (-1) * (after_average - before_average) / before_average
     else: 
         improvement_rate = (1) * (after_average - before_average) / before_average
-    new_row = {'Number': i+1, "Date": dates[i+1], 'Begining_Sentiment': before_average, 'After_Sentiment': after_average, 'Improvement_Rate': improvement_rate}
+    new_row = {'Number': i+1, "Date": dates[i], 'Begining_Sentiment': before_average, 'After_Sentiment': after_average, 'Improvement_Rate': improvement_rate}
 
     # Inserting the new row into the DataFrame
     satisfaction_data = satisfaction_data._append(new_row, ignore_index=True)
 print(satisfaction_data)
-satisfaction_data.to_csv('satisfaction_data/all.csv')
+satisfaction_data.to_csv('satisfaction_data/improvement_rates.csv')
 

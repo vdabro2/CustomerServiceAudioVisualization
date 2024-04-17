@@ -32,7 +32,7 @@ for i in range(0,9):
 
     total_cus = customer_neg + customer_neu + customer_pos
     total_agent = agent_neg + agent_neu + agent_pos
-    new_row = {'Number': i+1, "Date": dates[i+1], 
+    new_row = {'Number': i+1, "Date": dates[i], 
                'Negative_Customer': customer_neg/total_cus, 
                'Neutral_Customer' : customer_neu/total_cus, 
                'Positive_Customer': customer_pos/total_cus,
