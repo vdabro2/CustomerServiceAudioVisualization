@@ -10,7 +10,7 @@ print(average_improvement_rate)
 average_improvement_rate.plot.bar(x=average_improvement_rate.index, y='Improvement_Rate', color='#c3a4cf')
 plt.xlabel('Date')
 plt.ylabel('Improvement Rate (%)')
-plt.title('Customer Mood Improvement Averages')
+plt.title('Average Customer Mood Improvement per Day')
 plt.xticks(rotation=45)  # Rotate x-axis labels for better readability
 plt.grid(True)
 plt.tight_layout()  # Adjust layout to prevent clipping of labels
