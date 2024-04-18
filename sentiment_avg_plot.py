@@ -1,7 +1,7 @@
 # Plots the sentiment avagrges per day 
 import pandas as pd
 import matplotlib.pyplot as plt
-import mplcursors
+from matplotlib.widgets import Button
 
 improvement_data = pd.read_csv('satisfaction_data/avg_sentiments.csv')
 dates = ['2024-04-04', '2024-04-05', '2024-04-06', '2024-04-07', '2024-04-08', '2024-04-09']
@@ -86,6 +86,31 @@ def find_data_point(event):
 
 fig.canvas.mpl_connect("motion_notify_event", hover)
 
-plt.tight_layout()  # Adjust layout to prevent clipping of labels
+# Help Tooltip
+help_axes = plt.axes([.5, .85, .1, .4])
+help_axes.set_axis_off()
+help_annot = help_axes.annotate("", xy=(0,0),textcoords="offset points",
+                    bbox=dict(boxstyle="round", fc="w"))
+is_help_visible = False
+def toggle_help(val):
+    global is_help_visible
+    if is_help_visible:
+        is_help_visible = False
+        help_annot.set_visible(False)
+        fig.canvas.draw_idle()
+    else:
+        help_annot.xy = ([0,0])
+        text = "This graph shows the average postive, \nnegative, and neutral sentiments per day of \nboth the customer and agent."
+        help_annot.set_text(text)
+        help_annot.get_bbox_patch().set_alpha(1)
 
+        is_help_visible = True
+        help_annot.set_visible(True)
+        fig.canvas.draw_idle()
+
+button_axes = plt.axes([0.66, 0.95, 0.03, 0.03])
+bnext = Button(button_axes, '?',color="white")
+bnext.on_clicked(toggle_help)
+
+plt.tight_layout()  # Adjust layout to prevent clipping of labels
 plt.show()
