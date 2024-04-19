@@ -1,181 +1,119 @@
 SentenceID,Text,Duration,Speaker,Sentiment
-1,Hello?,0.58,A,NEUTRAL
-2,"Hi, may I speak with Vanessa Roberts?",2.1,B,NEUTRAL
-3,This is she.,1.088,A,NEUTRAL
-4,"Good morning, Vanessa.",1.144,B,POSITIVE
-5,This is Candice from christiantel.com.,1.96,B,NEUTRAL
-6,The reason for my call today is about the form you filled out on our website for our fiber plans.,4.872,B,NEUTRAL
-7,Have I caught you at a good time?,1.788,B,NEUTRAL
-8,"For now, it's fine, but I might be busy soon, but we can talk about it now.",4.504,A,POSITIVE
-9,Perfect.,0.6,B,POSITIVE
-10,"First, I'd like to quickly confirm your address and see if it's part of our serviceable locations.",4.56,B,NEUTRAL
-11,"What we have here is key spruce Way, San Antonio, Florida 33576.",7.654,B,NEUTRAL
-12,Is this correct?,1.204,B,NEUTRAL
-13,That's correct.,1.18,A,NEUTRAL
-14,Perfect.,0.616,B,POSITIVE
-15,So this address is eligible for a fiber connection.,2.664,B,NEUTRAL
-16,We can provide you with the service.,1.824,B,NEUTRAL
-17,Would you like to know more about our available plans?,2.78,B,NEUTRAL
-18,"Actually, I was just curious if my location's serviceable for fiber, but I'm not really actively looking to switch right now.",7.508,A,NEUTRAL
-19,"I'm kind of happy with my current provider, so I understand this is just going to be a discovery call to see if there are areas where we might be able to help you out with.",9.172,B,POSITIVE
-20,"If I could just ask you real quick, how much is the average speed you're getting from your current provider?",4.652,B,NEUTRAL
-21,I'm not sure.,0.792,A,NEUTRAL
-22,I haven't really checked.,1.408,A,NEUTRAL
-23,And what's your current provider?,1.708,B,NEUTRAL
-24,BCNC.,1.224,A,NEUTRAL
-25,And what do you usually use your connection for?,2.288,B,NEUTRAL
-26,"Browsing, gaming, streaming, um, all sorts of things, but mainly just browsing, facetime, and streaming most of all.",9.62,A,NEUTRAL
-27,"And are you totally happy with how the speed performs for each of these activities, or do you think it could be better in some aspects?",6.184,B,NEUTRAL
-28,"Uh, I would say totally happy, but mostly it's acceptable.",5.024,A,POSITIVE
-29,"When watching videos on 4k, there's definitely some lagging.",2.92,A,NEGATIVE
-30,Doesn't matter which device.,0.96,A,NEUTRAL
-31,"On our phones, on our tv, it would just freeze for a few seconds and then resume.",4.162,A,NEUTRAL
-32,I'm guessing it's a connection because it's definitely not the device.,2.778,A,NEUTRAL
-33,We just bought this 4K tv last month and it's been happening like clockwork every time we watch in 4k.,5.02,A,NEUTRAL
-34,"Other than that, it's fine.",1.82,A,POSITIVE
-35,"You know, when streaming 4k videos, you normally need 25 megabits per second to effectively load without lagging anything lower than 25.",7.408,B,NEUTRAL
-36,It would definitely slow you down one way or another.,2.676,B,NEGATIVE
-37,"Oh, really?",0.544,A,NEUTRAL
-38,I wasn't exactly aware of that.,2.068,A,NEUTRAL
-39,"Tell you what, Vanessa, why don't we test your connection and see how much speed you're exactly getting?",4.824,B,NEUTRAL
-40,Because I think you're getting less than 25.,2.152,B,NEUTRAL
-41,"Or if you are, chances are it's not a consistent 25 throughout the day.",3.792,B,NEGATIVE
-42,Are you in front of your computer right now?,1.908,B,NEUTRAL
-43,"No, but now that you raise that I'm actually curious since I haven't really checked the speed before.",4.552,A,NEUTRAL
-44,Huh.,0.448,A,NEUTRAL
-45,Uh.,0.736,A,NEUTRAL
-46,"All right, let's just go to my computer.",1.776,A,NEUTRAL
-47,What do you want me to do?,1.26,A,NEUTRAL
-48,So if you could just open a browser and go to speedtest.net.,4.02,B,NEUTRAL
-49,Uh huh.,0.928,B,NEUTRAL
-50,Speedtest.net.,3.032,A,NEUTRAL
-51,Okay.,1.052,A,NEUTRAL
-52,And then click go once you're there.,2.0,B,NEUTRAL
-53,Okay.,0.86,A,NEUTRAL
-54,"It says, oh, wow, this thing's moving.",3.14,A,POSITIVE
-55,"Yep, that's the meter.",1.552,B,NEUTRAL
-56,The first number should be your download speed.,2.604,B,NEUTRAL
-57,Okay.,0.408,B,NEUTRAL
-58,It says 8.19.,1.592,A,NEUTRAL
-59,And there's another wheel coming up.,1.92,A,NEUTRAL
-60,I guess that'll be the upload speed.,1.944,A,NEUTRAL
-61,"Yep, that'll be the upload speed.",2.12,B,NEUTRAL
-62,Huh.,0.368,B,NEUTRAL
-63,So now it says 17.43.,3.128,A,NEUTRAL
-64,So 9.19 and 17.43.,3.05,A,NEUTRAL
-65,"So definitely not enough, huh?",1.838,A,NEGATIVE
-66,"No, definitely not enough to load 4k, you know, when you're streaming videos, we need to look at your download speed, how much megabits you're downloading from the web per second.",8.92,B,NEGATIVE
-67,Okay.,0.448,A,NEUTRAL
-68,Your download speed is 8.19.,1.584,B,NEUTRAL
-69,"That's good enough for 1080, but definitely not for 4k.",3.056,B,NEUTRAL
-70,"Because, you see, 4k technically is four times the size of 1080.",4.04,B,NEUTRAL
-71,So that's like 2 million pixels versus 8 million pixels per second.,4.42,B,NEUTRAL
-72,"Oh, wow.",0.736,A,POSITIVE
-73,So that explains the lagging then.,1.954,A,NEUTRAL
-74,"Oh, definitely.",0.942,B,POSITIVE
-75,There's no doubt about it.,1.528,B,NEUTRAL
-76,"And that's what I'm calling you about today, Vanessa.",2.136,B,NEUTRAL
-77,"If you want to make the most out of your 4K tv, then have something much faster for you with an attractive pricing.",6.56,B,POSITIVE
-78,Okay.,0.912,A,NEUTRAL
-79,"You could get up to 800 megabits per second, which is roughly 100 times faster than your current download speed.",7.152,B,POSITIVE
-80,Would you like to know more about the available plans?,2.56,B,NEUTRAL
-81,"Well, that sounds great, but how much is it?",2.744,A,POSITIVE
-82,"It depends on the plan, but 800 megabits per second starts as low as $50 per month plus installation fees.",7.444,B,NEUTRAL
-83,Okay.,0.98,A,NEUTRAL
-84,I don't know.,0.68,A,NEUTRAL
-85,That's kind of too much for me.,1.48,A,NEGATIVE
-86,I don't think we're willing to pay that much.,2.056,A,NEGATIVE
-87,"Our Internet is a little slow, but it works for us most of the time, so I don't think so.",5.812,A,NEUTRAL
-88,Okay.,0.592,B,NEUTRAL
-89,How much do you pay monthly for your current connection?,2.164,B,NEUTRAL
-90,"About 30, $33, something like that.",3.376,A,NEUTRAL
-91,That's kind of like my price range.,1.536,A,NEUTRAL
-92,I don't think I want to be paying any higher than that.,2.248,A,NEGATIVE
-93,Okay.,0.44,B,NEUTRAL
-94,"Okay, I get you.",1.064,B,NEUTRAL
-95,Let me check here.,0.704,B,NEUTRAL
-96,Okay.,0.52,B,NEUTRAL
-97,Because I might have something more suitable for you.,3.656,B,NEUTRAL
-98,"Oh, okay.",1.18,A,NEUTRAL
-99,Okay.,0.624,B,NEUTRAL
-100,What if I tell you you can get 100 megabits per second for only $25 with free installation fee?,7.284,B,NEUTRAL
-101,$25 for how much?,1.668,A,NEUTRAL
-102,How much speed?,1.096,A,NEUTRAL
-103,100 megabits.,1.432,B,NEUTRAL
-104,"Not as fast as 800, but definitely twelve times faster than your current download speed, more than enough to play four k and cheaper than $33.",8.304,B,POSITIVE
-105,How does that sound?,1.252,B,NEUTRAL
-106,That's getting interesting.,1.58,A,POSITIVE
-107,But first I'm gonna have to talk to my husband about it.,2.74,A,NEUTRAL
-108,I also have to go to work now.,1.84,A,NEUTRAL
-109,Can you call me later after work this evening?,3.018,A,NEUTRAL
-110,"Sure, I can call you back at six or seven this evening.",2.758,B,NEUTRAL
-111,Which do you prefer?,1.152,B,NEUTRAL
-112,Seven should be fine.,1.436,A,POSITIVE
-113,Alright then.,0.688,B,NEUTRAL
-114,Thank you for your time.,0.672,B,POSITIVE
-115,"Vanessa, I'll call you back at seven in the evening today.",2.48,B,NEUTRAL
-116,Have a good day.,1.12,B,POSITIVE
-117,You too.,0.784,A,NEUTRAL
-118,Bye.,0.732,A,NEUTRAL
-119,Hello?,0.82,A,NEUTRAL
-120,"Hi Vanessa, good evening.",1.744,B,POSITIVE
-121,This is Candice from christiantel.com.,1.888,B,NEUTRAL
-122,I'm following up with you as we agreed this morning to boost your Internet speed for a 4k loading capability.,5.26,B,POSITIVE
-123,"Oh yes, hello Candace, how are you?",2.084,A,POSITIVE
-124,I'm doing fantastic.,1.424,B,POSITIVE
-125,I'm just about to head home.,1.448,B,NEUTRAL
-126,I'm just doing my last calls for the day.,2.152,B,NEUTRAL
-127,How are you?,0.992,B,NEUTRAL
-128,"Great, great, thank you.",1.184,A,POSITIVE
-129,I just finished work and I have talked to my husband about it.,4.192,A,NEUTRAL
-130,We just have a few questions before we jump into it.,2.616,A,NEUTRAL
-131,"Of course, sure, go ahead.",1.924,B,POSITIVE
-132,I'm a little unclear about the pricing.,1.808,A,NEGATIVE
-133,"You said it was dollar 25, which is a lot cheaper than my current provider and a lot faster too, which is what got us interested, you know?",8.776,A,POSITIVE
-134,Sure.,0.592,A,NEUTRAL
-135,"But what I'd like to know is $25 going to be my regular monthly fee or is it only for a couple of months and I'll pay the regular price because if that is the case, we're not interested.",12.004,A,NEGATIVE
-136,"Oh, $25 is actually already our regular pricing for 100 megabits per second fiber connection.",5.62,B,NEUTRAL
-137,"Oh, and no additional fee on top of dollar 25 after a few months, no additional fee because that's already the regular pricing and the installation is free as well.",10.02,B,NEUTRAL
-138,"Oh, okay then.",1.752,A,NEUTRAL
-139,Great.,0.408,A,POSITIVE
-140,Let's do it.,0.944,A,POSITIVE
-141,Perfect.,0.608,B,POSITIVE
-142,"So to recap real quick, I've got you a plan for 100 megabits per second for a $25 monthly fee, no installation fee.",9.144,B,NEUTRAL
-143,Placing the order will only take a couple of minutes.,2.36,B,NEUTRAL
-144,"I'll send you the link, then I'll walk you through the steps to sign up.",3.632,B,NEUTRAL
-145,Are you ready?,0.98,B,NEUTRAL
-146,"Alright, I've just sent you the sign up link to your email vanessarobertsmail.com dot.",6.25,B,NEUTRAL
-147,"Okay, let me check.",1.454,A,NEUTRAL
-148,Mm hmm.,0.908,B,NEUTRAL
-149,I got it.,0.992,A,POSITIVE
-150,Great.,0.376,B,POSITIVE
-151,So just click on the link and fill out the required information and you should receive a confirmation email after that.,5.644,B,NEUTRAL
-152,"Okay, I'm doing it now.",1.62,A,NEUTRAL
-153,"Okay, I think I'm done.",1.504,A,NEUTRAL
-154,What's next?,0.88,A,NEUTRAL
-155,Now you can choose the plan and payment method and make sure to unclick the box next to the installation fee since you already have a landline installed and click on submit order.,11.042,B,NEUTRAL
-156,"Yes, click on submit order, and that should complete the purchase.",3.516,B,NEUTRAL
-157,"Okay, I think I'm done.",1.488,A,NEUTRAL
-158,"Okay, let me check here.",1.876,B,NEUTRAL
-159,One moment.,1.26,B,NEUTRAL
-160,Congratulations.,1.144,B,POSITIVE
-161,I see here that the order is successful.,2.552,B,POSITIVE
-162,You will get your router within three business days.,2.88,B,NEUTRAL
-163,And I will also send you a link to a video showing the step by step instructions on how to activate it.,5.844,B,NEUTRAL
-164,Thank you.,1.02,A,POSITIVE
-165,"But my service will continue working until we receive the router, right?",5.864,A,NEUTRAL
-166,"Oh, definitely.",0.968,B,POSITIVE
-167,Your service will continue working without any interruption.,3.34,B,POSITIVE
-168,Perfect.,0.696,A,POSITIVE
-169,"We are honestly so excited about it, and I hope we won't get disappointed.",5.112,A,POSITIVE
-170,"No, you won't be.",1.568,B,NEUTRAL
-171,"When you're finally able to make the most out of your 4K tv with no more buffering, why would you be disappointed?",6.316,B,NEUTRAL
-172,"Well, when you put it like that, it makes sense.",2.54,A,POSITIVE
-173,"And if you need help, you can always call a customer service hotline, and they'll be there to answer billing and technical questions.",6.824,B,NEUTRAL
-174,"All right, Candice, thank you so much.",1.864,A,POSITIVE
-175,And we'll just wait for the router.,1.72,A,NEUTRAL
-176,You have yourself a great evening.,1.776,A,POSITIVE
-177,"You too, Vanessa.",1.376,B,NEUTRAL
-178,You have a great evening.,1.48,B,POSITIVE
-179,Bye bye.,1.664,B,NEUTRAL
-180,I will.,0.296,B,POSITIVE
+1,"Hi, thank you for calling power up.",1.542,B,POSITIVE
+2,This is Candice.,0.784,B,NEUTRAL
+3,How may I help you?,1.236,B,NEUTRAL
+4,"Hi, Candice.",0.968,A,NEUTRAL
+5,This is Cersei.,0.888,A,NEUTRAL
+6,How are you?,1.004,A,NEUTRAL
+7,"Great, thank you.",1.304,B,POSITIVE
+8,How are you?,0.988,B,NEUTRAL
+9,"Well, I'm a little confused, but I'm fine.",3.192,A,NEUTRAL
+10,Huh.,0.712,B,NEUTRAL
+11,Tell me all about it.,1.516,B,NEUTRAL
+12,"So, I got my November billing statement, and it looks like you are overcharging me $3.",7.34,A,NEGATIVE
+13,My subscription with you is the unlimited package for a fixed amount of $50 per month.,5.54,A,NEUTRAL
+14,"But for some reason, you are charging me an extra $3, which makes a total of $53.",7.34,A,NEGATIVE
+15,So I don't really know how it got there.,3.472,A,NEUTRAL
+16,"Oh, can I have your account number and full name so I can check your account and see what the charge was for?",5.684,B,NEUTRAL
+17,Absolutely.,1.072,A,NEUTRAL
+18,I had it written down in my notebook here.,2.156,A,NEUTRAL
+19,Hold on a sec.,0.684,A,NEUTRAL
+20,Okay.,0.56,A,NEUTRAL
+21,Mm hmm.,0.672,B,NEUTRAL
+22,Take your time.,1.044,B,NEUTRAL
+23,So.,0.74,A,NEUTRAL
+24,"So, my account number is 123456, and my full name is Cersei Bannister.",7.84,A,NEUTRAL
+25,Bannister.,0.664,A,NEUTRAL
+26,With a single n. Thank you.,2.792,A,POSITIVE
+27,Let me just pull up your account.,2.148,B,NEUTRAL
+28,Mm hmm.,0.98,B,NEUTRAL
+29,Okay.,0.86,B,NEUTRAL
+30,I am seeing here that the reason for the charge was because of the late payment for your October bill.,5.672,B,NEGATIVE
+31,"The due date was on the 16 October, but it was paid on the 17th.",4.964,B,NEUTRAL
+32,Really?,0.74,A,NEUTRAL
+33,But I was only late for a day.,2.1,A,NEUTRAL
+34,"Yes, Searcy, the due date was on the 16th.",2.952,B,NEUTRAL
+35,Any payment beyond that is already considered late and will be charged the three dollar penalty.,5.124,B,NEGATIVE
+36,Seriously?,1.064,A,NEGATIVE
+37,But that's only one day.,1.624,A,NEUTRAL
+38,"In fact, now that I think about it, it's actually even less than a day.",4.064,A,NEUTRAL
+39,It's only hours.,1.056,A,NEUTRAL
+40,"Actually, I paid the bill early in the morning of the 17th at 06:00 a.m. Couldn't you do something about this?",8.512,A,NEUTRAL
+41,Couldn't you exempt me just this one time?,2.796,A,NEUTRAL
+42,I can't.,0.576,B,NEGATIVE
+43,"Searcy, I see here in your account that you have been given a late payment exception last September 3.",4.8,B,NEUTRAL
+44,Whoa.,0.352,B,NEUTRAL
+45,"Hold on, hold on, hold on, hold on.",1.816,A,NEUTRAL
+46,I don't remember that.,1.344,A,NEUTRAL
+47,What are you talking about?,1.332,A,NEUTRAL
+48,This is my first late payment with your company.,3.312,A,NEGATIVE
+49,I have never been late with payments before.,2.684,A,NEUTRAL
+50,"According to the notes here on your account, you and I talked on September 30, 2020, you were charged a three dollar penalty, and I submitted the request to have it cancelled as a one time courtesy.",10.776,B,NEGATIVE
+51,"Also, you asked me to send you a confirmation email to confirm the exception.",5.172,B,NEUTRAL
+52,"For God's sake, this is ridiculous.",2.656,A,NEGATIVE
+53,"Listen, Candice, I want you to be reasonable here.",3.552,A,NEUTRAL
+54,"I know, I know.",1.256,A,NEUTRAL
+55,"Now, I paid late.",2.064,A,NEGATIVE
+56,Fine.,0.824,A,NEUTRAL
+57,I get it.,0.98,A,NEUTRAL
+58,"But my point is, it's only been a few hours.",3.58,A,NEUTRAL
+59,Your due date was on the 16th.,2.24,A,NEUTRAL
+60,"I paid at 06:00 a.m.. On the morning of the 17th, which means it's only been 6 hours.",7.92,A,NEUTRAL
+61,Six short hours.,2.34,A,NEUTRAL
+62,"You see the math here, Candace?",1.688,A,NEUTRAL
+63,Do you see the math?,1.208,A,NEUTRAL
+64,"It's only been 6 hours from the due date, and you're already charging me.",5.424,A,NEGATIVE
+65,Is that fair?,1.136,A,NEUTRAL
+66,Is that fair to do to your longtime customer?,3.092,A,NEUTRAL
+67,"Cersei, I completely understand.",2.144,B,NEUTRAL
+68,It's only a six hour difference.,1.992,B,NEUTRAL
+69,It's barely even a day.,1.44,B,NEUTRAL
+70,It's very short.,1.128,B,NEUTRAL
+71,And that's frustrating for you.,1.904,B,NEGATIVE
+72,I get it.,0.984,B,NEUTRAL
+73,"Now, if this was your first time receiving this penalty, like in our previous conversation, I would be able to grant your request without any problem whatsoever.",8.84,B,NEUTRAL
+74,"But because I have already given you the exception before, I have no other option but to charge you the penalty this time.",6.2,B,NEGATIVE
+75,This has been our company policy since 2010.,2.836,B,NEUTRAL
+76,"Well, then transfer me to someone who can, because I am certainly not giving up on this.",5.18,A,NEUTRAL
+77,Transfer me to your manager.,2.34,A,NEUTRAL
+78,"I'm afraid nobody can grant you request, Cersei, not even my manager.",4.344,B,NEGATIVE
+79,"There are things that my manager can do and I can't, but canceling a late payment penalty is not one of them.",7.828,B,NEGATIVE
+80,Doesn't matter.,1.056,A,NEUTRAL
+81,I still want to talk to your manager.,2.132,A,NEUTRAL
+82,"She's the manager, after all, and you're just an agent.",3.724,A,NEUTRAL
+83,"But your manager, being the manager, should be able to do something about my situation.",5.368,A,NEUTRAL
+84,It's logic.,1.14,A,NEUTRAL
+85,"I'm telling you this because I don't want to take up more of your time, especially if it means you're going to be hearing the same answer from my manager.",7.26,B,NEGATIVE
+86,"Oh, don't you worry.",1.816,A,NEUTRAL
+87,"Trust me, I have all the time in the world.",3.332,A,POSITIVE
+88,"Okay, please give me two minutes so I can inform my manager.",3.58,B,NEUTRAL
+89,You know what?,1.0,A,NEUTRAL
+90,Forget it.,1.1,A,NEGATIVE
+91,I'm sorry?,1.02,B,NEGATIVE
+92,I said forget it.,2.26,A,NEUTRAL
+93,I am done with your company.,2.0,A,NEGATIVE
+94,I am done with your crappy customer service.,2.904,A,NEGATIVE
+95,"I am done with your greedy, unreasonable policy.",3.548,A,NEGATIVE
+96,I am not wasting any of my breath talking sense into your management.,4.78,A,NEGATIVE
+97,You know what I'm going to do next month?,2.42,A,NEUTRAL
+98,I'm going to transfer over my subscription to your competitor powerdown and cancel my account with you.,6.5,A,NEGATIVE
+99,Four years I've been with you.,2.136,A,NEUTRAL
+100,"Four long years of timely payment and clean record and 6 hours of late payment, and you're acting like I haven't paid you for months.",9.412,A,NEGATIVE
+101,"Seriously, Candace, how could you even bring yourself to work for this kind of company?",6.032,A,NEGATIVE
+102,You must be so desperate for a job to be working for this kind of company who doesn't care a button for their customers.,7.124,A,NEGATIVE
+103,"I wish I could have done more, searcy, but this hasn't been our policy since 2020.",4.552,B,NEGATIVE
+104,"When it comes to penalties, we really could only give you a one time exception, and that's it.",5.528,B,NEUTRAL
+105,And I have already given you an exception last September.,3.468,B,NEUTRAL
+106,"Yeah, well, I know.",1.828,A,NEUTRAL
+107,You've told me that over and over again in this conversation.,4.416,A,NEUTRAL
+108,"In fact, you sound like a broken record.",3.064,A,NEGATIVE
+109,"Blah, blah, blah.",1.508,A,NEGATIVE
+110,"Aside from this, do you have any other concerns, questions that you want to ask?",4.58,B,NEUTRAL
+111,Nope.,0.94,A,NEUTRAL
+112,Not like you can do anything about it.,2.448,A,NEGATIVE
+113,"No offense, but you haven't helped me at all.",3.832,A,NEGATIVE
+114,"Oh, wow.",0.932,A,POSITIVE
+115,I guess you don't have a choice.,1.62,A,NEUTRAL
+116,It's just your crappy company and your desperate need for a job.,3.76,A,NEGATIVE
+117,Thanks for nothing.,1.304,A,NEGATIVE
+118,Bye.,0.328,A,NEUTRAL

@@ -29,13 +29,13 @@ plotted_points = []
 for xe, ye in zip(dates, y):
     for each_y in ye:
         if np.mean(each_y) > 50:
-            point = plt.scatter([xe], each_y, color='#2f67b1', s=100)
+            point = plt.scatter([xe], each_y, color='#2f67b1', s=80)
             plotted_points.append(point)
         elif np.mean(each_y) < 0:
-            point = plt.scatter([xe], each_y, color='#bf2b23', s=100)
+            point = plt.scatter([xe], each_y, color='#bf2b23', s=80)
             plotted_points.append(point)
         else:
-            point = plt.scatter([xe], each_y, color='#c3a4cf', s=100)
+            point = plt.scatter([xe], each_y, color='#c3a4cf', s=80)
             plotted_points.append(point)
 
 
