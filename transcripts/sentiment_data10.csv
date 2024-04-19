@@ -1,88 +1,88 @@
 SentenceID,Text,Duration,Speaker,Sentiment
-1,Good morning.,0.74,A,POSITIVE
-2,Thank you for calling Sunco.,2.512,A,POSITIVE
-3,My name is Alex.,1.376,A,NEUTRAL
-4,How can I assist you today?,1.724,A,NEUTRAL
-5,"Hi, Alex, my name is Jane.",2.264,B,NEUTRAL
-6,I received a package from your company a few days ago and I would like to return it.,6.672,B,POSITIVE
-7,Could you help me with that?,1.548,B,NEUTRAL
-8,"Yeah, of course, Jane.",1.368,A,NEUTRAL
-9,I'd be happy to assist you with your return.,3.076,A,POSITIVE
-10,Can I start by getting your order number or the name associated with the order?,5.7,A,NEUTRAL
-11,"Yeah, give me a second, I gotta find it.",2.792,B,NEUTRAL
-12,Sorry.,0.724,B,NEGATIVE
-13,"Okay, I got it.",1.224,B,NEUTRAL
-14,My order number is 123-45-6789 thank you.,12.02,B,POSITIVE
-15,"Jane, can you please tell me the reason for the return?",3.844,A,NEUTRAL
-16,"I just realized that I ordered the wrong size, so I want to exchange it for a larger one.",7.232,B,NEGATIVE
-17,"I got an xs, but I think I want to try a s. I see.",6.184,B,NEUTRAL
-18,"Okay, let me check your order and see what options are available.",6.58,A,NEUTRAL
-19,"Okay, it looks like you're within our return window, so that's great.",5.42,A,POSITIVE
-20,"To begin the return process, we'll need to initiate a return label for you.",5.62,A,NEUTRAL
-21,Do you have access to your email?,2.02,A,NEUTRAL
-22,"Hold on, give me a second.",2.02,B,NEUTRAL
-23,"Uh, yeah, I do.",1.7,B,NEUTRAL
-24,Perfect.,0.86,A,POSITIVE
-25,I'll send you a return label right now.,3.26,A,NEUTRAL
-26,"Once you receive it, print it out and attach it to the package securely.",6.38,A,NEUTRAL
-27,And then.,0.94,A,NEUTRAL
-28,Hmm.,0.82,A,NEUTRAL
-29,You can drop it off at any sunco location or with the designated carrier.,11.43,A,NEUTRAL
-30,"Okay, hold on.",0.832,B,NEUTRAL
-31,Let me write that all down.,1.324,B,NEUTRAL
-32,"Okay, got it.",1.46,B,NEUTRAL
-33,Is there anything else I need to include in the package?,3.54,B,NEUTRAL
-34,Let me check real quick.,1.58,A,NEUTRAL
-35,Okay.,0.86,A,NEUTRAL
-36,Sorry about the delay.,1.7,A,NEGATIVE
-37,"Actually, give me one more second to check again.",2.86,A,NEUTRAL
-38,"Okay, great.",1.472,A,POSITIVE
-39,I think I have it.,1.364,A,NEUTRAL
-40,Just make sure to include all the original items and packaging in the box.,6.82,A,NEUTRAL
-41,"Once we receive the package, our team will inspect it and process your exchange, and then you'll receive an email confirmation once the return is.",13.634,A,NEUTRAL
-42,Is complete.,1.018,A,NEUTRAL
-43,"Okay, yeah, I guess that sounds pretty straightforward.",6.18,B,POSITIVE
-44,Hold on.,0.536,B,NEUTRAL
-45,"Can I ask, how long does the return process usually take?",5.652,B,NEUTRAL
-46,"Yeah, of course.",0.88,A,NEUTRAL
-47,That's a great question.,1.74,A,POSITIVE
-48,Let me check quickly.,1.86,A,NEUTRAL
-49,Okay.,0.94,A,NEUTRAL
-50,Typically it takes about five to seven business days from the time we receive your package for the exchange to be processed.,9.38,A,NEUTRAL
-51,"However, this may vary depending on your location and shipping carrier.",6.66,A,NEUTRAL
-52,Five to seven business days.,1.952,B,NEUTRAL
-53,"Okay, so it's like a week and a bit more.",4.229,B,NEUTRAL
-54,Okay.,0.672,B,NEUTRAL
-55,Um.,0.7,B,NEUTRAL
-56,"All right, that's not too bad.",1.98,B,POSITIVE
-57,"Uh, thank you for your help.",1.92,B,POSITIVE
-58,"Alex, was it?",1.456,B,NEUTRAL
-59,Yeah.,0.496,A,NEUTRAL
-60,"Alex, thank you.",2.072,B,POSITIVE
-61,I appreciate it.,1.508,B,POSITIVE
-62,"Yeah, of course.",1.304,A,NEUTRAL
-63,"Um, you're welcome.",1.072,A,POSITIVE
-64,Jane?,0.748,A,NEUTRAL
-65,"Um, yeah.",3.5,A,NEUTRAL
-66,Let me know if there's anything else I can do for you.,3.66,A,NEUTRAL
-67,And I wish you the best of luck with your return.,3.14,A,POSITIVE
-68,And please call me if anything goes wrong.,3.46,A,NEGATIVE
-69,Alright.,0.86,A,NEUTRAL
-70,Is there anything else I can help you with today?,2.54,A,NEUTRAL
-71,"No, I think that's all for now.",3.008,B,NEUTRAL
-72,Thanks again.,0.996,B,POSITIVE
-73,"Yeah, my pleasure.",1.66,A,POSITIVE
-74,Thank you again for using Sunco.,2.9,A,POSITIVE
-75,We value you a lot as a customer.,2.712,A,POSITIVE
-76,And thank you for all the great questions.,2.204,A,POSITIVE
-77,Yeah.,0.472,A,NEUTRAL
-78,"Again, call me if you need anything else.",3.084,A,NEUTRAL
-79,Any other assistance.,1.088,A,NEUTRAL
-80,"If it's not me, just say you talked to Alex a couple days ago and I'm sure they'll help you out.",5.956,A,NEUTRAL
-81,Yeah.,0.78,A,NEUTRAL
-82,"Have a great day, Jane.",1.632,A,POSITIVE
-83,Thank you.,0.736,B,POSITIVE
-84,"You, too.",0.68,B,NEUTRAL
-85,Bye.,0.752,B,NEUTRAL
-86,Awesome.,0.464,A,POSITIVE
-87,Goodbye.,0.368,A,NEUTRAL
+1,Good morning.,0.74,B,POSITIVE
+2,Thank you for calling Sunco.,2.512,B,POSITIVE
+3,My name is Alex.,1.376,B,NEUTRAL
+4,How can I assist you today?,1.724,B,NEUTRAL
+5,"Hi, Alex, my name is Jane.",2.264,A,NEUTRAL
+6,I received a package from your company a few days ago and I would like to return it.,6.672,A,POSITIVE
+7,Could you help me with that?,1.548,A,NEUTRAL
+8,"Yeah, of course, Jane.",1.368,B,NEUTRAL
+9,I'd be happy to assist you with your return.,3.076,B,POSITIVE
+10,Can I start by getting your order number or the name associated with the order?,5.7,B,NEUTRAL
+11,"Yeah, give me a second, I gotta find it.",2.792,A,NEUTRAL
+12,Sorry.,0.724,A,NEGATIVE
+13,"Okay, I got it.",1.224,A,NEUTRAL
+14,My order number is 123-45-6789 thank you.,12.02,A,POSITIVE
+15,"Jane, can you please tell me the reason for the return?",3.844,B,NEUTRAL
+16,"I just realized that I ordered the wrong size, so I want to exchange it for a larger one.",7.232,A,NEGATIVE
+17,"I got an xs, but I think I want to try a s. I see.",6.184,A,NEUTRAL
+18,"Okay, let me check your order and see what options are available.",6.58,B,NEUTRAL
+19,"Okay, it looks like you're within our return window, so that's great.",5.42,B,POSITIVE
+20,"To begin the return process, we'll need to initiate a return label for you.",5.62,B,NEUTRAL
+21,Do you have access to your email?,2.02,B,NEUTRAL
+22,"Hold on, give me a second.",2.02,A,NEUTRAL
+23,"Uh, yeah, I do.",1.7,A,NEUTRAL
+24,Perfect.,0.86,B,POSITIVE
+25,I'll send you a return label right now.,3.26,B,NEUTRAL
+26,"Once you receive it, print it out and attach it to the package securely.",6.38,B,NEUTRAL
+27,And then.,0.94,B,NEUTRAL
+28,Hmm.,0.82,B,NEUTRAL
+29,You can drop it off at any sunco location or with the designated carrier.,11.43,B,NEUTRAL
+30,"Okay, hold on.",0.832,A,NEUTRAL
+31,Let me write that all down.,1.324,A,NEUTRAL
+32,"Okay, got it.",1.46,A,NEUTRAL
+33,Is there anything else I need to include in the package?,3.54,A,NEUTRAL
+34,Let me check real quick.,1.58,B,NEUTRAL
+35,Okay.,0.86,B,NEUTRAL
+36,Sorry about the delay.,1.7,B,NEGATIVE
+37,"Actually, give me one more second to check again.",2.86,B,NEUTRAL
+38,"Okay, great.",1.472,B,POSITIVE
+39,I think I have it.,1.364,B,NEUTRAL
+40,Just make sure to include all the original items and packaging in the box.,6.82,B,NEUTRAL
+41,"Once we receive the package, our team will inspect it and process your exchange, and then you'll receive an email confirmation once the return is.",13.634,B,NEUTRAL
+42,Is complete.,1.018,B,NEUTRAL
+43,"Okay, yeah, I guess that sounds pretty straightforward.",6.18,A,POSITIVE
+44,Hold on.,0.536,A,NEUTRAL
+45,"Can I ask, how long does the return process usually take?",5.652,A,NEUTRAL
+46,"Yeah, of course.",0.88,B,NEUTRAL
+47,That's a great question.,1.74,B,POSITIVE
+48,Let me check quickly.,1.86,B,NEUTRAL
+49,Okay.,0.94,B,NEUTRAL
+50,Typically it takes about five to seven business days from the time we receive your package for the exchange to be processed.,9.38,B,NEUTRAL
+51,"However, this may vary depending on your location and shipping carrier.",6.66,B,NEUTRAL
+52,Five to seven business days.,1.952,A,NEUTRAL
+53,"Okay, so it's like a week and a bit more.",4.229,A,NEUTRAL
+54,Okay.,0.672,A,NEUTRAL
+55,Um.,0.7,A,NEUTRAL
+56,"All right, that's not too bad.",1.98,A,POSITIVE
+57,"Uh, thank you for your help.",1.92,A,POSITIVE
+58,"Alex, was it?",1.456,A,NEUTRAL
+59,Yeah.,0.496,B,NEUTRAL
+60,"Alex, thank you.",2.072,A,POSITIVE
+61,I appreciate it.,1.508,A,POSITIVE
+62,"Yeah, of course.",1.304,B,NEUTRAL
+63,"Um, you're welcome.",1.072,B,POSITIVE
+64,Jane?,0.748,B,NEUTRAL
+65,"Um, yeah.",3.5,B,NEUTRAL
+66,Let me know if there's anything else I can do for you.,3.66,B,NEUTRAL
+67,And I wish you the best of luck with your return.,3.14,B,POSITIVE
+68,And please call me if anything goes wrong.,3.46,B,NEGATIVE
+69,Alright.,0.86,B,NEUTRAL
+70,Is there anything else I can help you with today?,2.54,B,NEUTRAL
+71,"No, I think that's all for now.",3.008,A,NEUTRAL
+72,Thanks again.,0.996,A,POSITIVE
+73,"Yeah, my pleasure.",1.66,B,POSITIVE
+74,Thank you again for using Sunco.,2.9,B,POSITIVE
+75,We value you a lot as a customer.,2.712,B,POSITIVE
+76,And thank you for all the great questions.,2.204,B,POSITIVE
+77,Yeah.,0.472,B,NEUTRAL
+78,"Again, call me if you need anything else.",3.084,B,NEUTRAL
+79,Any other assistance.,1.088,B,NEUTRAL
+80,"If it's not me, just say you talked to Alex a couple days ago and I'm sure they'll help you out.",5.956,B,NEUTRAL
+81,Yeah.,0.78,B,NEUTRAL
+82,"Have a great day, Jane.",1.632,B,POSITIVE
+83,Thank you.,0.736,A,POSITIVE
+84,"You, too.",0.68,A,NEUTRAL
+85,Bye.,0.752,A,NEUTRAL
+86,Awesome.,0.464,B,POSITIVE
+87,Goodbye.,0.368,B,NEUTRAL
