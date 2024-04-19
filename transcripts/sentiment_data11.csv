@@ -1,0 +1,84 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,"Good afternoon, thank you for calling Sunco.",3.794,A,POSITIVE
+2,"My name is Alex, how can I assist you today?",3.74,A,NEUTRAL
+3,"Um, yeah, uh, hi Alex.",4.008,B,NEUTRAL
+4,"Um, I'm really frustrated right now.",3.956,B,NEGATIVE
+5,"I got this package from you guys like a few days ago, um, and I just don't like what I ordered and I've been trying to figure out how to return it, but your return process is just way too complicated.",16.52,B,NEGATIVE
+6,"Ah, I see.",1.78,A,NEUTRAL
+7,"I'm so sorry to hear that you're having trouble, Sarah.",4.34,A,NEGATIVE
+8,Let's work together to make this right.,3.22,A,POSITIVE
+9,I'll do my best to assist you and walk you through this process.,3.9,A,POSITIVE
+10,"To start, can you please tell me what's been causing you trouble or a step you've maybe stuck on?",7.58,A,NEGATIVE
+11,"Yeah, well, I mean, first off, when I tried to figure out how to start a return, I like looked and looked, but I couldn't even find any clear instructions on your website.",14.26,B,NEGATIVE
+12,"And then I called the number on the packing slip that was in my package because I thought I could get some, get a hold of somebody, but I've been on hold forever.",11.65,B,NEGATIVE
+13,I'm sorry.,0.952,A,NEGATIVE
+14,I understand how frustrating that must be.,2.304,A,NEGATIVE
+15,"Sarah, we try our best to serve our customers as quickly as possible.",6.34,A,POSITIVE
+16,I'm not too sure what is going on with that service line right now.,4.62,A,NEGATIVE
+17,"However, I'm here right now and I will do my best to help you through this process.",6.42,A,POSITIVE
+18,So let's start and I'll walk you through the entire thing.,5.384,A,NEUTRAL
+19,Let's start by just getting your order number or the name associated with your order.,6.148,A,NEUTRAL
+20,Fine.,0.592,B,NEUTRAL
+21,"Yeah, my name is Sarah Johnson and my order number, let me find that real quick.",8.664,B,NEUTRAL
+22,"Yeah, okay.",1.304,B,POSITIVE
+23,"My order number, it is 987-65-4321 thank you Sarah.",17.608,B,POSITIVE
+24,I appreciate your patience.,1.58,A,POSITIVE
+25,"Just for security, I'll repeat the number again to make verify with you.",4.98,A,NEUTRAL
+26,So your order number is 897-65-4321 is this correct?,9.432,A,NEUTRAL
+27,"No, no, no, it's nine, eight, seven, not eight, nine, seven.",5.608,B,NEUTRAL
+28,"It's 987-65-4321 okay, I'm terribly sorry.",9.228,B,NEGATIVE
+29,Having some audio issues.,1.664,A,NEGATIVE
+30,Okay.,0.868,A,NEUTRAL
+31,987-65-4321 is that correct?,6.936,A,NEUTRAL
+32,Yes.,0.448,B,POSITIVE
+33,"Yeah, that's it.",1.532,B,NEUTRAL
+34,"Okay, awesome.",1.696,A,POSITIVE
+35,"Alright, now that we have your order number, let me walk you through the return process step by step.",7.292,A,NEUTRAL
+36,"First I'll send this, send you a return label via email.",4.86,A,NEUTRAL
+37,Do you have access to your email right now?,2.5,A,NEUTRAL
+38,"Yeah, I do.",1.26,B,NEUTRAL
+39,"Okay, great.",1.1,A,POSITIVE
+40,I'm going to send a return label to you right now.,3.5,A,NEUTRAL
+41,Okay.,0.9,A,NEUTRAL
+42,The email should be sent.,1.98,A,NEUTRAL
+43,"Once you receive it, please print it out and attach it securely to the package.",6.46,A,NEUTRAL
+44,"If you use tape, please use clear packing tape.",3.672,A,NEUTRAL
+45,And make sure the return label is very visible and in a secure spot.,6.164,A,NEUTRAL
+46,"Once you've done that, then you can go to any of our sunco locations to drop it off.",9.272,A,NEUTRAL
+47,Or you can go to the designated carrier such as USP's or UPS or FedEx.,12.164,A,NEUTRAL
+48,Yeah.,0.82,A,NEUTRAL
+49,Okay.,0.952,B,NEUTRAL
+50,"Okay, so I print it out, I tape it on, I tape up my package and I drop it off.",8.404,B,NEUTRAL
+51,"Okay, I guess that sounds doable.",2.42,B,POSITIVE
+52,Great.,0.74,A,POSITIVE
+53,I'm glad that makes sense to you.,2.38,A,POSITIVE
+54,Alright.,0.416,A,NEUTRAL
+55,"And additionally, please make sure to include all the original items and packaging in the box.",6.972,A,NEUTRAL
+56,"So anything that was originally in there, just throw it back in.",3.58,A,NEUTRAL
+57,"Once you receive the package, our team will inspect it and process your refund.",5.22,A,NEUTRAL
+58,All right?,0.6,B,NEUTRAL
+59,Okay.,0.78,B,NEUTRAL
+60,All right.,0.504,B,NEUTRAL
+61,Thank you.,0.544,B,POSITIVE
+62,Thank you for walking me through that.,1.892,B,POSITIVE
+63,"I really appreciate your help, Alex.",1.792,B,POSITIVE
+64,I'm thankful that I could finally reach someone.,2.764,B,POSITIVE
+65,"Yeah, of course, Sarah, I'm glad I could assist you and I apologize again for all the trouble you've had.",7.22,A,POSITIVE
+66,I'm sorry about the return order instructions being difficult to find.,5.648,A,NEGATIVE
+67,I'm sorry about the helpline being on hold.,3.036,A,NEGATIVE
+68,And thank you for being patient with me through this process.,4.7,A,POSITIVE
+69,Is there anything else I can help you with today?,2.82,A,NEUTRAL
+70,Let me think.,1.02,B,NEUTRAL
+71,"No, I think that's all.",3.18,B,NEUTRAL
+72,"Thank you so much again for your patience, understanding and for walking me through this process again.",7.568,B,POSITIVE
+73,"Yeah, of course.",0.872,A,NEUTRAL
+74,"You're very welcome, Sarah, you're a very valued customer of Sunco and I apologize about the inconveniences you've had today.",8.252,A,POSITIVE
+75,Thank you for choosing us and I hope you choose us again in the future.,3.62,A,POSITIVE
+76,"And yeah, if you have any other questions or concerns in the future, please don't hesitate to reach out.",6.688,A,NEUTRAL
+77,"If it's not me and it's someone else, you can just tell them you talked to Alex a couple hours or days ago and I'm sure they'll help you out.",8.768,A,NEUTRAL
+78,"So yeah, have a great rest of your day.",2.444,A,POSITIVE
+79,"Thank you, Alex.",1.104,B,POSITIVE
+80,You too.,0.672,B,NEUTRAL
+81,Bye.,0.768,B,NEUTRAL
+82,"Goodbye, Sarah.",1.056,A,NEUTRAL
+83,Take care.,0.312,A,NEUTRAL

@@ -5,13 +5,10 @@ import assemblyai as aai
 import requests
 from time import sleep
 import pandas as pd
-API_key = "API_key"
-aai.settings.api_key = API_key
-#transcriber = aai.Transcriber()
 
-#transcript = transcriber.transcribe("https://storage.googleapis.com/aai-web-samples/news.mp4")
-#file = transcriber.transcribe("./customercall1.mp3")
-#print(file.text)
+API_key = "API_key"
+file_number = '15'
+aai.settings.api_key = API_key
 
 headers = {
     'authorization': API_key, 
@@ -19,7 +16,7 @@ headers = {
 }
 
 endpoint = 'https://api.assemblyai.com/v2/upload'
-file = 'audio_data/customercall9.mp3'
+file = 'audio_data/customercall' + file_number + '.mp3'
 def read_file(file):
     with open(file, 'rb') as f:
         while True:
@@ -95,5 +92,5 @@ sent_data = pd.DataFrame(sent_data,
                          columns = ["SentenceID", "Text", "Duration", 
                                     "Speaker", "Sentiment"])
 
-sent_data.to_csv('transcripts/sentiment_data9.csv', index=False) 
+sent_data.to_csv('transcripts/sentiment_data' + file_number + '.csv', index=False) 
 
