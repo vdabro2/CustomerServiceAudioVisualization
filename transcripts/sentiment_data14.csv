@@ -1,0 +1,115 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,"Good afternoon, you've reached Techsolve.",2.182,B,POSITIVE
+2,This is Sarah speaking.,1.12,B,NEUTRAL
+3,How can I assist you today?,1.468,B,NEUTRAL
+4,Finally.,0.76,A,NEUTRAL
+5,I've been on hold for ages.,1.72,A,NEGATIVE
+6,Your company service is absolutely atrocious.,2.448,A,NEGATIVE
+7,My Internet has been down for hours and I've missed important deadlines because of it.,4.4,A,NEGATIVE
+8,What are you going to do about this?,1.628,A,NEUTRAL
+9,"I understand your frustration, John, and I sincerely apologize for the inconvenience you've experienced.",5.496,B,NEUTRAL
+10,Let's work together to resolve this issue as quickly as possible.,3.04,B,POSITIVE
+11,Can you please provide.,0.752,B,NEUTRAL
+12,Provide me with your account information so I can investigate further?,3.0,B,NEUTRAL
+13,I guess so.,0.92,A,NEUTRAL
+14,My name is John Smith and my account username is John Smith.,4.424,A,NEUTRAL
+15,Rocks.,0.772,A,NEUTRAL
+16,Please just give me one moment to pull up your account.,2.66,B,NEUTRAL
+17,"Oh, how generous of you to offer your assistance.",3.5,A,POSITIVE
+18,"Thank you, John.",0.728,B,POSITIVE
+19,I'm looking into the outage in your area right now.,2.416,B,NEUTRAL
+20,"It appears that there is a technical issue affecting several customers, and our team is working to resolve it as soon as possible.",6.14,B,NEUTRAL
+21,"I understand how frustrating this must be for you, and I appreciate your patience.",4.02,B,NEUTRAL
+22,"Oh, how wonderful.",1.632,A,POSITIVE
+23,Another technical issue.,1.728,A,NEGATIVE
+24,This seems to happen way too often with your company.,2.736,A,NEGATIVE
+25,I demand compensation for the time and productivity I've lost because of your incompetence.,5.476,A,NEGATIVE
+26,"I completely understand your frustration, John, but resorting to insults and accusations won't expedite the resolution process.",6.944,B,NEGATIVE
+27,"Rest assured, our team is working diligently to restore services in your area.",4.264,B,POSITIVE
+28,"As for compensation, I'll need to escalate your request to our billing department once the issue is resolved.",5.732,B,NEUTRAL
+29,Escalate?,1.008,A,NEUTRAL
+30,I want to speak to your supervisor right now.,2.704,A,NEUTRAL
+31,This is unacceptable.,1.516,A,NEGATIVE
+32,I demand to be compensated for this inconvenience immediately.,4.06,A,NEGATIVE
+33,"I understand your request, John.",1.752,B,NEUTRAL
+34,Please allow me one moment to connect you with a supervisor who can address your concerns further.,5.484,B,NEUTRAL
+35,Please wait on hold.,1.7,B,NEUTRAL
+36,"Thank you for your patience, John.",1.528,B,POSITIVE
+37,I've spoken with the supervisor and they'll be joining our call shortly to assist you further.,4.036,B,NEUTRAL
+38,Thank you for your cooperation.,2.2,B,POSITIVE
+39,"If you have any further questions or concerns, don't hesitate to reach out to us.",4.08,B,NEUTRAL
+40,We appreciate your patience and understanding.,2.62,B,POSITIVE
+41,"Good afternoon, and thank you for calling techsolve.",2.456,B,POSITIVE
+42,This is Sarah speaking.,0.968,B,NEUTRAL
+43,How may I assist you today?,1.532,B,NEUTRAL
+44,"Hi, Sarah.",0.736,B,NEUTRAL
+45,I'm having trouble with my Internet connection.,2.172,A,NEGATIVE
+46,"It's been really slow and I've tried rebooting the router, but nothing seems to be working.",4.136,A,NEGATIVE
+47,Can you please help me?,1.372,A,NEUTRAL
+48,"Of course, Emily.",0.776,B,NEUTRAL
+49,I'm here to help.,0.656,B,POSITIVE
+50,Let's work together to troubleshoot your Internet connection issue.,3.352,B,NEUTRAL
+51,Can you confirm if you've noticed any specific patterns or times when the Internet is slower than usual?,5.148,B,NEUTRAL
+52,"Yeah, usually in the morning.",2.064,A,NEUTRAL
+53,It seems to be especially slow during peak hours in the evening around seven to 09:00 p.m.,6.472,A,NEGATIVE
+54,"But I've noticed that streaming videos, videos or video calls become almost impossible.",5.468,A,NEGATIVE
+55,I see.,0.664,B,NEUTRAL
+56,It's possible that the increased network usage during peak hours could be impacting your Internet speed.,5.392,B,NEUTRAL
+57,Let's run a few tests to see if we can identify any other potential issues.,4.384,B,NEUTRAL
+58,Can you please run a speed test on one of your devices and let me know the results?,3.932,B,NEUTRAL
+59,"Okay, will do.",1.34,A,NEUTRAL
+60,It's showing much lower speeds than what I'm supposed to be getting.,2.96,A,NEGATIVE
+61,Is there anything else I can do to try to improve the connection?,3.5,A,NEUTRAL
+62,"In addition to rebooting the router, let's try power cycling both your modem and router.",6.376,B,NEUTRAL
+63,"First, could you please unplug the power cables from both devices and then wait for about 30 seconds?",5.744,B,NEUTRAL
+64,And then after that you could plug them back in and allow them to fully restart before running another speed test?,5.724,B,NEUTRAL
+65,"Okay, I'm gonna do just that.",1.82,A,NEUTRAL
+66,"It seems to be a bit better now, but not so quite up to the speed I'm paying for.",3.972,A,NEUTRAL
+67,Is there anything else we can do?,1.864,A,NEUTRAL
+68,Let's try adjusting the wireless channel on your router to see if that improves the signal strength and speed.,5.384,B,NEUTRAL
+69,I'll guide you through the process of accessing your router settings.,3.348,B,NEUTRAL
+70,"Okay, I've changed the wireless channel as okay, I've changed the wireless channel as instructed.",6.912,A,NEUTRAL
+71,Let me run another speed test to see if there's any improvement.,3.044,A,NEUTRAL
+72,"Wow, it's so much faster now.",1.552,A,POSITIVE
+73,Thank you so much Sarah.,1.184,A,POSITIVE
+74,I really appreciate your help.,1.58,A,POSITIVE
+75,You're welcome Emily.,0.864,B,POSITIVE
+76,I'm glad we could improve your Internet connection speed.,2.792,B,POSITIVE
+77,"If you encounter any other issues or have questions in the future, don't hesitate to reach out to us.",4.568,B,NEUTRAL
+78,Thank you for choosing techsolve and have a great day.,3.14,B,POSITIVE
+79,"Good afternoon, thank you for contacting techsolve.",2.56,B,POSITIVE
+80,This is Sarah speaking.,0.976,B,NEUTRAL
+81,How can I assist you today?,1.492,B,NEUTRAL
+82,"Hi Sarah, I've been having issues with my email for days now.",3.368,A,NEGATIVE
+83,I've tried everything I can think of but can't seem to send or receive any emails.,4.864,A,NEGATIVE
+84,This is causing major problems for my business and I need to fix ASAP.,3.956,A,NEGATIVE
+85,"I understand how important email communication is for your business, Mark.",3.64,B,POSITIVE
+86,Let's work together to get this sorted out.,2.16,B,NEUTRAL
+87,Can you please confirm if you're encountering this issue on a computer or a mobile device?,4.26,B,NEUTRAL
+88,It's happening on my computer.,1.678,A,NEUTRAL
+89,"I've checked all my settings and even tried accessing my email from a different browser, but nothing seems to work.",6.766,A,NEGATIVE
+90,"Alright, let's try a few troubleshooting steps to pinpoint the issue.",3.536,B,NEUTRAL
+91,"First, I'd like you to login to your email account using a web browser on your computer.",4.576,B,NEUTRAL
+92,"Once you're logged in, try sending a test email to see if you encounter any error messages.",4.508,B,NEUTRAL
+93,"Okay, I'm gonna do that.",1.54,A,NEUTRAL
+94,I tried sending a test email but it's giving me an error saying fail to send email.,5.328,A,NEGATIVE
+95,I don't understand what's going on.,1.756,A,NEGATIVE
+96,It sounds like there might be an issue with your email server settings or authentication.,4.42,B,NEGATIVE
+97,Let's try removing and re adding your email account to see if that resolves the issue.,3.992,B,NEUTRAL
+98,I'll guide you through that process step by step.,2.724,B,NEUTRAL
+99,"So first, could you please navigate to your email and then unclick it?",5.136,B,NEUTRAL
+100,"And then blah, blah blah.",2.492,B,NEGATIVE
+101,"Okay, I've re added my email account and I'm still getting the same error message when I try to send an email.",5.856,A,NEGATIVE
+102,This is getting really frustrating.,1.972,A,NEGATIVE
+103,"I understand, Mark.",1.032,B,NEUTRAL
+104,Let's try checking your outgoing email server settings to ensure that they're configured correctly.,4.898,B,NEUTRAL
+105,It's possible that there's a typo or an incorrect setting causing the issue.,3.838,B,NEGATIVE
+106,I'll walk you through how to review and update these settings.,2.86,B,NEUTRAL
+107,"Ah, I think I found the problem.",1.792,A,NEGATIVE
+108,It looks like the outgoing server report was set incorrectly.,2.72,A,NEGATIVE
+109,I adjusted it to the correct port number and now I'm able to send emails without any issues.,4.672,A,POSITIVE
+110,"Thank you so much for your help, Sarah.",1.912,A,POSITIVE
+111,"You're welcome, Mark.",0.856,B,POSITIVE
+112,I'm glad we were able to get your email working again.,2.608,B,POSITIVE
+113,"If you have any further questions or encounter any other issues, don't hesitate to reach out to us.",4.546,B,NEUTRAL
+114,Thank you for choosing techsolve and have a great day.,2.286,B,POSITIVE

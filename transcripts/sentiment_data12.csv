@@ -1,0 +1,106 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,"Hello, and thank you for reaching out to Sunco customer service.",5.914,B,POSITIVE
+2,My name is Alex.,1.5,B,NEUTRAL
+3,How can I help you today?,1.62,B,NEUTRAL
+4,"Yeah, hi, Alex.",1.78,A,NEUTRAL
+5,My name is Mark.,1.496,A,NEUTRAL
+6,I am actually pretty frustrated right now.,3.092,A,NEGATIVE
+7,"Two weeks ago, I ordered a product from your company and it arrived damaged.",6.26,A,NEGATIVE
+8,"There's like, a tear in my shoe.",2.992,A,NEGATIVE
+9,And that's not what I.,2.04,A,NEGATIVE
+10,That's not what I ordered.,1.448,A,NEGATIVE
+11,"I want a replacement, but your return process is just too complicated.",4.772,A,NEGATIVE
+12,"I'm really sorry to hear about that, Mark.",2.34,B,NEGATIVE
+13,"At Sunco, we try and give the best experience possible to all our customers.",4.464,B,POSITIVE
+14,"So this is very bad, and we'll make sure to.",4.386,B,NEGATIVE
+15,To fix this as quickly as possible.,2.986,B,NEUTRAL
+16,I understand your frustrations and I'm here to help.,3.42,B,NEUTRAL
+17,Can you please provide me with your order number or the name associated with your order?,5.98,B,NEUTRAL
+18,"Ugh, fine.",1.98,A,NEUTRAL
+19,It's.,0.608,A,NEUTRAL
+20,"Well, my name, it's Mark Thompson.",3.396,A,NEUTRAL
+21,"And my order number, let me find that real quick.",3.73,A,NEUTRAL
+22,"Okay, yeah, I found it.",1.312,A,POSITIVE
+23,It's here.,1.284,A,NEUTRAL
+24,My order number.,1.176,A,NEUTRAL
+25,"It's 123-45-6789 okay, thank you, Mark.",15.912,A,POSITIVE
+26,"Just to confirm with you, your order number is 132-45-6798 is that correct?",12.584,B,NEUTRAL
+27,"No, no, that's not it.",1.88,A,NEGATIVE
+28,"No, that's not what I said.",1.764,A,NEUTRAL
+29,"My order number, it's 123-45-6789 okay, I'm so sorry, Mark.",15.184,A,NEGATIVE
+30,I misheard you.,1.508,B,NEGATIVE
+31,"Okay, let me try this again.",1.98,B,NEUTRAL
+32,Your order number is 123-45-6789 is that correct?,10.386,B,NEUTRAL
+33,"Yeah, that's right.",1.32,A,NEUTRAL
+34,"Yeah, you got it.",0.904,A,NEUTRAL
+35,"Okay, awesome.",1.192,B,POSITIVE
+36,So sorry about that again.,1.472,B,NEGATIVE
+37,"Okay, now I will pull up your order details.",4.14,B,NEUTRAL
+38,"Okay, great.",0.976,B,POSITIVE
+39,I have found your order.,1.332,B,NEUTRAL
+40,I see here that your item was indeed damaged during shipping.,4.84,B,NEGATIVE
+41,I apologize for this inconvenience.,2.3,B,NEGATIVE
+42,"Unfortunately, due to limited stock availability, I don't think we're able to offer an immediate replacement for your item.",9.664,B,NEGATIVE
+43,"I'll check again right now just to make sure, but I think that might be the case.",6.188,B,NEUTRAL
+44,"Okay, Mark?",0.808,B,NEUTRAL
+45,Yeah.,0.392,B,NEUTRAL
+46,I'm sorry.,0.892,B,NEGATIVE
+47,"The item that was broken, we do not have any left, so we will not be able to offer you an immediate replacement.",8.98,B,NEGATIVE
+48,Are you kidding me?,1.42,A,NEGATIVE
+49,Really?,0.528,A,NEUTRAL
+50,Is this how you guys treat your customers?,2.516,A,NEUTRAL
+51,Is this how you operate your business?,2.22,A,NEUTRAL
+52,You don't have enough stock.,1.94,A,NEGATIVE
+53,That means I have to wait even longer to get a replacement.,2.94,A,NEGATIVE
+54,So then what am I supposed to do then?,2.024,A,NEUTRAL
+55,Do I just keep the damaged item?,2.48,A,NEUTRAL
+56,"Like, what am I gonna do with this torn shoe?",2.884,A,NEGATIVE
+57,Yeah.,0.376,B,NEUTRAL
+58,"I'm so sorry, Mark.",1.168,B,NEGATIVE
+59,This is a terrible situation you're in.,2.612,B,NEGATIVE
+60,"Us at Sunco, we value our customers really a lot.",3.568,B,POSITIVE
+61,"So trust me, we're also just as concerned as you are, and I understand your frustrations.",7.546,B,NEUTRAL
+62,"For right now, I can offer you a refund for your damaged item instead of a replacement.",6.6,B,NEUTRAL
+63,And hopefully we will notify you when the item is back in stock and you'll be guaranteed a new shoe.,9.22,B,POSITIVE
+64,Would you prefer this option instead?,2.18,B,NEUTRAL
+65,"I mean, I guess a refund is better than nothing.",2.912,A,NEUTRAL
+66,"Like, I would like my money back because I did not pay for a damaged item.",4.792,A,NEGATIVE
+67,This is ridiculous.,1.356,A,NEGATIVE
+68,Your company needs to get its act together.,2.32,A,NEGATIVE
+69,I have never had customer service like this before.,4.056,A,NEGATIVE
+70,I have never received a product damaged during shipping like this before.,4.712,A,NEGATIVE
+71,I am honestly so disappointed.,2.98,A,NEGATIVE
+72,"Yeah, I hear you, Mark.",1.472,B,NEUTRAL
+73,I'm so sorry about this.,1.416,B,NEGATIVE
+74,This is extremely unacceptable.,2.016,B,NEGATIVE
+75,"And I will let our higher ups know about your disappointment, and they will act swiftly to correct any future damages.",9.684,B,NEUTRAL
+76,"So, yeah, in the meantime, to mediate the damage, I will process the refund for you right away.",6.1,B,NEUTRAL
+77,"You should see the funds credited back to your original payment method within around, I think, three to five business days.",8.42,B,NEUTRAL
+78,Three to five business days.,1.78,A,NEUTRAL
+79,Um.,0.86,A,NEUTRAL
+80,"Okay, whatever.",1.66,A,NEUTRAL
+81,"Just get it done, I guess.",1.36,A,NEUTRAL
+82,Just.,0.336,A,NEUTRAL
+83,Just give me the refund.,1.452,A,NEGATIVE
+84,"Okay, sounds good.",1.768,B,POSITIVE
+85,"Again, terribly sorry right now.",3.344,B,NEGATIVE
+86,"I will do my best to expedite the process for you, Mark, and, yeah, just.",5.62,B,POSITIVE
+87,"I'm terribly sorry for this inconvenience, and I'll do my best to correct what can be done.",7.548,B,NEUTRAL
+88,"Yeah, whatever.",1.94,A,NEUTRAL
+89,Just make sure it happens.,1.64,A,NEUTRAL
+90,"Like, I would like to get my money back as soon as possible.",3.848,A,NEUTRAL
+91,"Like, I. I'm so fed up with this right now.",3.236,A,NEGATIVE
+92,"Yes, of course, mark.",1.98,B,NEUTRAL
+93,I will do so.,1.22,B,POSITIVE
+94,"If you have any future questions or concerns, please don't hesitate to contact us.",5.7,B,NEUTRAL
+95,"We still value deeply as a customer, and we want to make sure that this is corrected.",7.02,B,POSITIVE
+96,So call us again.,1.6,B,NEUTRAL
+97,Just let us know you talked to Alex a couple days ago and we'll be able to pick up from where we left off.,6.5,B,NEUTRAL
+98,Thank you so much for your patience and sorry about all of this inconvenience.,4.3,B,POSITIVE
+99,"Yeah, whatever.",1.512,A,NEUTRAL
+100,I'm not sure if I'll be purchasing any items from you guys again with the way that I've been treated in this whole.,8.944,A,NEGATIVE
+101,"This whole process has been so, so frustrating.",4.02,A,NEGATIVE
+102,Whatever.,0.816,A,NEUTRAL
+103,Goodbye.,0.932,A,NEUTRAL
+104,"Yeah, sorry again, Mark.",1.648,B,NEGATIVE
+105,Goodbye and take care.,1.456,B,NEUTRAL

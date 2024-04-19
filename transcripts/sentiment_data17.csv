@@ -1,0 +1,42 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,Thank you for calling First Federal bank.,1.686,B,POSITIVE
+2,This is Ethan.,0.712,B,NEUTRAL
+3,How may I assist you today?,1.464,B,NEUTRAL
+4,Hello.,0.472,A,NEUTRAL
+5,I'm calling because I noticed some suspicious activity on my bank statement.,4.408,B,NEGATIVE
+6,"I understand, Miss Garcia.",1.72,B,NEUTRAL
+7,I'm here to help.,0.824,B,POSITIVE
+8,Can you please provide your account information and details about the suspicious activity you noticed?,5.664,B,NEUTRAL
+9,Yeah.,0.496,B,NEUTRAL
+10,My account number is 123-456-7890 there are several charges from online retailers that I don't recognize and a withdrawal from an ATM in a city I haven't visited.,12.46,B,NEGATIVE
+11,Thank you for providing that information.,2.496,B,POSITIVE
+12,I'm reviewing your account activity now.,2.056,B,NEUTRAL
+13,Can you confirm if you've made any recent online purchases or if you've shared your card information with anyone?,5.668,B,NEUTRAL
+14,"No, I haven't made any recent online purchases, and I haven't shared my card information with anyone.",5.936,B,NEUTRAL
+15,I'm very careful about protecting my financial information.,3.612,B,NEUTRAL
+16,"I appreciate you sharing that, Miss Garcia.",2.096,B,POSITIVE
+17,"Give me one moment, please.",1.532,B,NEUTRAL
+18,It appears your card may have been compromised.,2.272,B,NEGATIVE
+19,For your security.,0.792,B,NEUTRAL
+20,I'm going to cancel your current debit card and issue you a new one with a different card number.,4.928,B,NEGATIVE
+21,Okay?,0.504,B,NEUTRAL
+22,Thank you.,0.608,B,POSITIVE
+23,What happens to the fraudulent charges?,2.304,B,NEGATIVE
+24,We will open an investigation into the fraudulent activity and work to reverse the charges on your account.,5.768,B,NEUTRAL
+25,"This process may take a few days, but we will keep you updated on the progress.",3.992,B,NEUTRAL
+26,That's a relief.,0.976,A,POSITIVE
+27,I was worried I would be held responsible for these charges.,3.394,B,NEGATIVE
+28,"We understand, and we want to assure you that you won't be liable for any unauthorized transactions.",5.086,B,NEUTRAL
+29,"In the meantime, we recommend reviewing your credit report and considering placing a fraud alert on your credit file.",6.272,B,NEUTRAL
+30,I'll definitely do that.,1.12,B,POSITIVE
+31,Is there anything else I need to do?,1.952,B,NEUTRAL
+32,"Once you receive your new debit card, please activate it and set a new pin.",3.96,B,NEUTRAL
+33,We also recommend keeping a close eye on your account statements and reporting any suspicious activity immediately.,6.072,B,NEUTRAL
+34,I will.,0.68,A,POSITIVE
+35,"Thank you so much for your help, Ethan.",1.68,B,POSITIVE
+36,I feel much better knowing that you're taking care of this.,2.922,B,POSITIVE
+37,"You're welcome, Miss Garcia.",1.334,B,POSITIVE
+38,It's our priority to ensure your account security and peace of mind.,4.04,B,POSITIVE
+39,"If you have any further questions or concerns, please don't hesitate to call us back.",4.016,B,NEUTRAL
+40,Thank you.,0.48,B,POSITIVE
+41,I will.,0.28,B,POSITIVE

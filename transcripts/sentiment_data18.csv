@@ -1,0 +1,36 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,Thank you for calling Amazon Customer service.,2.086,B,POSITIVE
+2,This is Jessica.,0.888,B,NEUTRAL
+3,How may I assist you today?,1.376,B,NEUTRAL
+4,"Yes, I've recently received the package and the items inside were completely damaged.",4.24,A,NEGATIVE
+5,"I'm so sorry to hear that, Mister Kim.",1.92,B,NEGATIVE
+6,I understand how frustrating that can be.,2.048,B,NEGATIVE
+7,Can you please provide me with your order number and the name of the item that was damaged?,4.32,B,NEUTRAL
+8,The order number is 123-456-7890 it was a glass vase and it just arrived in pieces.,9.284,A,NEUTRAL
+9,"The box looked fine, but the vase itself was shattered.",2.74,A,NEUTRAL
+10,"Thank you for the information, Mister Kim.",1.904,B,POSITIVE
+11,Just give me a second while I'll pull up the information for you.,3.028,B,NEUTRAL
+12,I pull up your order and see that the vase was shipped and sold by a third party seller.,4.256,B,NEUTRAL
+13,"In this case, we need to contact the seller directly to initiate a return or replacement.",4.824,B,NEUTRAL
+14,So I have to deal with the seller myself.,2.568,A,NEGATIVE
+15,I thought Amazon would take care of it.,2.096,A,NEUTRAL
+16,"We can certainly assist you with the process, Mister Kim.",2.96,B,POSITIVE
+17,"I can connect you with the seller directly, or I can initiate a return request on your behalf and communicate with the seller to resolve the issue.",7.628,B,NEUTRAL
+18,I guess you could try contacting the seller first.,3.128,A,NEUTRAL
+19,I just want a replacement vase and I don't want to deal with any hassle.,3.636,A,NEGATIVE
+20,"Absolutely, Mister Kim.",1.408,B,NEUTRAL
+21,I've contacted the seller and requested a replacement for the damage vase.,4.016,B,NEUTRAL
+22,They will be reaching out to you within 24 hours to confirm the replacement and provide you with a tracking number.,5.736,B,NEUTRAL
+23,"Okay, that's good to know.",1.56,A,POSITIVE
+24,What happens if the seller doesn't respond or refuses to send a replacement?,3.916,A,NEGATIVE
+25,"If the seller doesn't respond within 48 hours or refuses to cooperate, we can step in and issue a full refund to your original payment method.",9.6,B,NEGATIVE
+26,You'll be covered by the a to Z guarantee which protects your purchases from third party sellers on Amazon.,6.328,B,POSITIVE
+27,That's good to hear.,1.24,A,POSITIVE
+28,I appreciate you taking care of this for me.,2.288,A,POSITIVE
+29,"You're very welcome, Mister Kim.",1.432,B,POSITIVE
+30,We strive to ensure a positive experience for all of our customers.,4.4,B,POSITIVE
+31,Is there anything else I can assist you with today?,2.6,B,NEUTRAL
+32,"No, I think that's all for now.",1.504,A,NEUTRAL
+33,Thank you again for your help to come.,1.808,A,POSITIVE
+34,"My pleasure, mister Kent.",1.2,B,POSITIVE
+35,We hope you have a great day.,0.952,B,POSITIVE

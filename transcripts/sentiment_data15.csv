@@ -1,0 +1,76 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,Good morning.,0.504,B,POSITIVE
+2,Thank you for contacting techsolve.,2.168,B,POSITIVE
+3,This is Sarah speaking.,1.256,B,NEUTRAL
+4,How may I assist you today?,1.892,B,NEUTRAL
+5,"Hi, Sarah.",0.864,A,NEUTRAL
+6,I'm having a major issue with my computer.,2.304,A,NEGATIVE
+7,"It won't turn on at all, and I have some important work to do.",3.744,A,NEGATIVE
+8,Can you help me figure out what's wrong?,1.844,A,NEUTRAL
+9,"Of course, Michael.",0.984,B,NEUTRAL
+10,"Let's troubleshoot this together first, can you confirm if there's any power going to your computer?",5.808,B,NEUTRAL
+11,Are there any lights or sounds when you try to turn it on?,2.82,B,NEUTRAL
+12,"No, there's nothing happening.",2.016,A,NEUTRAL
+13,"When I press the power button, it's like it's completely dead.",3.292,A,NEGATIVE
+14,"Okay, let's try a few steps to see if we could get it up and running.",3.984,B,NEUTRAL
+15,"First, can you unplug the power cable from the computer and then hold down the power button for about 30 seconds, and then after that, plug the cable back in and try turning it on again?",10.828,B,NEUTRAL
+16,Okay.,0.86,A,NEUTRAL
+17,"I tracked what you suggested, Sarah, but it's still not working.",3.44,A,NEGATIVE
+18,Could it be a problem with the power supply or something more serious?,4.14,A,NEGATIVE
+19,"It's possible, Michael.",1.08,B,POSITIVE
+20,Let's try a different power outlet just to rule out any issues with the one you're using.,4.352,B,NEUTRAL
+21,"Also, check if there are any loose connections between the power cable and the computer.",4.484,B,NEUTRAL
+22,"Nope, that didn't do the trick either.",1.904,A,NEGATIVE
+23,I'm starting to worry that there might be something seriously wrong with my computer.,3.592,A,NEGATIVE
+24,What should I do next?,1.388,A,NEUTRAL
+25,"Since we've tried the basic troubleshooting steps without success, it's likely that there is a hardware issue with your computer.",6.62,B,NEGATIVE
+26,Do you have any warranty coverage or technical support plan with us that might help cover repairs?,6.5,B,NEUTRAL
+27,"Okay, I'm gonna check real quick.",1.94,A,NEUTRAL
+28,I do have a warranty.,1.42,A,NEUTRAL
+29,"Yes, I do have a warranty.",1.36,A,NEUTRAL
+30,What's the process for getting it repaired under warranty?,2.82,A,NEUTRAL
+31,Great.,0.408,B,POSITIVE
+32,I can assist you with that.,1.376,B,NEUTRAL
+33,I'll need to gather some information from you to initiate the warranty repair process.,4.02,B,NEUTRAL
+34,Can you provide me with the serial number of your computer and any other relevant details?,4.94,B,NEUTRAL
+35,"513-498-7213 my laptop's an HP laptop, and I bought it back in 2014.",18.96,A,NEUTRAL
+36,"Thank you, Michael.",0.888,B,POSITIVE
+37,I've initiated the warranty claim for your computer repair.,3.32,B,NEUTRAL
+38,You should receive an email with further instructions on how to proceed within the next 24 hours.,4.808,B,NEUTRAL
+39,"In the meantime, is there anything else that I can assist you with?",3.54,B,NEUTRAL
+40,"Thank you so much, Sarah, but there is another issue.",7.33,A,POSITIVE
+41,I'm not receiving any emails.,2.18,A,NEGATIVE
+42,I'm sorry to hear that.,1.24,B,NEGATIVE
+43,Let's work together to get your email up and running again.,3.784,B,POSITIVE
+44,Could you please provide me with your account details so I can take a look?,3.988,B,NEUTRAL
+45,Yeah.,0.352,A,NEUTRAL
+46,My name is or my email is Michael loves basketball 40 twoahoo.com thanks michael.,12.044,A,POSITIVE
+47,I see your account here.,1.536,B,NEUTRAL
+48,Let me run a quick check to see if there are any server issues on our end that might be causing the problem.,5.132,B,NEGATIVE
+49,It appears that our email servers are running smoothly at the moment.,3.5,B,POSITIVE
+50,"Michael, since the issue seems to be specific to your account, let's troubleshoot further.",4.832,B,NEUTRAL
+51,Have you made any recent changes to your email settings or password?,3.524,B,NEUTRAL
+52,"No, I haven't changed anything recently.",2.24,A,NEUTRAL
+53,It just stopped working out of the blue yesterday.,2.42,A,NEGATIVE
+54,"Alright, let's try resetting your email password first.",3.28,B,NEUTRAL
+55,Sometimes I can resolve connectivity issues.,2.368,B,NEUTRAL
+56,I'll guide you through the process.,1.596,B,NEUTRAL
+57,So first you can you navigate to our website or the email?,5.51,B,NEUTRAL
+58,"Okay, done.",1.216,A,NEUTRAL
+59,And then click the login button and then at the bottom there should be a button that says forgot my password or reset password.,11.212,B,NEGATIVE
+60,And then you could click on that and then type in your email and then let me know when you're ready for the next step.,7.9,B,NEUTRAL
+61,"Okay, I changed my password.",1.86,A,NEUTRAL
+62,"Okay, so the password has been reset and your email settings have been updated.",5.176,B,NEUTRAL
+63,Could you please try sending a test email to see if it goes through?,3.332,B,NEUTRAL
+64,"All right, hold on 1 second.",2.02,A,NEUTRAL
+65,"Oh, it worked.",1.016,B,POSITIVE
+66,I received the test email right away.,1.944,A,NEUTRAL
+67,Thank you so much Sarah.,1.644,A,POSITIVE
+68,You're welcome Emily.,0.88,B,POSITIVE
+69,"I'm glad, I'm glad we could resolve the issue for you.",3.496,B,POSITIVE
+70,Is there anything else I can assist you with today?,2.516,B,NEUTRAL
+71,"No, that's all.",0.836,A,NEUTRAL
+72,Thank you so much.,1.356,A,POSITIVE
+73,Perfect.,0.464,B,POSITIVE
+74,"If you ever need help in the future or have any other questions, don't hesitate to give us a call.",4.24,B,NEUTRAL
+75,Thank you for choosing techsolve and have a wonderful day.,3.064,B,POSITIVE

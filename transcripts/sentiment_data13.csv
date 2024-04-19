@@ -1,0 +1,95 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,Good afternoon.,0.608,B,POSITIVE
+2,Thank you for reaching out to techsolve.,1.52,B,POSITIVE
+3,"This is Sarah speaking, how can I assist you today?",2.7,B,NEUTRAL
+4,"Hi Sarah, I'm having trouble accessing my online account.",4.624,A,NEGATIVE
+5,"Every time I try to log in it says my password is incorrect, but I know I'm entering it correctly.",6.248,A,NEUTRAL
+6,I'm really concerned because I need to access some important documents.,3.46,A,NEGATIVE
+7,"I'm sorry to hear that, Lisa.",1.424,B,NEGATIVE
+8,Let's work together to resolve this issue.,2.04,B,POSITIVE
+9,Can you confirm if you've tried resetting your password using the forgot password option on the login page?,6.844,B,NEUTRAL
+10,"No, I haven't tried that yet.",1.768,A,NEUTRAL
+11,I didn't want to risk getting locked out of my account.,2.356,A,NEGATIVE
+12,"I understand, Lisa.",1.184,B,NEUTRAL
+13,Resetting your password is often the first step in resolving login issues.,3.808,B,NEUTRAL
+14,Let's go ahead and do that.,1.344,B,NEUTRAL
+15,I'll guide you through the process to ensure everything goes smoothly.,3.308,B,POSITIVE
+16,So have you navigated to your email?,2.1,B,NEUTRAL
+17,Yes.,0.82,A,POSITIVE
+18,And then could you navigate to the login?,4.97,B,NEUTRAL
+19,"Okay, just hit that and then on the bottom there should be a forgot password option and if you click that it should send you an email with instructions on how to reset your password.",12.02,B,NEUTRAL
+20,And then have you gotten the password resetting email?,3.74,B,NEUTRAL
+21,"Yes, I just did.",1.272,A,POSITIVE
+22,"Okay, I'll give you some time to reset your password and let me know if it works.",4.744,B,NEUTRAL
+23,It.,0.62,A,NEUTRAL
+24,"Okay, I've reset my password.",1.504,A,NEUTRAL
+25,"Sarah, it looks like the process went through smoothly.",2.776,A,POSITIVE
+26,Let me try logging in with the new password.,2.356,A,NEUTRAL
+27,"Oh no, it's still not working.",1.664,A,NEGATIVE
+28,I'm getting the same error message saying my password is incorrect.,3.388,A,NEGATIVE
+29,"Hmm, that's strange.",1.304,B,NEUTRAL
+30,Let's try a few more troubleshooting steps.,2.288,B,NEUTRAL
+31,Can you confirm if you're typing the new password exactly as it appears in the reset email?,5.328,B,NEUTRAL
+32,Sometimes extra spaces or characters can cause login issues.,3.476,B,NEGATIVE
+33,Hold on 1 second.,1.184,A,NEUTRAL
+34,"Yeah, take your time.",1.588,B,NEUTRAL
+35,"Yes, I'm typing in exactly as it appears in the email.",3.52,A,NEUTRAL
+36,I'm not sure why it's still not working.,2.06,A,NEGATIVE
+37,"Alright, let's try clearing the cache and cookies in your web browser.",3.8,B,NEUTRAL
+38,Sometimes outdated data stored in the browser can interfere with the login process.,4.74,B,NEGATIVE
+39,I'll walk you through the steps to do that.,2.18,B,NEUTRAL
+40,So which web browser are you using?,2.632,B,NEUTRAL
+41,I'm currently on Google Chrome right now.,2.184,A,POSITIVE
+42,So if you go to the top right where there's the three dots and click on that and then if you click on history and then actually click on the settings and then clear your cookies and details and let me know after you've done that.,17.516,B,NEUTRAL
+43,"Alright, just give me 1 second.",1.772,A,NEUTRAL
+44,"Okay, I just did it.",1.7,A,NEUTRAL
+45,"I'm gonna, I'm gonna try to log in again now.",2.816,A,NEUTRAL
+46,"Okay, it worked Sarah, I'm finally able to access my account.",6.78,A,POSITIVE
+47,Thank you so much for your help.,1.576,A,POSITIVE
+48,"You're welcome, Lisa, I'm glad we were able to resolve the issue for you.",3.216,B,POSITIVE
+49,Is there anything else that I can assist you with today?,2.492,B,NEUTRAL
+50,"Yeah, there's just another issue.",2.02,A,NEGATIVE
+51,I've been having issues with my Internet connection for the past few days.,3.824,A,NEGATIVE
+52,"It's been really, really slow and sometimes it just drops out completely.",3.888,A,NEGATIVE
+53,"I work from home, so this is causing a lot of problems for me.",3.42,A,NEGATIVE
+54,"I'm sorry to hear that, Lisa.",1.4,B,NEGATIVE
+55,Let's work together to get to the bottom of this.,2.272,B,NEUTRAL
+56,Can you confirm if the issue is affecting all devices connected to your Wi Fi network or is it isolated to a specific device?,7.524,B,NEUTRAL
+57,"It's affecting every device I have connected to my wifi, my phone, my tv, my laptop, just about everything.",8.38,A,NEGATIVE
+58,"I've tried restarting the router a few times, but it doesn't seem to make a difference.",4.02,A,NEGATIVE
+59,"Okay, let's try a few troubleshooting steps to diagnose the issue.",3.552,B,NEUTRAL
+60,"First, I'll need you to run a speed test on one of your devices to check your Internet connection speed.",4.968,B,NEUTRAL
+61,Can you do that for me?,1.508,B,NEUTRAL
+62,"Yes, I can.",0.968,A,POSITIVE
+63,Just give me one moment.,1.476,A,NEUTRAL
+64,It's showing much lower speeds than what I'm paying for.,2.792,A,NEGATIVE
+65,Could this be an issue with my Internet service provider?,3.204,A,NEGATIVE
+66,It's possible.,0.976,B,POSITIVE
+67,"However, let's try a few more steps to rule out any potential issues on your end.",4.192,B,NEUTRAL
+68,Have you checked if there are any physical obstructions or interference near your router that could be affecting the signal?,5.58,B,NEUTRAL
+69,I'm going to check real quick.,1.7,A,NEUTRAL
+70,"No, everything looks clear around the router.",2.424,A,POSITIVE
+71,It's positioned in an open area away from other electronic devices.,4.188,A,NEUTRAL
+72,"Alright, let's try rebooting your router in a specific sequence to see if that helps.",4.432,B,NEUTRAL
+73,"First, could you unplug the power cable from the router and wait for about 30 seconds?",4.804,B,NEUTRAL
+74,"And then after that, plug it back in and then wait for all the lights to stabilize before testing your connection again.",5.98,B,NEUTRAL
+75,"Okay, I will do just that.",1.94,A,NEUTRAL
+76,"Okay, I've rebooted the router.",1.688,A,NEUTRAL
+77,It seems to be taking longer than usual for the lights to stabilize.,4.248,A,NEGATIVE
+78,That's a good sign.,1.104,B,POSITIVE
+79,Sometimes a full reboot can help reset the router and improve connectivity.,4.048,B,POSITIVE
+80,"Once the lights stabilize, please run another speed test to see if there's any improvement.",4.716,B,NEUTRAL
+81,"Alright, I'm gonna run another speed test.",2.72,A,NEUTRAL
+82,"Oh my God, it's much faster now.",2.104,A,POSITIVE
+83,I can't believe a simple reboot fixed the issue.,2.304,A,NEGATIVE
+84,"Thank you so much for your help, Sarah.",1.88,A,POSITIVE
+85,You're welcome.,0.736,B,POSITIVE
+86,I'm glad we could get it sorted out for you.,1.76,B,POSITIVE
+87,Is there anything else I can assist you with today?,2.872,B,NEUTRAL
+88,"No, that's it.",0.888,A,NEUTRAL
+89,Thank you.,0.408,A,POSITIVE
+90,Thank you.,0.472,A,POSITIVE
+91,"Thank you so, so much.",1.484,A,POSITIVE
+92,Perfect.,0.448,B,POSITIVE
+93,"If you have any other concerns or need assistance in the future, don't hesitate to reach out to us.",4.44,B,NEUTRAL
+94,"Thank you for choosing techsolve, and have a great day.",2.528,B,POSITIVE

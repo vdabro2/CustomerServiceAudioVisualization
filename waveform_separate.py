@@ -94,10 +94,29 @@ for index, row in data.iterrows():
         return underlined_sentence
 
     underlined_sentence = underline_words(sentence, word_list)
-    y = row['Duration']/2
+    y = row['Duration']/2          
+
+    def underline_words(sentence, words):
+        underlined_sentence = sentence
+
+        for word in words:
+            start_index = underlined_sentence.find(word)
+            
+            if start_index != -1:
+                first_char = word[0]  
+                middle_chars = ''.join(['\u0332' + char for char in word[1:-1]])  
+                last_char = '\u0332' + word[-1] if len(word) > 1 else ''  
+                underlined_word = first_char + middle_chars + last_char
+                
+                underlined_sentence = underlined_sentence[:start_index] + underlined_word + underlined_sentence[start_index+len(word):]
+        return underlined_sentence
+
+    underlined_sentence = underline_words(sentence, word_list)
+
     if row['Speaker'] == 'A':
         line, = plt.plot([time/60, time/60], [-y, y], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + underlined_sentence )#label=row['Text'
     else:
+        line, = plt.plot([time/60, time/60], [-y-8, y-8], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + underlined_sentence)#label=row['Text'
         line, = plt.plot([time/60, time/60], [-y-8, y-8], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + underlined_sentence)#label=row['Text'
 
     time += row['Duration']
