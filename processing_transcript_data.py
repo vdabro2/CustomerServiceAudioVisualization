@@ -6,7 +6,7 @@ import requests
 from time import sleep
 import pandas as pd
 
-API_key = "3ca4057d1a084589b804acb1b524f961"
+API_key = "API_key"
 file_number = '22'
 aai.settings.api_key = API_key
 
