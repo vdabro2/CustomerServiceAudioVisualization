@@ -42,7 +42,7 @@ def toggle_help(val):
         fig.canvas.draw_idle()
     else:
         help_annot.xy = ([0,0])
-        text = "This graph shows the average percent customer \nsentiment improvement rate, comparing \nthe difference between a customer's sentiment at the \nbeginning and end of a call. The percent increase \nfor each call's customer sentiment is calculated, and \naveraged with the other calls for the day."
+        text = "This graph shows the average customer sentiment \nimprovement rate for each day, comparing \nthe difference between a customer's sentiment at the \nbeginning and end of a call. The improvement factor \nfor each customer sentiment in a call is calculated, and \naveraged with the other calls for the day."
         help_annot.set_text(text)
         help_annot.get_bbox_patch().set_alpha(1)
 

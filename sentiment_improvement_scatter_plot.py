@@ -29,13 +29,13 @@ plotted_points = []
 for xe, ye in zip(dates, y):
     for each_y in ye:
         if np.mean(each_y) > 50:
-            point = plt.scatter([xe], each_y, color='#2f67b1', s=60)
+            point = plt.scatter([xe], each_y, color='#2f67b1', s=100)
             plotted_points.append(point)
         elif np.mean(each_y) < 0:
-            point = plt.scatter([xe], each_y, color='#bf2b23', s=60)
+            point = plt.scatter([xe], each_y, color='#bf2b23', s=100)
             plotted_points.append(point)
         else:
-            point = plt.scatter([xe], each_y, color='#c3a4cf', s=60)
+            point = plt.scatter([xe], each_y, color='#c3a4cf', s=100)
             plotted_points.append(point)
 
 
@@ -95,7 +95,7 @@ def toggle_help(val):
         fig.canvas.draw_idle()
     else:
         help_annot.xy = ([0,0])
-        text = "This graph shows the change in customer sentiment \nfor each call in a day. \nA blue point indicates a drastic mood increase, a \nred point indicates a drastic mood decrease, and \na purple point indicates some mood increase/decrease."
+        text = "This graph shows the factor in which the customers \nmood changed where each dot represents one customer call. \nA blue point indicates a drastic mood increase, a \nred point indicates a drastic mood decrease, and \na purple point indicates some mood increase/decrease."
         help_annot.set_text(text)
         help_annot.get_bbox_patch().set_alpha(1)
 
