@@ -3,8 +3,31 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from matplotlib.widgets import CheckButtons
 import mplcursors
+import pysentiment2 as ps
 # choose 1 - 9 
 data_to_use = "2"
+def analyze_sentence(sentence, sentiment):
+    # print(sentence)
+    hiv4 = ps.HIV4()
+    words = sentence.split() # split into words
+    sentiment_words = []
+    for word in words:
+        tokens = hiv4.tokenize(word)
+        word_scores = hiv4.get_score(tokens)
+        # print("sentence : ", sentence, " tokens : ", tokens, " word scores : ", word_scores)
+        if sentiment == 'POSITIVE' and word_scores['Polarity'] > 0: # polarity to detect negative and positive sentiments
+            sentiment_words.append(word)
+        elif sentiment == 'NEGATIVE' and word_scores['Polarity'] < 0:
+            sentiment_words.append(word)
+    # print(sentiment_words)
+    return sentiment_words
+# example I came up with
+# sentence = "Hi, thank you for calling home supplies."
+# positive_words = analyze_sentence(sentence, 'POSITIVE')
+# negative_words = analyze_sentence(sentence, 'NEGATIVE')
+# print("Positive words:", positive_words)
+# print("Negative words:", negative_words)
+
 def seconds_to_timestamp(seconds):
     minutes = seconds // 60
     remaining_seconds = seconds % 60
@@ -54,11 +77,28 @@ for index, row in data.iterrows():
         else:
             col = col + 1
     #line, = plt.plot([time/60, time/60], [-row['Duration']/2, row['Duration']/2], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=max(1.5,3*(row['Duration']/(max(data['Duration'])))), label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
+    word_list = analyze_sentence(sentence, row['Sentiment'])
+    def underline_words(sentence, words):
+        underlined_sentence = sentence
+
+        for word in words:
+            start_index = underlined_sentence.find(word)
+            
+            if start_index != -1:
+                first_char = word[0]  
+                middle_chars = ''.join(['\u0332' + char for char in word[1:-1]])  
+                last_char = '\u0332' + word[-1] if len(word) > 1 else ''  
+                underlined_word = first_char + middle_chars + last_char
+                
+                underlined_sentence = underlined_sentence[:start_index] + underlined_word + underlined_sentence[start_index+len(word):]
+        return underlined_sentence
+
+    underlined_sentence = underline_words(sentence, word_list)
     y = row['Duration']/2
     if row['Speaker'] == 'A':
-        line, = plt.plot([time/60, time/60], [-y, y], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence )#label=row['Text'
+        line, = plt.plot([time/60, time/60], [-y, y], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + underlined_sentence )#label=row['Text'
     else:
-        line, = plt.plot([time/60, time/60], [-y-8, y-8], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
+        line, = plt.plot([time/60, time/60], [-y-8, y-8], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=3, label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + underlined_sentence)#label=row['Text'
 
     time += row['Duration']
     if row['Speaker'] == 'A':
