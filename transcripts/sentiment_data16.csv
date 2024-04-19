@@ -1,0 +1,53 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,Thank you for calling TechConnect.,1.446,B,POSITIVE
+2,This is Sarah.,0.808,B,NEUTRAL
+3,How can I assist you today?,1.536,B,NEUTRAL
+4,Hi.,0.504,A,NEUTRAL
+5,I'm having issues with my Internet.,1.688,A,NEGATIVE
+6,It keeps cutting out and it's incredibly slow.,2.368,A,NEGATIVE
+7,I understand how frustrating that can be.,1.92,B,NEGATIVE
+8,"David, I'm here to help.",1.504,B,POSITIVE
+9,Can you tell me more about the issue?,1.816,B,NEUTRAL
+10,How long has this been happening?,1.736,B,NEUTRAL
+11,"It started a couple days ago, but today has been really bad.",3.376,A,NEGATIVE
+12,I can barely load a webpage and my video calls keep dropping.,3.236,A,NEGATIVE
+13,"Okay, have you tried any troubleshooting steps, such as restarting your modem or router?",6.008,B,NEUTRAL
+14,"Yeah, I've done that times and I've also checked the cables.",3.464,A,NEUTRAL
+15,Nothing seems to work.,1.316,A,NEGATIVE
+16,I see.,0.9,B,NEUTRAL
+17,"To assist you further, could you please provide your serial number of your modem?",4.736,B,NEUTRAL
+18,It's usually located on a sticker at the bottom of the device.,3.568,B,NEUTRAL
+19,"Yeah, give me 1 second.",1.492,A,NEUTRAL
+20,The serial number is D 1079 982-214-5167 thank you.,11.448,A,POSITIVE
+21,"David, I'm running a quick diagnostic on your connection.",3.756,B,NEUTRAL
+22,Okay.,0.44,B,NEUTRAL
+23,It seems like there might be an issue with the signal strength in your area.,3.784,B,NEGATIVE
+24,Have you moved your modem or router recently?,2.268,B,NEUTRAL
+25,No.,0.528,A,NEUTRAL
+26,Everything is in the same place that it's always been.,2.6,A,NEUTRAL
+27,I understand.,0.828,B,NEUTRAL
+28,Sometimes external factors can affect the signal.,2.88,B,NEUTRAL
+29,Has there been any construction or changes in your neighborhood recently?,3.7,B,NEUTRAL
+30,"Now that you mention it, they have been doing some road work down the street for the past week.",4.32,A,NEUTRAL
+31,Could that be the cause of the problem?,1.62,A,NEGATIVE
+32,It's possible the construction might be interfering with the underground cables.,5.2,B,NEUTRAL
+33,I can send a technician to investigate and see if there's anything that we can do to improve your signal.,5.682,B,NEUTRAL
+34,That would be great.,0.71,A,POSITIVE
+35,How soon could someone come out?,1.768,A,NEUTRAL
+36,I can schedule a technician visit for tomorrow afternoon.,3.856,B,NEUTRAL
+37,Would that work for you?,1.112,B,NEUTRAL
+38,"Yes, that would be perfect.",1.628,A,POSITIVE
+39,Excellent.,0.68,B,POSITIVE
+40,I've scheduled the appointment and sent a confirmation email to your account's email address.,5.368,B,NEUTRAL
+41,The technician will contact you about 30 minutes before their arrival.,4.712,B,NEUTRAL
+42,"Thank you so much, Sarah.",1.256,A,POSITIVE
+43,I really appreciate your help.,1.432,A,POSITIVE
+44,"You're welcome, David.",0.952,B,POSITIVE
+45,Is there anything else I can assist you with today?,2.674,B,NEUTRAL
+46,"No, I think that's it.",1.318,A,NEUTRAL
+47,Thanks again for your time and assistance.,1.904,A,POSITIVE
+48,My pleasure.,0.672,B,POSITIVE
+49,We look forward to resolving this issue for you.,2.176,B,POSITIVE
+50,Have a good day.,0.84,B,POSITIVE
+51,You too.,0.74,A,NEUTRAL
+52,Bye.,0.28,A,NEUTRAL

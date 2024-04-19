@@ -1,0 +1,76 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,Thank you for calling textConnect.,1.582,B,POSITIVE
+2,"This is Sarah, how can I assist you today?",2.436,B,NEUTRAL
+3,"Hi, I'm having issues with my Internet, it keeps cutting out and it's incredibly slow.",6.18,A,NEGATIVE
+4,"I understand how frustrating that can be, david, I'm here to help.",3.832,B,NEUTRAL
+5,Can you tell me more about the issue?,1.904,B,NEUTRAL
+6,How long has this been happening?,1.86,B,NEUTRAL
+7,"It started a couple days ago, but today it's been really bad.",4.184,A,NEGATIVE
+8,I can barely load a webpage and my video calls keep dropping.,4.078,A,NEGATIVE
+9,"Okay, have you tried any troubleshooting steps such as restarting your modem and router?",6.46,B,NEUTRAL
+10,"Yes, I've done that multiple times and I've checked all the cables but nothing seems to work.",6.3,A,NEGATIVE
+11,I see.,0.848,B,NEUTRAL
+12,"And when the Internet cuts out, does it affect all your devices or just one in particular?",4.796,B,NEUTRAL
+13,It seems to be all of them.,1.472,A,NEUTRAL
+14,"My laptop, my phone and even my smart tv, they're all having issues.",5.244,A,NEGATIVE
+15,Thank you.,0.624,B,POSITIVE
+16,And are you connected to the 2.4 GHz or 5 GHz network on your Wifi?,5.708,B,NEUTRAL
+17,"I'm not, I'm not sure how can I check that on your device?",6.944,A,NEUTRAL
+18,"Go to the Wi Fi settings and look for the network name, it might have a 2g or five g at the end of it.",7.068,B,NEUTRAL
+19,"Okay, it says my network underscore 5g, so I guess the 5.",9.26,A,NEUTRAL
+20,Thanks for confirming.,1.256,B,POSITIVE
+21,Sometimes the 5 GHz network can have trouble penetrating walls and floors.,4.176,B,NEGATIVE
+22,Can you try connecting to the 2.4 GHz network and see if the issue persists?,5.228,B,NEUTRAL
+23,"Okay, give me 1 minute.",1.74,A,NEUTRAL
+24,"All right, I'm connected to the 2.4 GHz network now.",4.5,A,NEUTRAL
+25,Great.,0.528,B,POSITIVE
+26,Please monitor it for a few minutes and let me know if the connection improves.,4.196,B,NEUTRAL
+27,It still seems to be cutting out.,2.712,A,NEGATIVE
+28,"Not as frequently, but it's definitely still happening.",3.404,A,NEUTRAL
+29,"Okay, thank you for testing that.",2.3,B,POSITIVE
+30,Let's try another step.,1.624,B,NEUTRAL
+31,Do you have many other devices connected to your Wi Fi network?,4.588,B,NEUTRAL
+32,Let me check.,1.06,A,NEUTRAL
+33,It looks like there's about ten devices connected.,3.54,A,NEUTRAL
+34,"Oh, okay.",1.5,B,NEUTRAL
+35,Sometimes having too many devices connected can shine the network.,3.872,B,NEUTRAL
+36,Can you try disconnecting some devices that you're not currently using and see if that helps?,4.684,B,NEUTRAL
+37,"Sure, I've disconnected a few phones and tablets that weren't being used.",4.42,A,NEGATIVE
+38,"Okay, please monitor the connection for a few more minutes and let me know if you see any improvement.",5.34,B,NEUTRAL
+39,Okay.,0.9,B,NEUTRAL
+40,"It's still cutting out, unfortunately it might be a little better, but not much.",6.38,A,NEGATIVE
+41,"Okay, thank you for your patience David.",3.088,B,POSITIVE
+42,"To assist you further, could you please provide the serial number of your modem is usually located on a sticker at the bottom of the device.",8.166,B,NEUTRAL
+43,"Yeah, give me 1 second.",1.7,A,NEUTRAL
+44,"Okay, so the serial number is 123-456-7890 thank you, David.",9.416,A,POSITIVE
+45,I'm running a quick diagnostic on your connection.,2.692,B,NEUTRAL
+46,It seems like there might be an issue with the signal strength in your area.,4.224,B,NEGATIVE
+47,Have you moved your modem or router recently?,2.308,B,NEUTRAL
+48,No.,0.432,A,NEUTRAL
+49,Everything is in the same place.,1.416,A,NEUTRAL
+50,It's always been there.,1.804,A,NEUTRAL
+51,"Okay, I think I get it.",2.616,B,NEUTRAL
+52,Sometimes external factors can affect the signal.,3.144,B,NEUTRAL
+53,Has there been any construction or changes in your neighborhood recently?,3.524,B,NEUTRAL
+54,"Now that you mention it, they have been doing some road work down the street for the past few weeks.",6.18,A,NEUTRAL
+55,But could that be causing the problem?,3.86,A,NEGATIVE
+56,It's possible the construction might be interfering with the underground cables.,5.04,B,NEUTRAL
+57,I can send a technician to investigate and see if there's anything we can do to improve your signal.,5.66,B,NEUTRAL
+58,That would be great.,1.08,A,POSITIVE
+59,How soon can someone come out?,1.9,A,NEUTRAL
+60,I can schedule a technician visit for tomorrow afternoon.,3.528,B,NEUTRAL
+61,Would that work for you?,1.316,B,NEUTRAL
+62,"Yes, that's perfect.",1.38,A,POSITIVE
+63,Excellent.,0.824,B,POSITIVE
+64,I've scheduled the appointment and sent a confirmation email to your account's email address.,4.904,B,NEUTRAL
+65,The technician will contact you about 30 minutes before their arrival.,3.932,B,NEUTRAL
+66,"Thank you so much, Sarah.",1.44,A,POSITIVE
+67,I really appreciate your help.,1.66,A,POSITIVE
+68,"You're welcome, David.",1.28,B,POSITIVE
+69,Is there anything else I can assist you with today?,2.7,B,NEUTRAL
+70,"No, I think that's it.",1.352,A,NEUTRAL
+71,Thanks again for your time and assistance.,2.244,A,POSITIVE
+72,My pleasure.,0.872,B,POSITIVE
+73,We look forward to resolving this issue for you.,2.448,B,POSITIVE
+74,Have a great day.,1.168,B,POSITIVE
+75,You too.,0.36,A,NEUTRAL

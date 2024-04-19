@@ -1,0 +1,79 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,Thank you for calling Amazon Customer service.,2.454,B,POSITIVE
+2,This is Jessica.,1.208,B,NEUTRAL
+3,How may I assist you today?,1.756,B,NEUTRAL
+4,"Yes, I recently received a package and the item inside was completely damaged.",5.34,A,NEGATIVE
+5,"I'm so sorry to hear that, Mister Kim.",2.0,B,NEGATIVE
+6,I understand.,0.64,B,NEUTRAL
+7,How frustrating can that be?,1.968,B,NEGATIVE
+8,Can you please provide me your order number and the name of the item that was damaged?,5.476,B,NEUTRAL
+9,The order number is 123-456-7890 it was a glass vase and it arrived in pieces.,9.2,A,NEUTRAL
+10,"The box looked fine, but the vase itself was shattered.",3.82,A,NEUTRAL
+11,"Thank you for the information, Mister Kim.",2.592,B,POSITIVE
+12,Just give me a second while I pull the information for you.,3.764,B,NEUTRAL
+13,I've pulled up your order and see that the vase was shipped and sold by a third party seller.,7.3,B,NEUTRAL
+14,I also see that you chose the gift wrapping option for this order.,3.912,B,NEUTRAL
+15,Is that correct?,1.084,B,NEUTRAL
+16,Yes.,0.536,A,POSITIVE
+17,It was a gift for my wife's birthday.,2.532,A,POSITIVE
+18,I understand.,1.004,B,NEUTRAL
+19,"In cases with third party sellers, we typically need to contact the seller directly to initiate a return or replacement.",8.004,B,NEUTRAL
+20,"However, since it was a gift and the packaging wasn't damaged, it might be quicker and easier to process a return and refund directly through Amazon.",9.128,B,POSITIVE
+21,Would you prefer that option?,1.732,B,NEUTRAL
+22,"This sounds good, but I actually wanted to give the vase to my wife as soon as possible.",5.86,A,POSITIVE
+23,Is there any way to expedite the replacement process?,3.3,A,NEUTRAL
+24,Certainly.,0.912,B,NEUTRAL
+25,Let me see what I can do.,1.724,B,NEUTRAL
+26,It looks like the seller has another base in stock and offers expedited shipping.,6.464,B,POSITIVE
+27,I can reach out to them right now and request that they send a replacement with expedited shipping.,6.388,B,NEUTRAL
+28,Would you like me to proceed with that?,2.42,B,NEUTRAL
+29,Sounds good.,0.688,A,POSITIVE
+30,"Yes, please.",0.616,A,POSITIVE
+31,That would be fantastic.,1.662,A,POSITIVE
+32,Absolutely.,0.818,B,NEUTRAL
+33,Mr. Kim.,0.908,A,NEUTRAL
+34,"Unfortunately, I just spoke with the seller and it seems they just sold their last base.",5.144,B,NEGATIVE
+35,I'm so sorry for the bad news.,2.188,B,NEGATIVE
+36,Oh no.,0.584,A,NEGATIVE
+37,That's so disappointing.,1.628,A,NEGATIVE
+38,I understand.,0.712,B,NEUTRAL
+39,"Mister Kim, let me explore some other options for you.",3.724,B,NEUTRAL
+40,I found a few similar vases from other sellers that can be delivered within the next two days.,5.912,B,POSITIVE
+41,Would you like me to send you the link so you can choose one?,3.2,B,NEUTRAL
+42,"Yes, please.",1.052,A,POSITIVE
+43,I can do that for you right now.,1.86,B,POSITIVE
+44,"Thank you so much, Jessica.",1.624,A,POSITIVE
+45,I really appreciate you going the extra mile to help me with this.,3.908,A,POSITIVE
+46,"It's my pleasure, Mister Kim.",1.864,B,POSITIVE
+47,Oh wait.,0.868,A,NEUTRAL
+48,I just received an update on your order.,2.056,B,NEUTRAL
+49,"Unfortunately, the seller encountered an issue with the inventory system, and it appears that the vase you selected is also out of stock.",9.08,B,NEGATIVE
+50,I'm terribly sorry for this news.,2.516,B,NEGATIVE
+51,Oh no.,0.94,A,NEGATIVE
+52,This is so unbelievable.,1.832,A,NEGATIVE
+53,My wife's birthday is tomorrow and I really wanted to give her something special.,5.044,A,POSITIVE
+54,I know.,0.664,A,NEUTRAL
+55,I'm truly sorry for the inconvenience and stress.,2.976,B,NEGATIVE
+56,Disgusting.,1.156,B,NEGATIVE
+57,Let me see if there's anything else we can do.,2.94,B,NEUTRAL
+58,Would your wife be interested in a different type of gift?,3.536,B,NEUTRAL
+59,Perhaps we can find something else that can be delivered tomorrow with one day shipping.,5.452,B,NEUTRAL
+60,She does like jewelry.,2.18,A,POSITIVE
+61,Excellent.,0.744,B,POSITIVE
+62,We have a wide selection of jewelry available with one day shipping.,4.194,B,POSITIVE
+63,Would you like me to send you a few curated.,2.612,B,NEUTRAL
+64,Curated lists based on your wife's preference?,3.06,B,NEUTRAL
+65,"Yeah, that would be great.",1.776,A,POSITIVE
+66,"Jessica, you are such a lifesaver.",2.376,A,POSITIVE
+67,Thank you so much for thinking outside the box and helping me find the perfect gift.,4.308,A,POSITIVE
+68,"You're very welcome, Mister Kim.",1.72,B,POSITIVE
+69,I'm so glad we could find a solution.,2.184,B,POSITIVE
+70,I'll personally track the shipment to ensure arrives on time and keep you updated.,5.764,B,NEUTRAL
+71,"And as an apology for all the trouble, I'd like to include a gift card with your order.",5.892,B,NEUTRAL
+72,"That's incredibly kind of you, Jessica.",2.648,A,POSITIVE
+73,Thank you again for everything.,1.888,A,POSITIVE
+74,You've turned a potentially dish assassin situation into a happy ending.,5.964,A,NEUTRAL
+75,"It's my pleasure, Mister Kim.",1.776,B,POSITIVE
+76,We want to ensure all of the customers have a positive experience with Amazon.,5.292,B,POSITIVE
+77,And I'm so glad we could make things right.,2.112,B,POSITIVE
+78,I hope your wife has a wonderful birthday.,2.344,B,POSITIVE

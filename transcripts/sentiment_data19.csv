@@ -1,0 +1,76 @@
+SentenceID,Text,Duration,Speaker,Sentiment
+1,Thank you for calling First Federal bank.,2.654,B,POSITIVE
+2,This is Ethan.,1.064,B,NEUTRAL
+3,How may I assist you today?,2.508,B,NEUTRAL
+4,Hello.,0.784,A,NEUTRAL
+5,I'm calling because I noticed some suspicious activity on my bank statement.,4.588,A,NEGATIVE
+6,"I understand, Miss Garcia.",2.0,B,NEUTRAL
+7,I'm here to help.,1.208,B,POSITIVE
+8,Can you please provide your account information and details about the suspicious activity you noticed?,6.476,B,NEUTRAL
+9,Yeah.,0.82,A,NEUTRAL
+10,My account number is 123-456-7890 there are several charges from online retailers that I don't recognize and a withdrawal from an ATM in a city I haven't visited.,15.98,A,NEGATIVE
+11,Thank you for providing that information.,2.54,B,POSITIVE
+12,I'm reviewing your account activity now.,2.562,B,NEUTRAL
+13,Can you tell me the approximate dates and amounts of the suspicious charges?,4.794,B,NEUTRAL
+14,Let's see.,1.02,A,NEUTRAL
+15,"There are three charges from a website called Shopmore on the first, fifth, and 8th of this month, each for around $50.",8.42,A,NEUTRAL
+16,"And the ATM withdrawal was for $200 on the 7th, supposedly in Los Angeles.",6.98,A,NEUTRAL
+17,"Thank you, Miss Garcia, can you confirm if you've made any recent online purchases or if you've shared your card information with anyone?",9.3,B,NEUTRAL
+18,"No, I haven't made any recent online purchases, and I haven't shared my card information with anyone.",6.384,A,NEUTRAL
+19,I'm very careful about protecting my financial information.,3.268,A,NEUTRAL
+20,"The only other person who might have access is my son, but he would never do something like this.",5.72,A,NEGATIVE
+21,I appreciate.,1.1,B,POSITIVE
+22,I appreciate you sharing that.,2.42,B,POSITIVE
+23,"Miss Garcia, to help us with our investigation, could you tell me a little bit more about where you typically use your card and if you noticed anything unusual with your card or any payment terminals recently?",14.74,B,NEUTRAL
+24,"Well, I mostly use my card at the grocery store and gas station.",5.064,A,NEUTRAL
+25,"I did use it online a couple months ago on a website that seemed legitimate, but now that I think about it, I don't remember seeing any security logos or anything like that.",10.068,A,NEUTRAL
+26,Thank you.,0.736,B,POSITIVE
+27,That's helpful information.,1.692,B,POSITIVE
+28,"Sometimes fraudulent websites can steal card information, so that could be a possibility.",6.7,B,NEGATIVE
+29,We'll definitely look into that.,2.14,B,NEUTRAL
+30,"As a precaution, I'm going to go ahead and cancel your current debit card and issue you a new one with a different card number.",7.864,B,NEUTRAL
+31,We will also need to deactivate your current online banking login and set you up with a new one.,6.104,B,NEUTRAL
+32,So once you receive your new card.,2.722,B,NEUTRAL
+33,"Oh, okay.",1.024,A,NEUTRAL
+34,Thank you.,0.704,A,POSITIVE
+35,What happens to the fraudulent charges?,2.492,A,NEGATIVE
+36,We will open an investigation into the fraudulent activity and work to reverse the charges on your account.,6.976,B,NEUTRAL
+37,"This process may take a few days, but we'll keep you updated on the progress.",4.312,B,NEUTRAL
+38,We may also need to contact you for additional information as we investigate.,4.74,B,NEUTRAL
+39,That's a relief.,1.008,A,POSITIVE
+40,I was worried I would be held responsible for these charges.,3.396,A,NEGATIVE
+41,"We understand, and we want to assure you that you won't be liable for any unauthorized transactions.",6.416,B,NEUTRAL
+42,"In the meantime, we recommend reviewing your credit card report and considering placing a fraud alert on your credit file.",7.984,B,NEUTRAL
+43,This can help prevent anyone from opening new accounts in your name.,3.912,B,NEUTRAL
+44,We can provide you with information on how to do that if you like.,3.956,B,NEUTRAL
+45,That would be very helpful.,1.86,A,POSITIVE
+46,Is there anything else I should be looking for?,2.7,A,NEUTRAL
+47,It's a good idea to monitor your other financial accounts for any unusual activity just to be safe.,6.856,B,POSITIVE
+48,"And be cautious of any unsolicited phone calls or emails asking for your personal information, even if they claim to be from the bank.",9.398,B,NEUTRAL
+49,We will never ask you for your PIN or online banking password over the phone or email.,6.332,B,NEUTRAL
+50,I'll definitely keep that in mind.,2.1,A,POSITIVE
+51,"Once you receive your new debit card, please activate it and set a new PIN.",5.504,B,NEUTRAL
+52,We also recommend keeping a close eye on your account statements and reporting any suspicious activity immediately.,6.988,B,NEUTRAL
+53,"We can also discuss additional security measures you can take to protect your account, such as setting up account alerts for any transactions over a certain amount.",11.7,B,NEUTRAL
+54,This one is very helpful.,1.48,A,POSITIVE
+55,Can we set those up now or do I need to wait for the new card?,3.58,A,NEUTRAL
+56,We can definitely set up account alerts for you right now.,3.78,B,POSITIVE
+57,"Would you like to receive them via email, text messages, or both?",4.5,B,NEUTRAL
+58,Text messages would be great.,1.98,A,POSITIVE
+59,Sounds good.,0.776,B,POSITIVE
+60,We'll get that set up for you now.,2.012,B,NEUTRAL
+61,Okay.,0.544,B,NEUTRAL
+62,Everything should be good to go.,1.788,B,POSITIVE
+63,"Thank you so much for your help, Ethan.",1.88,A,POSITIVE
+64,I feel much better knowing you're taking care of this.,2.74,A,POSITIVE
+65,"You're welcome, Miss Garcia.",1.616,B,POSITIVE
+66,It's our priority.,1.462,B,NEUTRAL
+67,It's our priority to ensure your account is security and peace of mind.,4.722,B,POSITIVE
+68,"If you have any further questions or concerns, please don't hesitate to call us back.",4.64,B,NEUTRAL
+69,We also have dedicated fraud department that you can speak with.,3.624,B,NEUTRAL
+70,"If you have any additional questions about the investigation, I can provide you with their contact information as well.",6.524,B,NEUTRAL
+71,That would be great.,0.848,A,POSITIVE
+72,Thank you.,0.876,A,POSITIVE
+73,Thank you for calling First Federal bank.,2.088,B,POSITIVE
+74,Have a great day.,1.424,B,POSITIVE
+75,You too.,0.336,A,NEUTRAL
