@@ -10,7 +10,7 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 # only run the following if first time running
 # nltk.download('all')
 
-# choose 1 - 9 
+# choose 1 - 21 
 data_to_use = "2"
 def seconds_to_timestamp(seconds):
     minutes = seconds // 60
