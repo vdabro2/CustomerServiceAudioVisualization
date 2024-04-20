@@ -6,7 +6,7 @@ import mplcursors
 import pysentiment2 as ps
 
 def analyze_sentence(sentence, sentiment):
-    # print(sentence)
+    print(sentence)
     hiv4 = ps.HIV4()
     words = sentence.split() # split into words
     sentiment_words = []
@@ -18,7 +18,7 @@ def analyze_sentence(sentence, sentiment):
             sentiment_words.append(word)
         elif sentiment == 'NEGATIVE' and word_scores['Polarity'] < 0:
             sentiment_words.append(word)
-    # print(sentiment_words)
+    print(sentiment_words)
     return sentiment_words
 
 # choose 1 - 21
@@ -74,7 +74,11 @@ for index, row in data.iterrows():
     #line, = plt.plot([time/60, time/60], [-row['Duration']/2, row['Duration']/2], color=color_mapping.get(row['Sentiment'], 'black'), linewidth=max(1.5,3*(row['Duration']/(max(data['Duration'])))), label= person + "\nSentiment: " +row['Sentiment']+ "\nTimestamp: " + str(float_to_timestamp(round(time/60, 2))) + "\n" + "Duration: " + str(seconds_to_timestamp(round(row['Duration'],2))) + "\n" + sentence)#label=row['Text'
     y = row['Duration']/2
    # if row['Speaker'] == 'A':
-    word_list = analyze_sentence(sentence, row['Sentiment'])
+    if row['Sentiment'] != 'NEUTRAL':
+        word_list = analyze_sentence(sentence, row['Sentiment'])
+    else: 
+        word_list = []
+    #word_list = analyze_sentence(sentence, row['Sentiment'])
     # print("this is word_list : ", word_list)
     def underline_words(sentence, words):
             underlined_sentence = sentence
