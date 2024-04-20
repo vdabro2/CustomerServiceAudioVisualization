@@ -21,8 +21,8 @@ def analyze_sentence(sentence, sentiment):
     # print(sentiment_words)
     return sentiment_words
 
-# choose 1 - 9 
-data_to_use = "2"
+# choose 1 - 21
+data_to_use = "1"
 def seconds_to_timestamp(seconds):
     minutes = seconds // 60
     remaining_seconds = seconds % 60

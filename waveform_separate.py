@@ -4,8 +4,8 @@ import matplotlib.patches as mpatches
 from matplotlib.widgets import CheckButtons
 import mplcursors
 import pysentiment2 as ps
-# choose 1 - 9 
-data_to_use = "2"
+# choose 1 - 21
+data_to_use = "1"
 def analyze_sentence(sentence, sentiment):
     # print(sentence)
     hiv4 = ps.HIV4()
