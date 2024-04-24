@@ -4,7 +4,8 @@ import matplotlib.patches as mpatches
 from matplotlib.widgets import CheckButtons
 import mplcursors
 import pysentiment2 as ps
-
+# choose 1 - 21
+data_to_use = "2"
 def analyze_sentence(sentence, sentiment):
     print(sentence)
     hiv4 = ps.HIV4()
@@ -21,8 +22,7 @@ def analyze_sentence(sentence, sentiment):
     print(sentiment_words)
     return sentiment_words
 
-# choose 1 - 21
-data_to_use = "1"
+
 def seconds_to_timestamp(seconds):
     minutes = seconds // 60
     remaining_seconds = seconds % 60
