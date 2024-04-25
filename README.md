@@ -7,6 +7,6 @@
 - Run the ```sentiment_improvement_scatter_plot.py``` file to create the Customer Sentiment Improvement per Day scatter plot
 
 ## For running the waveforms
-- On line 8 of either ```waveform_separate.py``` and ```waveform_original.py```, change the number in the ```data_to_use``` variable to see the waveform for that conversation number. Choose 1-21.
+- On line 8 of either ```waveform_separate.py``` and ```waveform_original.py```, change the number in the ```data_to_use``` variable to see the waveform for that conversation number. Choose 1-21. Depending on the size of the file this can take a couple of minutes. 
 
 Enjoy!
